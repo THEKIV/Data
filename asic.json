@@ -1,0 +1,2192 @@
+{
+    "z15pro": {
+        "device": {
+            "name": "Bitmain Antminer Z15 Pro",
+            "brand": "Bitmain"
+        },
+        "profit": {
+            "coin": "ZEC",
+            "logo": "608",
+            "revenueUSD": 10.37744156810508,
+            "profitUSD": 7.197441568105081
+        },
+        "profit24": {
+            "coin": "ZEC",
+            "logo": "608",
+            "revenueUSD24": 9.170542563601439,
+            "profitUSD24": 5.990542563601439
+        },
+        "revenue": {
+            "coin": "ZEC",
+            "logo": "608",
+            "revenueUSD": 10.37744156810508,
+            "profitUSD": 7.197441568105081
+        },
+        "revenue24": {
+            "coin": "ZEC",
+            "logo": "608",
+            "revenueUSD24": 9.170542563601439,
+            "profitUSD24": 5.990542563601439
+        }
+    },
+    "z15": {
+        "device": {
+            "name": "Bitmain Antminer Z15",
+            "brand": "Bitmain"
+        },
+        "profit": {
+            "coin": "ZEC",
+            "logo": "608",
+            "revenueUSD": 5.18872078405254,
+            "profitUSD": 3.37672078405254
+        },
+        "profit24": {
+            "coin": "ZEC",
+            "logo": "608",
+            "revenueUSD24": 4.585271281800719,
+            "profitUSD24": 2.773271281800719
+        },
+        "revenue": {
+            "coin": "ZEC",
+            "logo": "608",
+            "revenueUSD": 5.18872078405254,
+            "profitUSD": 3.37672078405254
+        },
+        "revenue24": {
+            "coin": "ZEC",
+            "logo": "608",
+            "revenueUSD24": 4.585271281800719,
+            "profitUSD24": 2.773271281800719
+        }
+    },
+    "z11": {
+        "device": {
+            "name": "Bitmain Antminer Z11",
+            "brand": "Bitmain"
+        },
+        "profit": {
+            "coin": "ZEC",
+            "logo": "608",
+            "revenueUSD": 1.667803109159745,
+            "profitUSD": -0.033796890840255056
+        },
+        "profit24": {
+            "coin": "ZEC",
+            "logo": "608",
+            "revenueUSD24": 1.47383719772166,
+            "profitUSD24": -0.22776280227834
+        },
+        "revenue": {
+            "coin": "ZEC",
+            "logo": "608",
+            "revenueUSD": 1.667803109159745,
+            "profitUSD": -0.033796890840255056
+        },
+        "revenue24": {
+            "coin": "ZEC",
+            "logo": "608",
+            "revenueUSD24": 1.47383719772166,
+            "profitUSD24": -0.22776280227834
+        }
+    },
+    "x5": {
+        "device": {
+            "name": "Bitmain Antminer X5",
+            "brand": "Bitmain"
+        },
+        "profit": {
+            "coin": "XMR",
+            "logo": "326",
+            "revenueUSD": 6.821107451673648,
+            "profitUSD": 5.201107451673648
+        },
+        "profit24": {
+            "coin": "XMR",
+            "logo": "326",
+            "revenueUSD24": 6.562064737817092,
+            "profitUSD24": 4.942064737817092
+        },
+        "revenue": {
+            "coin": "XMR",
+            "logo": "326",
+            "revenueUSD": 6.821107451673648,
+            "profitUSD": 5.201107451673648
+        },
+        "revenue24": {
+            "coin": "XMR",
+            "logo": "326",
+            "revenueUSD24": 6.562064737817092,
+            "profitUSD24": 4.942064737817092
+        }
+    },
+    "x4z": {
+        "device": {
+            "name": "Jasminer X4-Z",
+            "brand": "Jasminer"
+        },
+        "profit": {
+            "coin": "OCTA",
+            "logo": "355",
+            "revenueUSD": 1.684581841892376,
+            "profitUSD": 1.432581841892376
+        },
+        "profit24": {
+            "coin": "OCTA",
+            "logo": "355",
+            "revenueUSD24": 1.61189817132981,
+            "profitUSD24": 1.35989817132981
+        },
+        "revenue": {
+            "coin": "OCTA",
+            "logo": "355",
+            "revenueUSD": 1.684581841892376,
+            "profitUSD": 1.432581841892376
+        },
+        "revenue24": {
+            "coin": "OCTA",
+            "logo": "355",
+            "revenueUSD24": 1.61189817132981,
+            "profitUSD24": 1.35989817132981
+        }
+    },
+    "x4qz": {
+        "device": {
+            "name": "Jasminer X4-Q-Z",
+            "brand": "Jasminer"
+        },
+        "profit": {
+            "coin": "OCTA",
+            "logo": "355",
+            "revenueUSD": 3.369163683784752,
+            "profitUSD": 2.913163683784752
+        },
+        "profit24": {
+            "coin": "OCTA",
+            "logo": "355",
+            "revenueUSD24": 3.22379634265962,
+            "profitUSD24": 2.76779634265962
+        },
+        "revenue": {
+            "coin": "OCTA",
+            "logo": "355",
+            "revenueUSD": 3.369163683784752,
+            "profitUSD": 2.913163683784752
+        },
+        "revenue24": {
+            "coin": "OCTA",
+            "logo": "355",
+            "revenueUSD24": 3.22379634265962,
+            "profitUSD24": 2.76779634265962
+        }
+    },
+    "x4q": {
+        "device": {
+            "name": "Jasminer X4-Q",
+            "brand": "Jasminer"
+        },
+        "profit": {
+            "coin": "OCTA",
+            "logo": "355",
+            "revenueUSD": 4.171345513257312,
+            "profitUSD": 3.727345513257312
+        },
+        "profit24": {
+            "coin": "OCTA",
+            "logo": "355",
+            "revenueUSD24": 3.99136690043572,
+            "profitUSD24": 3.54736690043572
+        },
+        "revenue": {
+            "coin": "OCTA",
+            "logo": "355",
+            "revenueUSD": 4.171345513257312,
+            "profitUSD": 3.727345513257312
+        },
+        "revenue24": {
+            "coin": "OCTA",
+            "logo": "355",
+            "revenueUSD24": 3.99136690043572,
+            "profitUSD24": 3.54736690043572
+        }
+    },
+    "x16q": {
+        "device": {
+            "name": "Jasminer X16-Q",
+            "brand": "Jasminer"
+        },
+        "profit": {
+            "coin": "DOGETHER",
+            "logo": "574",
+            "revenueUSD": 8.279138973389896,
+            "profitUSD": 7.523138973389896
+        },
+        "profit24": {
+            "coin": "XPB",
+            "logo": "552",
+            "revenueUSD24": 8.042035063855261,
+            "profitUSD24": 7.286035063855261
+        },
+        "revenue": {
+            "coin": "DOGETHER",
+            "logo": "574",
+            "revenueUSD": 8.279138973389896,
+            "profitUSD": 7.523138973389896
+        },
+        "revenue24": {
+            "coin": "XPB",
+            "logo": "552",
+            "revenueUSD24": 8.042035063855261,
+            "profitUSD24": 7.286035063855261
+        }
+    },
+    "x16p": {
+        "device": {
+            "name": "Jasminer X16-P",
+            "brand": "Jasminer"
+        },
+        "profit": {
+            "coin": "DOGETHER",
+            "logo": "574",
+            "revenueUSD": 24.62513130546738,
+            "profitUSD": 22.34513130546738
+        },
+        "profit24": {
+            "coin": "XPB",
+            "logo": "552",
+            "revenueUSD24": 23.919899164287443,
+            "profitUSD24": 21.639899164287442
+        },
+        "revenue": {
+            "coin": "DOGETHER",
+            "logo": "574",
+            "revenueUSD": 24.62513130546738,
+            "profitUSD": 22.34513130546738
+        },
+        "revenue24": {
+            "coin": "XPB",
+            "logo": "552",
+            "revenueUSD24": 23.919899164287443,
+            "profitUSD24": 21.639899164287442
+        }
+    },
+    "v1minisep": {
+        "device": {
+            "name": "Ipollo V1 Mini SE Plus",
+            "brand": "Ipollo"
+        },
+        "profit": {
+            "coin": "DOGETHER",
+            "logo": "574",
+            "revenueUSD": 1.6982849176184402,
+            "profitUSD": 1.4198849176184403
+        },
+        "profit24": {
+            "coin": "XPB",
+            "logo": "552",
+            "revenueUSD24": 1.64964821822672,
+            "profitUSD24": 1.37124821822672
+        },
+        "revenue": {
+            "coin": "DOGETHER",
+            "logo": "574",
+            "revenueUSD": 1.6982849176184402,
+            "profitUSD": 1.4198849176184403
+        },
+        "revenue24": {
+            "coin": "XPB",
+            "logo": "552",
+            "revenueUSD24": 1.64964821822672,
+            "profitUSD24": 1.37124821822672
+        }
+    },
+    "v1minise": {
+        "device": {
+            "name": "Ipollo V1 Mini SE",
+            "brand": "Ipollo"
+        },
+        "profit": {
+            "coin": "DOGETHER",
+            "logo": "574",
+            "revenueUSD": 0.8491424588092201,
+            "profitUSD": 0.7099424588092201
+        },
+        "profit24": {
+            "coin": "XPB",
+            "logo": "552",
+            "revenueUSD24": 0.82482410911336,
+            "profitUSD24": 0.68562410911336
+        },
+        "revenue": {
+            "coin": "DOGETHER",
+            "logo": "574",
+            "revenueUSD": 0.8491424588092201,
+            "profitUSD": 0.7099424588092201
+        },
+        "revenue24": {
+            "coin": "XPB",
+            "logo": "552",
+            "revenueUSD24": 0.82482410911336,
+            "profitUSD24": 0.68562410911336
+        }
+    },
+    "v1mini": {
+        "device": {
+            "name": "Ipollo V1 Mini",
+            "brand": "Ipollo"
+        },
+        "profit": {
+            "coin": "OCTA",
+            "logo": "355",
+            "revenueUSD": 1.20327274420884,
+            "profitUSD": 0.8792727442088399
+        },
+        "profit24": {
+            "coin": "OCTA",
+            "logo": "355",
+            "revenueUSD24": 1.15135583666415,
+            "profitUSD24": 0.82735583666415
+        },
+        "revenue": {
+            "coin": "OCTA",
+            "logo": "355",
+            "revenueUSD": 1.20327274420884,
+            "profitUSD": 0.8792727442088399
+        },
+        "revenue24": {
+            "coin": "OCTA",
+            "logo": "355",
+            "revenueUSD24": 1.15135583666415,
+            "profitUSD24": 0.82735583666415
+        }
+    },
+    "v1h": {
+        "device": {
+            "name": "Ipollo V1H",
+            "brand": "Ipollo"
+        },
+        "profit": {
+            "coin": "DOGETHER",
+            "logo": "574",
+            "revenueUSD": 3.8211410646414903,
+            "profitUSD": 2.9211410646414904
+        },
+        "profit24": {
+            "coin": "XPB",
+            "logo": "552",
+            "revenueUSD24": 3.7117084910101203,
+            "profitUSD24": 2.8117084910101204
+        },
+        "revenue": {
+            "coin": "DOGETHER",
+            "logo": "574",
+            "revenueUSD": 3.8211410646414903,
+            "profitUSD": 2.9211410646414904
+        },
+        "revenue24": {
+            "coin": "XPB",
+            "logo": "552",
+            "revenueUSD24": 3.7117084910101203,
+            "profitUSD24": 2.8117084910101204
+        }
+    },
+    "t21": {
+        "device": {
+            "name": "Bitmain Antminer T21",
+            "brand": "Bitmain"
+        },
+        "profit": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 20.6784610300223,
+            "profitUSD": 16.3464610300223
+        },
+        "profit24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 21.801971776525498,
+            "profitUSD24": 17.469971776525497
+        },
+        "revenue": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 20.6784610300223,
+            "profitUSD": 16.3464610300223
+        },
+        "revenue24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 21.801971776525498,
+            "profitUSD24": 17.469971776525497
+        }
+    },
+    "s9i": {
+        "device": {
+            "name": "Bitmain Antminer S9i",
+            "brand": "Bitmain"
+        },
+        "profit": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 1.5236760758963799,
+            "profitUSD": -0.0603239241036202
+        },
+        "profit24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 1.6064610782703,
+            "profitUSD24": 0.02246107827029986
+        },
+        "revenue": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 1.5236760758963799,
+            "profitUSD": -0.0603239241036202
+        },
+        "revenue24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 1.6064610782703,
+            "profitUSD24": 0.02246107827029986
+        }
+    },
+    "s9": {
+        "device": {
+            "name": "Bitmain Antminer S9",
+            "brand": "Bitmain"
+        },
+        "profit": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 1.5236760758963799,
+            "profitUSD": -0.13232392410362004
+        },
+        "profit24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 1.6064610782703,
+            "profitUSD24": -0.04953892172969998
+        },
+        "revenue": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 1.5236760758963799,
+            "profitUSD": -0.13232392410362004
+        },
+        "revenue24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 1.6064610782703,
+            "profitUSD24": -0.04953892172969998
+        }
+    },
+    "s21": {
+        "device": {
+            "name": "Bitmain Antminer S21",
+            "brand": "Bitmain"
+        },
+        "profit": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 21.766801084234,
+            "profitUSD": 17.566801084234
+        },
+        "profit24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 22.94944397529,
+            "profitUSD24": 18.74944397529
+        },
+        "revenue": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 21.766801084234,
+            "profitUSD": 17.566801084234
+        },
+        "revenue24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 22.94944397529,
+            "profitUSD24": 18.74944397529
+        }
+    },
+    "s19xp": {
+        "device": {
+            "name": "Bitmain Antminer S19 XP",
+            "brand": "Bitmain"
+        },
+        "profit": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 15.34559476438497,
+            "profitUSD": 11.707194764384969
+        },
+        "profit24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 16.17935800257945,
+            "profitUSD24": 12.540958002579448
+        },
+        "revenue": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 15.34559476438497,
+            "profitUSD": 11.707194764384969
+        },
+        "revenue24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 16.17935800257945,
+            "profitUSD24": 12.540958002579448
+        }
+    },
+    "s19prohyd": {
+        "device": {
+            "name": "Bitmain Antminer S19 Pro Hyd",
+            "brand": "Bitmain"
+        },
+        "profit": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 19.263618959547088,
+            "profitUSD": 12.998418959547088
+        },
+        "profit24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 20.310257918131647,
+            "profitUSD24": 14.045057918131647
+        },
+        "revenue": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 19.263618959547088,
+            "profitUSD": 12.998418959547088
+        },
+        "revenue24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 20.310257918131647,
+            "profitUSD24": 14.045057918131647
+        }
+    },
+    "s19pro": {
+        "device": {
+            "name": "Bitmain Antminer S19 Pro",
+            "brand": "Bitmain"
+        },
+        "profit": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 10.883400542117,
+            "profitUSD": 7.343400542117
+        },
+        "profit24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 11.474721987645,
+            "profitUSD24": 7.934721987644999
+        },
+        "revenue": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 10.883400542117,
+            "profitUSD": 7.343400542117
+        },
+        "revenue24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 11.474721987645,
+            "profitUSD24": 7.934721987644999
+        }
+    },
+    "s19kpro": {
+        "device": {
+            "name": "Bitmain Antminer S19k Pro",
+            "brand": "Bitmain"
+        },
+        "profit": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 13.0600806505404,
+            "profitUSD": 9.7480806505404
+        },
+        "profit24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 13.769666385173998,
+            "profitUSD24": 10.457666385173999
+        },
+        "revenue": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 13.0600806505404,
+            "profitUSD": 9.7480806505404
+        },
+        "revenue24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 13.769666385173998,
+            "profitUSD24": 10.457666385173999
+        }
+    },
+    "s19jpro": {
+        "device": {
+            "name": "Bitmain Antminer S19J Pro",
+            "brand": "Bitmain"
+        },
+        "profit": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 10.883400542117,
+            "profitUSD": 7.223400542117
+        },
+        "profit24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 11.474721987645,
+            "profitUSD24": 7.814721987644999
+        },
+        "revenue": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 10.883400542117,
+            "profitUSD": 7.223400542117
+        },
+        "revenue24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 11.474721987645,
+            "profitUSD24": 7.814721987644999
+        }
+    },
+    "s19i": {
+        "device": {
+            "name": "Bitmain Antminer S19i",
+            "brand": "Bitmain"
+        },
+        "profit": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 9.7950604879053,
+            "profitUSD": 6.1350604879052995
+        },
+        "profit24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 10.327249788880499,
+            "profitUSD24": 6.667249788880499
+        },
+        "revenue": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 9.7950604879053,
+            "profitUSD": 6.1350604879052995
+        },
+        "revenue24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 10.327249788880499,
+            "profitUSD24": 6.667249788880499
+        }
+    },
+    "s19hydro": {
+        "device": {
+            "name": "Bitmain Antminer S19 Hydro",
+            "brand": "Bitmain"
+        },
+        "profit": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 17.19577285654486,
+            "profitUSD": 10.65457285654486
+        },
+        "profit24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 18.1300607404791,
+            "profitUSD24": 11.588860740479099
+        },
+        "revenue": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 17.19577285654486,
+            "profitUSD": 10.65457285654486
+        },
+        "revenue24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 18.1300607404791,
+            "profitUSD24": 11.588860740479099
+        }
+    },
+    "s19": {
+        "device": {
+            "name": "Bitmain Antminer S19",
+            "brand": "Bitmain"
+        },
+        "profit": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 10.33923051501115,
+            "profitUSD": 6.43923051501115
+        },
+        "profit24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 10.900985888262749,
+            "profitUSD24": 7.000985888262749
+        },
+        "revenue": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 10.33923051501115,
+            "profitUSD": 6.43923051501115
+        },
+        "revenue24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 10.900985888262749,
+            "profitUSD24": 7.000985888262749
+        }
+    },
+    "s17pro": {
+        "device": {
+            "name": "Bitmain Antminer S17 Pro",
+            "brand": "Bitmain"
+        },
+        "profit": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 5.76820228732201,
+            "profitUSD": 3.24820228732201
+        },
+        "profit24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 6.081602653451849,
+            "profitUSD24": 3.5616026534518492
+        },
+        "revenue": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 5.76820228732201,
+            "profitUSD": 3.24820228732201
+        },
+        "revenue24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 6.081602653451849,
+            "profitUSD24": 3.5616026534518492
+        }
+    },
+    "s17plus": {
+        "device": {
+            "name": "Bitmain Antminer S17+",
+            "brand": "Bitmain"
+        },
+        "profit": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 7.9448823957454096,
+            "profitUSD": 4.464882395745409
+        },
+        "profit24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 8.37654705098085,
+            "profitUSD24": 4.89654705098085
+        },
+        "revenue": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 7.9448823957454096,
+            "profitUSD": 4.464882395745409
+        },
+        "revenue24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 8.37654705098085,
+            "profitUSD24": 4.89654705098085
+        }
+    },
+    "s17e": {
+        "device": {
+            "name": "Bitmain Antminer S17e",
+            "brand": "Bitmain"
+        },
+        "profit": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 6.96537634695488,
+            "profitUSD": 3.48537634695488
+        },
+        "profit24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 7.3438220720928,
+            "profitUSD24": 3.8638220720927996
+        },
+        "revenue": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 6.96537634695488,
+            "profitUSD": 3.48537634695488
+        },
+        "revenue24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 7.3438220720928,
+            "profitUSD24": 3.8638220720927996
+        }
+    },
+    "s17": {
+        "device": {
+            "name": "Bitmain Antminer S17",
+            "brand": "Bitmain"
+        },
+        "profit": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 6.0947043035855195,
+            "profitUSD": 3.0947043035855195
+        },
+        "profit24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 6.4258443130812,
+            "profitUSD24": 3.4258443130811997
+        },
+        "revenue": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 6.0947043035855195,
+            "profitUSD": 3.0947043035855195
+        },
+        "revenue24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 6.4258443130812,
+            "profitUSD24": 3.4258443130811997
+        }
+    },
+    "s15": {
+        "device": {
+            "name": "Bitmain Antminer S15",
+            "brand": "Bitmain"
+        },
+        "profit": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 3.0473521517927598,
+            "profitUSD": 1.1273521517927598
+        },
+        "profit24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 3.2129221565406,
+            "profitUSD24": 1.2929221565406
+        },
+        "revenue": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 3.0473521517927598,
+            "profitUSD": 1.1273521517927598
+        },
+        "revenue24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 3.2129221565406,
+            "profitUSD24": 1.2929221565406
+        }
+    },
+    "minidoge2": {
+        "device": {
+            "name": "Goldshell Mini-DOGE II",
+            "brand": "Goldshell"
+        },
+        "profit": {
+            "coin": "DOGE",
+            "logo": "202",
+            "revenueUSD": 1.32038305718802,
+            "profitUSD": 0.84038305718802
+        },
+        "profit24": {
+            "coin": "DOGE",
+            "logo": "202",
+            "revenueUSD24": 0.8994693040473001,
+            "profitUSD24": 0.4194693040473001
+        },
+        "revenue": {
+            "coin": "DOGE",
+            "logo": "202",
+            "revenueUSD": 1.32038305718802,
+            "profitUSD": 0.84038305718802
+        },
+        "revenue24": {
+            "coin": "DOGE",
+            "logo": "202",
+            "revenueUSD24": 0.8994693040473001,
+            "profitUSD24": 0.4194693040473001
+        }
+    },
+    "m63s": {
+        "device": {
+            "name": "MicroBT Whatsminer M63S Hydro",
+            "brand": "MicroBT"
+        },
+        "profit": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 39.1802419516212,
+            "profitUSD": 30.522241951621197
+        },
+        "profit24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 41.308999155521995,
+            "profitUSD24": 32.650999155521994
+        },
+        "revenue": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 39.1802419516212,
+            "profitUSD": 30.522241951621197
+        },
+        "revenue24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 41.308999155521995,
+            "profitUSD24": 32.650999155521994
+        }
+    },
+    "m60": {
+        "device": {
+            "name": "MicroBT Whatsminer M60",
+            "brand": "MicroBT"
+        },
+        "profit": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 20.24312500833762,
+            "profitUSD": 16.11392500833762
+        },
+        "profit24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 21.3429828970197,
+            "profitUSD24": 17.213782897019698
+        },
+        "revenue": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 20.24312500833762,
+            "profitUSD": 16.11392500833762
+        },
+        "revenue24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 21.3429828970197,
+            "profitUSD24": 17.213782897019698
+        }
+    },
+    "m53s": {
+        "device": {
+            "name": "MicroBT Whatsminer M53S Hydro",
+            "brand": "MicroBT"
+        },
+        "profit": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 28.2968414095042,
+            "profitUSD": 20.1848414095042
+        },
+        "profit24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 29.834277167876998,
+            "profitUSD24": 21.722277167876996
+        },
+        "revenue": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 28.2968414095042,
+            "profitUSD": 20.1848414095042
+        },
+        "revenue24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 29.834277167876998,
+            "profitUSD24": 21.722277167876996
+        }
+    },
+    "L7": {
+        "device": {
+            "name": "Bitmain Antminer L7",
+            "brand": "Bitmain"
+        },
+        "profit": {
+            "coin": "DOGE",
+            "logo": "202",
+            "revenueUSD": 29.8658072459195,
+            "profitUSD": 25.7558072459195
+        },
+        "profit24": {
+            "coin": "DOGE",
+            "logo": "202",
+            "revenueUSD24": 20.3451390201175,
+            "profitUSD24": 16.2351390201175
+        },
+        "revenue": {
+            "coin": "DOGE",
+            "logo": "202",
+            "revenueUSD": 29.8658072459195,
+            "profitUSD": 25.7558072459195
+        },
+        "revenue24": {
+            "coin": "DOGE",
+            "logo": "202",
+            "revenueUSD24": 20.3451390201175,
+            "profitUSD24": 16.2351390201175
+        }
+    },
+    "ks5": {
+        "device": {
+            "name": "Bitmain Antminer KS5",
+            "brand": "Bitmain"
+        },
+        "profit": {
+            "coin": "KAS",
+            "logo": "122",
+            "revenueUSD": 194.04677219764412,
+            "profitUSD": 190.26677219764412
+        },
+        "profit24": {
+            "coin": "KAS",
+            "logo": "122",
+            "revenueUSD24": 197.1795151785375,
+            "profitUSD24": 193.3995151785375
+        },
+        "revenue": {
+            "coin": "KAS",
+            "logo": "122",
+            "revenueUSD": 194.04677219764412,
+            "profitUSD": 190.26677219764412
+        },
+        "revenue24": {
+            "coin": "KAS",
+            "logo": "122",
+            "revenueUSD24": 197.1795151785375,
+            "profitUSD24": 193.3995151785375
+        }
+    },
+    "ks3n": {
+        "device": {
+            "name": "Iceriver KS3",
+            "brand": "Iceriver"
+        },
+        "profit": {
+            "coin": "KAS",
+            "logo": "122",
+            "revenueUSD": 73.9225798848168,
+            "profitUSD": 70.0825798848168
+        },
+        "profit24": {
+            "coin": "KAS",
+            "logo": "122",
+            "revenueUSD24": 75.11600578230001,
+            "profitUSD24": 71.2760057823
+        },
+        "revenue": {
+            "coin": "KAS",
+            "logo": "122",
+            "revenueUSD": 73.9225798848168,
+            "profitUSD": 70.0825798848168
+        },
+        "revenue24": {
+            "coin": "KAS",
+            "logo": "122",
+            "revenueUSD24": 75.11600578230001,
+            "profitUSD24": 71.2760057823
+        }
+    },
+    "ks3m": {
+        "device": {
+            "name": "Iceriver KS3M",
+            "brand": "Iceriver"
+        },
+        "profit": {
+            "coin": "KAS",
+            "logo": "122",
+            "revenueUSD": 55.4419349136126,
+            "profitUSD": 51.3619349136126
+        },
+        "profit24": {
+            "coin": "KAS",
+            "logo": "122",
+            "revenueUSD24": 56.337004336725,
+            "profitUSD24": 52.257004336725004
+        },
+        "revenue": {
+            "coin": "KAS",
+            "logo": "122",
+            "revenueUSD": 55.4419349136126,
+            "profitUSD": 51.3619349136126
+        },
+        "revenue24": {
+            "coin": "KAS",
+            "logo": "122",
+            "revenueUSD24": 56.337004336725,
+            "profitUSD24": 52.257004336725004
+        }
+    },
+    "ks3l": {
+        "device": {
+            "name": "Iceriver KS3L",
+            "brand": "Iceriver"
+        },
+        "profit": {
+            "coin": "KAS",
+            "logo": "122",
+            "revenueUSD": 46.2016124280105,
+            "profitUSD": 42.6016124280105
+        },
+        "profit24": {
+            "coin": "KAS",
+            "logo": "122",
+            "revenueUSD24": 46.9475036139375,
+            "profitUSD24": 43.3475036139375
+        },
+        "revenue": {
+            "coin": "KAS",
+            "logo": "122",
+            "revenueUSD": 46.2016124280105,
+            "profitUSD": 42.6016124280105
+        },
+        "revenue24": {
+            "coin": "KAS",
+            "logo": "122",
+            "revenueUSD24": 46.9475036139375,
+            "profitUSD24": 43.3475036139375
+        }
+    },
+    "ks3": {
+        "device": {
+            "name": "Bitmain Antminer KS3",
+            "brand": "Bitmain"
+        },
+        "profit": {
+            "coin": "KAS",
+            "logo": "122",
+            "revenueUSD": 86.85903136465974,
+            "profitUSD": 82.65903136465974
+        },
+        "profit24": {
+            "coin": "KAS",
+            "logo": "122",
+            "revenueUSD24": 88.26130679420251,
+            "profitUSD24": 84.06130679420251
+        },
+        "revenue": {
+            "coin": "KAS",
+            "logo": "122",
+            "revenueUSD": 86.85903136465974,
+            "profitUSD": 82.65903136465974
+        },
+        "revenue24": {
+            "coin": "KAS",
+            "logo": "122",
+            "revenueUSD24": 88.26130679420251,
+            "profitUSD24": 84.06130679420251
+        }
+    },
+    "ks2": {
+        "device": {
+            "name": "Iceriver KS2",
+            "brand": "Iceriver"
+        },
+        "profit": {
+            "coin": "KAS",
+            "logo": "122",
+            "revenueUSD": 18.4806449712042,
+            "profitUSD": 17.0406449712042
+        },
+        "profit24": {
+            "coin": "KAS",
+            "logo": "122",
+            "revenueUSD24": 18.779001445575002,
+            "profitUSD24": 17.339001445575
+        },
+        "revenue": {
+            "coin": "KAS",
+            "logo": "122",
+            "revenueUSD": 18.4806449712042,
+            "profitUSD": 17.0406449712042
+        },
+        "revenue24": {
+            "coin": "KAS",
+            "logo": "122",
+            "revenueUSD24": 18.779001445575002,
+            "profitUSD24": 17.339001445575
+        }
+    },
+    "ks1": {
+        "device": {
+            "name": "Iceriver KS1",
+            "brand": "Iceriver"
+        },
+        "profit": {
+            "coin": "KAS",
+            "logo": "122",
+            "revenueUSD": 9.2403224856021,
+            "profitUSD": 8.5203224856021
+        },
+        "profit24": {
+            "coin": "KAS",
+            "logo": "122",
+            "revenueUSD24": 9.389500722787501,
+            "profitUSD24": 8.6695007227875
+        },
+        "revenue": {
+            "coin": "KAS",
+            "logo": "122",
+            "revenueUSD": 9.2403224856021,
+            "profitUSD": 8.5203224856021
+        },
+        "revenue24": {
+            "coin": "KAS",
+            "logo": "122",
+            "revenueUSD24": 9.389500722787501,
+            "profitUSD24": 8.6695007227875
+        }
+    },
+    "ks0pro": {
+        "device": {
+            "name": "Iceriver KS0 Pro",
+            "brand": "Iceriver"
+        },
+        "profit": {
+            "coin": "KAS",
+            "logo": "122",
+            "revenueUSD": 1.84806449712042,
+            "profitUSD": 1.7280644971204202
+        },
+        "profit24": {
+            "coin": "KAS",
+            "logo": "122",
+            "revenueUSD24": 1.8779001445575,
+            "profitUSD24": 1.7579001445575
+        },
+        "revenue": {
+            "coin": "KAS",
+            "logo": "122",
+            "revenueUSD": 1.84806449712042,
+            "profitUSD": 1.7280644971204202
+        },
+        "revenue24": {
+            "coin": "KAS",
+            "logo": "122",
+            "revenueUSD24": 1.8779001445575,
+            "profitUSD24": 1.7579001445575
+        }
+    },
+    "ks0": {
+        "device": {
+            "name": "Iceriver KS0",
+            "brand": "Iceriver"
+        },
+        "profit": {
+            "coin": "KAS",
+            "logo": "122",
+            "revenueUSD": 0.92403224856021,
+            "profitUSD": 0.8460322485602101
+        },
+        "profit24": {
+            "coin": "KAS",
+            "logo": "122",
+            "revenueUSD24": 0.93895007227875,
+            "profitUSD24": 0.86095007227875
+        },
+        "revenue": {
+            "coin": "KAS",
+            "logo": "122",
+            "revenueUSD": 0.92403224856021,
+            "profitUSD": 0.8460322485602101
+        },
+        "revenue24": {
+            "coin": "KAS",
+            "logo": "122",
+            "revenueUSD24": 0.93895007227875,
+            "profitUSD24": 0.86095007227875
+        }
+    },
+    "kdbox2": {
+        "device": {
+            "name": "Goldshell KD-BOX 2",
+            "brand": "Goldshell"
+        },
+        "profit": {
+            "coin": "KDA",
+            "logo": "414",
+            "revenueUSD": 0.6543859763705,
+            "profitUSD": 0.17438597637050002
+        },
+        "profit24": {
+            "coin": "KDA",
+            "logo": "414",
+            "revenueUSD24": 0.67857858914045,
+            "profitUSD24": 0.19857858914045
+        },
+        "revenue": {
+            "coin": "KDA",
+            "logo": "414",
+            "revenueUSD": 0.6543859763705,
+            "profitUSD": 0.17438597637050002
+        },
+        "revenue24": {
+            "coin": "KDA",
+            "logo": "414",
+            "revenueUSD24": 0.67857858914045,
+            "profitUSD24": 0.19857858914045
+        }
+    },
+    "kd5": {
+        "device": {
+            "name": "Goldshell KD5",
+            "brand": "Goldshell"
+        },
+        "profit": {
+            "coin": "KDA",
+            "logo": "414",
+            "revenueUSD": 2.3557895149337997,
+            "profitUSD": -0.34421048506620044
+        },
+        "profit24": {
+            "coin": "KDA",
+            "logo": "414",
+            "revenueUSD24": 2.44288292090562,
+            "profitUSD24": -0.25711707909438
+        },
+        "revenue": {
+            "coin": "KDA",
+            "logo": "414",
+            "revenueUSD": 2.3557895149337997,
+            "profitUSD": -0.34421048506620044
+        },
+        "revenue24": {
+            "coin": "KDA",
+            "logo": "414",
+            "revenueUSD24": 2.44288292090562,
+            "profitUSD24": -0.25711707909438
+        }
+    },
+    "KA3": {
+        "device": {
+            "name": "Bitmain Antminer KA3",
+            "brand": "Bitmain"
+        },
+        "profit": {
+            "coin": "KDA",
+            "logo": "414",
+            "revenueUSD": 21.725614415500598,
+            "profitUSD": 17.940814415500597
+        },
+        "profit24": {
+            "coin": "KDA",
+            "logo": "414",
+            "revenueUSD24": 22.52880915946294,
+            "profitUSD24": 18.74400915946294
+        },
+        "revenue": {
+            "coin": "KDA",
+            "logo": "414",
+            "revenueUSD": 21.725614415500598,
+            "profitUSD": 17.940814415500597
+        },
+        "revenue24": {
+            "coin": "KDA",
+            "logo": "414",
+            "revenueUSD24": 22.52880915946294,
+            "profitUSD24": 18.74400915946294
+        }
+    },
+    "k7": {
+        "device": {
+            "name": "Bitmain Antminer K7",
+            "brand": "Bitmain"
+        },
+        "profit": {
+            "coin": "CKB",
+            "logo": "467",
+            "revenueUSD": 30.02945176436786,
+            "profitUSD": 26.653851764367857
+        },
+        "profit24": {
+            "coin": "CKB",
+            "logo": "467",
+            "revenueUSD24": 31.261375625384357,
+            "profitUSD24": 27.885775625384355
+        },
+        "revenue": {
+            "coin": "CKB",
+            "logo": "467",
+            "revenueUSD": 30.02945176436786,
+            "profitUSD": 26.653851764367857
+        },
+        "revenue24": {
+            "coin": "CKB",
+            "logo": "467",
+            "revenueUSD24": 31.261375625384357,
+            "profitUSD24": 27.885775625384355
+        }
+    },
+    "hammerd10p": {
+        "device": {
+            "name": "BlackMiner Hammer D10+",
+            "brand": "BlackMiner"
+        },
+        "profit": {
+            "coin": "DOGE",
+            "logo": "202",
+            "revenueUSD": 15.718845918904998,
+            "profitUSD": 11.278845918904999
+        },
+        "profit24": {
+            "coin": "DOGE",
+            "logo": "202",
+            "revenueUSD24": 10.707967905325,
+            "profitUSD24": 6.267967905325
+        },
+        "revenue": {
+            "coin": "DOGE",
+            "logo": "202",
+            "revenueUSD": 15.718845918904998,
+            "profitUSD": 11.278845918904999
+        },
+        "revenue24": {
+            "coin": "DOGE",
+            "logo": "202",
+            "revenueUSD24": 10.707967905325,
+            "profitUSD24": 6.267967905325
+        }
+    },
+    "e9pro": {
+        "device": {
+            "name": "Bitmain Antminer E9 Pro",
+            "brand": "Bitmain"
+        },
+        "profit": {
+            "coin": "OCTA",
+            "logo": "355",
+            "revenueUSD": 15.161236577031383,
+            "profitUSD": 12.449236577031384
+        },
+        "profit24": {
+            "coin": "ETHW",
+            "logo": "144",
+            "revenueUSD24": 15.044408440273548,
+            "profitUSD24": 12.332408440273548
+        },
+        "revenue": {
+            "coin": "OCTA",
+            "logo": "355",
+            "revenueUSD": 15.161236577031383,
+            "profitUSD": 12.449236577031384
+        },
+        "revenue24": {
+            "coin": "ETHW",
+            "logo": "144",
+            "revenueUSD24": 15.044408440273548,
+            "profitUSD24": 12.332408440273548
+        }
+    },
+    "e9": {
+        "device": {
+            "name": "Bitmain Antminer E9",
+            "brand": "Bitmain"
+        },
+        "profit": {
+            "coin": "ETC",
+            "logo": "121",
+            "revenueUSD": 8.8454609239908,
+            "profitUSD": 6.541460923990799
+        },
+        "profit24": {
+            "coin": "ETC",
+            "logo": "121",
+            "revenueUSD24": 9.29400202593576,
+            "profitUSD24": 6.990002025935759
+        },
+        "revenue": {
+            "coin": "ETC",
+            "logo": "121",
+            "revenueUSD": 8.8454609239908,
+            "profitUSD": 6.541460923990799
+        },
+        "revenue24": {
+            "coin": "ETC",
+            "logo": "121",
+            "revenueUSD24": 9.29400202593576,
+            "profitUSD24": 6.990002025935759
+        }
+    },
+    "d9": {
+        "device": {
+            "name": "Bitmain Antminer D9",
+            "brand": "Bitmain"
+        },
+        "profit": {
+            "coin": "BLOCX",
+            "logo": "592",
+            "revenueUSD": 15.65467356423906,
+            "profitUSD": 12.24667356423906
+        },
+        "profit24": {
+            "coin": "BLOCX",
+            "logo": "592",
+            "revenueUSD24": 10.629453912525443,
+            "profitUSD24": 7.221453912525444
+        },
+        "revenue": {
+            "coin": "BLOCX",
+            "logo": "592",
+            "revenueUSD": 15.65467356423906,
+            "profitUSD": 12.24667356423906
+        },
+        "revenue24": {
+            "coin": "BLOCX",
+            "logo": "592",
+            "revenueUSD24": 10.629453912525443,
+            "profitUSD24": 7.221453912525444
+        }
+    },
+    "bmksmax": {
+        "device": {
+            "name": "iBeLink BM-KSMax",
+            "brand": "iBeLink"
+        },
+        "profit": {
+            "coin": "KAS",
+            "logo": "122",
+            "revenueUSD": 97.02338609882206,
+            "profitUSD": 92.94338609882206
+        },
+        "profit24": {
+            "coin": "KAS",
+            "logo": "122",
+            "revenueUSD24": 98.58975758926876,
+            "profitUSD24": 94.50975758926876
+        },
+        "revenue": {
+            "coin": "KAS",
+            "logo": "122",
+            "revenueUSD": 97.02338609882206,
+            "profitUSD": 92.94338609882206
+        },
+        "revenue24": {
+            "coin": "KAS",
+            "logo": "122",
+            "revenueUSD24": 98.58975758926876,
+            "profitUSD24": 94.50975758926876
+        }
+    },
+    "bmk1": {
+        "device": {
+            "name": "iBeLink BM-K1",
+            "brand": "iBeLink"
+        },
+        "profit": {
+            "coin": "KDA",
+            "logo": "414",
+            "revenueUSD": 4.1880702487712,
+            "profitUSD": 0.34807024877119996
+        },
+        "profit24": {
+            "coin": "KDA",
+            "logo": "414",
+            "revenueUSD24": 4.34290297049888,
+            "profitUSD24": 0.5029029704988801
+        },
+        "revenue": {
+            "coin": "KDA",
+            "logo": "414",
+            "revenueUSD": 4.1880702487712,
+            "profitUSD": 0.34807024877119996
+        },
+        "revenue24": {
+            "coin": "KDA",
+            "logo": "414",
+            "revenueUSD24": 4.34290297049888,
+            "profitUSD24": 0.5029029704988801
+        }
+    },
+    "A1366-130T": {
+        "device": {
+            "name": "Avalon A1366-130T",
+            "brand": "Avalon"
+        },
+        "profit": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 14.1484207047521,
+            "profitUSD": 10.1884207047521
+        },
+        "profit24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 14.917138583938499,
+            "profitUSD24": 10.957138583938498
+        },
+        "revenue": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 14.1484207047521,
+            "profitUSD": 10.1884207047521
+        },
+        "revenue24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 14.917138583938499,
+            "profitUSD24": 10.957138583938498
+        }
+    },
+    "A1346-120T": {
+        "device": {
+            "name": "Avalon A1346-120T",
+            "brand": "Avalon"
+        },
+        "profit": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 13.0600806505404,
+            "profitUSD": 9.100080650540399
+        },
+        "profit24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 13.769666385173998,
+            "profitUSD24": 9.809666385173998
+        },
+        "revenue": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 13.0600806505404,
+            "profitUSD": 9.100080650540399
+        },
+        "revenue24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 13.769666385173998,
+            "profitUSD24": 9.809666385173998
+        }
+    },
+    "A1346-113T": {
+        "device": {
+            "name": "Avalon A1346-113T",
+            "brand": "Avalon"
+        },
+        "profit": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 12.29824261259221,
+            "profitUSD": 8.33824261259221
+        },
+        "profit24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 12.966435846038848,
+            "profitUSD24": 9.006435846038848
+        },
+        "revenue": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 12.29824261259221,
+            "profitUSD": 8.33824261259221
+        },
+        "revenue24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 12.966435846038848,
+            "profitUSD24": 9.006435846038848
+        }
+    },
+    "A1346-110T": {
+        "device": {
+            "name": "Avalon A1346-110T",
+            "brand": "Avalon"
+        },
+        "profit": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 11.9717405963287,
+            "profitUSD": 8.0117405963287
+        },
+        "profit24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 12.6221941864095,
+            "profitUSD24": 8.662194186409499
+        },
+        "revenue": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 11.9717405963287,
+            "profitUSD": 8.0117405963287
+        },
+        "revenue24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 12.6221941864095,
+            "profitUSD24": 8.662194186409499
+        }
+    },
+    "A1346-107T": {
+        "device": {
+            "name": "Avalon A1346-107T",
+            "brand": "Avalon"
+        },
+        "profit": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 11.64523858006519,
+            "profitUSD": 7.685238580065189
+        },
+        "profit24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 12.27795252678015,
+            "profitUSD24": 8.317952526780148
+        },
+        "revenue": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 11.64523858006519,
+            "profitUSD": 7.685238580065189
+        },
+        "revenue24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 12.27795252678015,
+            "profitUSD24": 8.317952526780148
+        }
+    },
+    "A1346-104T": {
+        "device": {
+            "name": "Avalon A1346-104T",
+            "brand": "Avalon"
+        },
+        "profit": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 11.31873656380168,
+            "profitUSD": 7.3587365638016795
+        },
+        "profit24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 11.933710867150799,
+            "profitUSD24": 7.973710867150798
+        },
+        "revenue": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 11.31873656380168,
+            "profitUSD": 7.3587365638016795
+        },
+        "revenue24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 11.933710867150799,
+            "profitUSD24": 7.973710867150798
+        }
+    },
+    "A1246I-81T": {
+        "device": {
+            "name": "Avalon A1246I-81T",
+            "brand": "Avalon"
+        },
+        "profit": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 8.81555443911477,
+            "profitUSD": 4.73555443911477
+        },
+        "profit24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 9.29452480999245,
+            "profitUSD24": 5.214524809992449
+        },
+        "revenue": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 8.81555443911477,
+            "profitUSD": 4.73555443911477
+        },
+        "revenue24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 9.29452480999245,
+            "profitUSD24": 5.214524809992449
+        }
+    },
+    "A1246-96T": {
+        "device": {
+            "name": "Avalon A1246-96T",
+            "brand": "Avalon"
+        },
+        "profit": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 10.44806452043232,
+            "profitUSD": 6.34406452043232
+        },
+        "profit24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 11.0157331081392,
+            "profitUSD24": 6.9117331081392
+        },
+        "revenue": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 10.44806452043232,
+            "profitUSD": 6.34406452043232
+        },
+        "revenue24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 11.0157331081392,
+            "profitUSD24": 6.9117331081392
+        }
+    },
+    "A1246-93T": {
+        "device": {
+            "name": "Avalon A1246-93T",
+            "brand": "Avalon"
+        },
+        "profit": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 10.12156250416881,
+            "profitUSD": 6.0175625041688106
+        },
+        "profit24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 10.67149144850985,
+            "profitUSD24": 6.567491448509849
+        },
+        "revenue": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 10.12156250416881,
+            "profitUSD": 6.0175625041688106
+        },
+        "revenue24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 10.67149144850985,
+            "profitUSD24": 6.567491448509849
+        }
+    },
+    "A1246-90T": {
+        "device": {
+            "name": "Avalon A1246-90T",
+            "brand": "Avalon"
+        },
+        "profit": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 9.7950604879053,
+            "profitUSD": 5.6910604879052995
+        },
+        "profit24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 10.327249788880499,
+            "profitUSD24": 6.223249788880499
+        },
+        "revenue": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 9.7950604879053,
+            "profitUSD": 5.6910604879052995
+        },
+        "revenue24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 10.327249788880499,
+            "profitUSD24": 6.223249788880499
+        }
+    },
+    "A1246-87T": {
+        "device": {
+            "name": "Avalon A1246-87T",
+            "brand": "Avalon"
+        },
+        "profit": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 9.46855847164179,
+            "profitUSD": 5.36455847164179
+        },
+        "profit24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 9.98300812925115,
+            "profitUSD24": 5.87900812925115
+        },
+        "revenue": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 9.46855847164179,
+            "profitUSD": 5.36455847164179
+        },
+        "revenue24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 9.98300812925115,
+            "profitUSD24": 5.87900812925115
+        }
+    },
+    "A1246-85T": {
+        "device": {
+            "name": "Avalon A1246-85T",
+            "brand": "Avalon"
+        },
+        "profit": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 9.25089046079945,
+            "profitUSD": 5.14689046079945
+        },
+        "profit24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 9.753513689498249,
+            "profitUSD24": 5.6495136894982485
+        },
+        "revenue": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 9.25089046079945,
+            "profitUSD": 5.14689046079945
+        },
+        "revenue24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 9.753513689498249,
+            "profitUSD24": 5.6495136894982485
+        }
+    },
+    "A1246-83T": {
+        "device": {
+            "name": "Avalon A1246-83T",
+            "brand": "Avalon"
+        },
+        "profit": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 9.03322244995711,
+            "profitUSD": 4.92922244995711
+        },
+        "profit24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 9.524019249745349,
+            "profitUSD24": 5.420019249745349
+        },
+        "revenue": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 9.03322244995711,
+            "profitUSD": 4.92922244995711
+        },
+        "revenue24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 9.524019249745349,
+            "profitUSD24": 5.420019249745349
+        }
+    },
+    "A1166P-81T": {
+        "device": {
+            "name": "Avalon A1166 Pro-81T",
+            "brand": "Avalon"
+        },
+        "profit": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 8.81555443911477,
+            "profitUSD": 4.73555443911477
+        },
+        "profit24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 9.29452480999245,
+            "profitUSD24": 5.214524809992449
+        },
+        "revenue": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 8.81555443911477,
+            "profitUSD": 4.73555443911477
+        },
+        "revenue24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 9.29452480999245,
+            "profitUSD24": 5.214524809992449
+        }
+    },
+    "A1166P-78T": {
+        "device": {
+            "name": "Avalon A1166 Pro-78T",
+            "brand": "Avalon"
+        },
+        "profit": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 8.48905242285126,
+            "profitUSD": 4.409052422851261
+        },
+        "profit24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 8.950283150363099,
+            "profitUSD24": 4.870283150363099
+        },
+        "revenue": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 8.48905242285126,
+            "profitUSD": 4.409052422851261
+        },
+        "revenue24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 8.950283150363099,
+            "profitUSD24": 4.870283150363099
+        }
+    },
+    "A1166P-75T": {
+        "device": {
+            "name": "Avalon A1166 Pro-75T",
+            "brand": "Avalon"
+        },
+        "profit": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 8.16255040658775,
+            "profitUSD": 4.08255040658775
+        },
+        "profit24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 8.60604149073375,
+            "profitUSD24": 4.52604149073375
+        },
+        "revenue": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 8.16255040658775,
+            "profitUSD": 4.08255040658775
+        },
+        "revenue24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 8.60604149073375,
+            "profitUSD24": 4.52604149073375
+        }
+    },
+    "A1166P-72T": {
+        "device": {
+            "name": "Avalon A1166 Pro-72T",
+            "brand": "Avalon"
+        },
+        "profit": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 7.83604839032424,
+            "profitUSD": 3.7560483903242403
+        },
+        "profit24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 8.2617998311044,
+            "profitUSD24": 4.181799831104399
+        },
+        "revenue": {
+            "coin": "BTC",
+            "logo": "199",
+            "revenueUSD": 7.83604839032424,
+            "profitUSD": 3.7560483903242403
+        },
+        "revenue24": {
+            "coin": "DGB-SHA",
+            "logo": "343",
+            "revenueUSD24": 8.2617998311044,
+            "profitUSD24": 4.181799831104399
+        }
+    },
+    "a11": {
+        "device": {
+            "name": "Innosilicon A11",
+            "brand": "Innosilicon"
+        },
+        "profit": {
+            "coin": "ETHW",
+            "logo": "144",
+            "revenueUSD": 5.881097328769199,
+            "profitUSD": 2.881097328769199
+        },
+        "profit24": {
+            "coin": "ETHW",
+            "logo": "144",
+            "revenueUSD24": 5.9700033493149,
+            "profitUSD24": 2.9700033493149
+        },
+        "revenue": {
+            "coin": "ETHW",
+            "logo": "144",
+            "revenueUSD": 5.881097328769199,
+            "profitUSD": 2.881097328769199
+        },
+        "revenue24": {
+            "coin": "ETHW",
+            "logo": "144",
+            "revenueUSD24": 5.9700033493149,
+            "profitUSD24": 2.9700033493149
+        }
+    },
+    "a10proplus": {
+        "device": {
+            "name": "Innosilicon A10 Pro+",
+            "brand": "Innosilicon"
+        },
+        "profit": {
+            "coin": "ETHW",
+            "logo": "144",
+            "revenueUSD": 2.901341348859472,
+            "profitUSD": 1.3413413488594719
+        },
+        "profit24": {
+            "coin": "ETHW",
+            "logo": "144",
+            "revenueUSD24": 2.945201652328684,
+            "profitUSD24": 1.3852016523286839
+        },
+        "revenue": {
+            "coin": "ETHW",
+            "logo": "144",
+            "revenueUSD": 2.901341348859472,
+            "profitUSD": 1.3413413488594719
+        },
+        "revenue24": {
+            "coin": "ETHW",
+            "logo": "144",
+            "revenueUSD24": 2.945201652328684,
+            "profitUSD24": 1.3852016523286839
+        }
+    }
+}
