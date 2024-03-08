@@ -1,0 +1,1952 @@
+{
+    "g4600": {
+        "device": {
+            "name": "Intel Celeron G4600",
+            "brand": "INTEL"
+        },
+        "profit": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.07334250647724455,
+            "profitUSD": 0.012142506477244547
+        },
+        "profit24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.07858258172419297,
+            "profitUSD24": 0.017382581724192964
+        },
+        "revenue": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.07334250647724455,
+            "profitUSD": 0.012142506477244547
+        },
+        "revenue24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.07858258172419297,
+            "profitUSD24": 0.017382581724192964
+        }
+    },
+    "g4400": {
+        "device": {
+            "name": "Intel Pentium G4400",
+            "brand": "INTEL"
+        },
+        "profit": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.03352157504634797,
+            "profitUSD": -0.03127842495365204
+        },
+        "profit24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.03591657876351151,
+            "profitUSD24": -0.028883421236488502
+        },
+        "revenue": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.03352157504634797,
+            "profitUSD": -0.03127842495365204
+        },
+        "revenue24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.03591657876351151,
+            "profitUSD24": -0.028883421236488502
+        }
+    },
+    "g3930": {
+        "device": {
+            "name": "Intel Celeron G3930",
+            "brand": "INTEL"
+        },
+        "profit": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.028497088406291338,
+            "profitUSD": -0.03270291159370867
+        },
+        "profit24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.030533109463387862,
+            "profitUSD24": -0.030666890536612142
+        },
+        "revenue": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.028497088406291338,
+            "profitUSD": -0.03270291159370867
+        },
+        "revenue24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.030533109463387862,
+            "profitUSD24": -0.030666890536612142
+        }
+    },
+    "bc250cpu": {
+        "device": {
+            "name": "AMD BC-250 CPU",
+            "brand": "AMD"
+        },
+        "profit": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.16048360313016702,
+            "profitUSD": 0.082483603130167
+        },
+        "profit24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.17194961645171059,
+            "profitUSD24": 0.09394961645171057
+        },
+        "revenue": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.16048360313016702,
+            "profitUSD": 0.082483603130167
+        },
+        "revenue24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.17194961645171059,
+            "profitUSD24": 0.09394961645171057
+        }
+    },
+    "9900k": {
+        "device": {
+            "name": "Intel i9-9900K",
+            "brand": "INTEL"
+        },
+        "profit": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.6074379370814733,
+            "profitUSD": 0.4934379370814733
+        },
+        "profit24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.6508373332985308,
+            "profitUSD24": 0.5368373332985308
+        },
+        "revenue": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.6074379370814733,
+            "profitUSD": 0.4934379370814733
+        },
+        "revenue24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.6508373332985308,
+            "profitUSD24": 0.5368373332985308
+        }
+    },
+    "9700k": {
+        "device": {
+            "name": "Intel i7-9700K",
+            "brand": "INTEL"
+        },
+        "profit": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.37496168955646497,
+            "profitUSD": 0.260961689556465
+        },
+        "profit24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.401751440307735,
+            "profitUSD24": 0.28775144030773503
+        },
+        "revenue": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.37496168955646497,
+            "profitUSD": 0.260961689556465
+        },
+        "revenue24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.401751440307735,
+            "profitUSD24": 0.28775144030773503
+        }
+    },
+    "9600k": {
+        "device": {
+            "name": "Intel i5-9600K",
+            "brand": "INTEL"
+        },
+        "profit": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.278221573650897,
+            "profitUSD": 0.164221573650897
+        },
+        "profit24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.29809956870833937,
+            "profitUSD24": 0.18409956870833938
+        },
+        "revenue": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.278221573650897,
+            "profitUSD": 0.164221573650897
+        },
+        "revenue24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.29809956870833937,
+            "profitUSD24": 0.18409956870833938
+        }
+    },
+    "9354": {
+        "device": {
+            "name": "AMD EPYC 9354",
+            "brand": "AMD"
+        },
+        "profit": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 2.5350409907533487,
+            "profitUSD": 2.199040990753349
+        },
+        "profit24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 2.7161611376325347,
+            "profitUSD24": 2.380161137632535
+        },
+        "revenue": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 2.5350409907533487,
+            "profitUSD": 2.199040990753349
+        },
+        "revenue24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 2.7161611376325347,
+            "profitUSD24": 2.380161137632535
+        }
+    },
+    "8700k": {
+        "device": {
+            "name": "Intel i7-8700K",
+            "brand": "INTEL"
+        },
+        "profit": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.43420563650638644,
+            "profitUSD": 0.32020563650638645
+        },
+        "profit24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.4652281678763571,
+            "profitUSD24": 0.35122816787635713
+        },
+        "revenue": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.43420563650638644,
+            "profitUSD": 0.32020563650638645
+        },
+        "revenue24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.4652281678763571,
+            "profitUSD24": 0.35122816787635713
+        }
+    },
+    "8700g": {
+        "device": {
+            "name": "AMD Ryzen 7 8700G",
+            "brand": "AMD"
+        },
+        "profit": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.45895310801711314,
+            "profitUSD": 0.37135310801711313
+        },
+        "profit24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.49174376293666766,
+            "profitUSD24": 0.40414376293666765
+        },
+        "revenue": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.45895310801711314,
+            "profitUSD": 0.37135310801711313
+        },
+        "revenue24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.49174376293666766,
+            "profitUSD24": 0.40414376293666765
+        }
+    },
+    "8600g": {
+        "device": {
+            "name": "AMD Ryzen 5 8600G",
+            "brand": "AMD"
+        },
+        "profit": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.4304560196108218,
+            "profitUSD": 0.3524560196108218
+        },
+        "profit24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.4612106534732798,
+            "profitUSD24": 0.38321065347327976
+        },
+        "revenue": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.4304560196108218,
+            "profitUSD": 0.3524560196108218
+        },
+        "revenue24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.4612106534732798,
+            "profitUSD24": 0.38321065347327976
+        }
+    },
+    "8500g": {
+        "device": {
+            "name": "AMD Ryzen 5 8500G",
+            "brand": "AMD"
+        },
+        "profit": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.40420870134186926,
+            "profitUSD": 0.35380870134186926
+        },
+        "profit24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.43308805265173833,
+            "profitUSD24": 0.38268805265173833
+        },
+        "revenue": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.40420870134186926,
+            "profitUSD": 0.35380870134186926
+        },
+        "revenue24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.43308805265173833,
+            "profitUSD24": 0.38268805265173833
+        }
+    },
+    "8100": {
+        "device": {
+            "name": "Intel i3-8100",
+            "brand": "INTEL"
+        },
+        "profit": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.07994183221343834,
+            "profitUSD": 0.001941832213438327
+        },
+        "profit24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.0856534070736091,
+            "profitUSD24": 0.007653407073609092
+        },
+        "revenue": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.07994183221343834,
+            "profitUSD": 0.001941832213438327
+        },
+        "revenue24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.0856534070736091,
+            "profitUSD24": 0.007653407073609092
+        }
+    },
+    "7950x3d": {
+        "device": {
+            "name": "AMD Ryzen 9 7950X3D",
+            "brand": "AMD"
+        },
+        "profit": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 1.6873276030040925,
+            "profitUSD": 1.5433276030040926
+        },
+        "profit24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 1.8078814813848076,
+            "profitUSD24": 1.6638814813848077
+        },
+        "revenue": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 1.6873276030040925,
+            "profitUSD": 1.5433276030040926
+        },
+        "revenue24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 1.8078814813848076,
+            "profitUSD24": 1.6638814813848077
+        }
+    },
+    "7950x": {
+        "device": {
+            "name": "AMD Ryzen 9 7950X",
+            "brand": "AMD"
+        },
+        "profit": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 1.3413879482192979,
+            "profitUSD": 1.1841879482192978
+        },
+        "profit24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 1.4372256025568912,
+            "profitUSD24": 1.2800256025568912
+        },
+        "revenue": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 1.3413879482192979,
+            "profitUSD": 1.1841879482192978
+        },
+        "revenue24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 1.4372256025568912,
+            "profitUSD24": 1.2800256025568912
+        }
+    },
+    "7900x3d": {
+        "device": {
+            "name": "AMD Ryzen 9 7900X3D",
+            "brand": "AMD"
+        },
+        "profit": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 1.14663284666367,
+            "profitUSD": 1.00263284666367
+        },
+        "profit24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 1.2285559044610537,
+            "profitUSD24": 1.0845559044610538
+        },
+        "revenue": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 1.14663284666367,
+            "profitUSD": 1.00263284666367
+        },
+        "revenue24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 1.2285559044610537,
+            "profitUSD24": 1.0845559044610538
+        }
+    },
+    "7900x": {
+        "device": {
+            "name": "AMD Ryzen 9 7900X",
+            "brand": "AMD"
+        },
+        "profit": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 1.1323843024605242,
+            "profitUSD": 0.9511843024605242
+        },
+        "profit24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 1.2132893497293598,
+            "profitUSD24": 1.0320893497293597
+        },
+        "revenue": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 1.1323843024605242,
+            "profitUSD": 0.9511843024605242
+        },
+        "revenue24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 1.2132893497293598,
+            "profitUSD24": 1.0320893497293597
+        }
+    },
+    "7900": {
+        "device": {
+            "name": "AMD Ryzen 9 7900",
+            "brand": "AMD"
+        },
+        "profit": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 1.124885068669395,
+            "profitUSD": 1.046885068669395
+        },
+        "profit24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 1.205254320923205,
+            "profitUSD24": 1.1272543209232049
+        },
+        "revenue": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 1.124885068669395,
+            "profitUSD": 1.046885068669395
+        },
+        "revenue24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 1.205254320923205,
+            "profitUSD24": 1.1272543209232049
+        }
+    },
+    "7800x3d": {
+        "device": {
+            "name": "AMD Ryzen 7 7800X3D",
+            "brand": "AMD"
+        },
+        "profit": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.7626720765578497,
+            "profitUSD": 0.6186720765578497
+        },
+        "profit24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.817162429585933,
+            "profitUSD24": 0.673162429585933
+        },
+        "revenue": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.7626720765578497,
+            "profitUSD": 0.6186720765578497
+        },
+        "revenue24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.817162429585933,
+            "profitUSD24": 0.673162429585933
+        }
+    },
+    "7763": {
+        "device": {
+            "name": "AMD EPYC 7763",
+            "brand": "AMD"
+        },
+        "profit": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 3.5246398818307707,
+            "profitUSD": 3.152639881830771
+        },
+        "profit24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 3.7764635388927092,
+            "profitUSD24": 3.4044635388927094
+        },
+        "revenue": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 3.5246398818307707,
+            "profitUSD": 3.152639881830771
+        },
+        "revenue24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 3.7764635388927092,
+            "profitUSD24": 3.4044635388927094
+        }
+    },
+    "7742": {
+        "device": {
+            "name": "AMD EPYC 7742",
+            "brand": "AMD"
+        },
+        "profit": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 3.374655206008185,
+            "profitUSD": 3.104655206008185
+        },
+        "profit24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 3.6157629627696153,
+            "profitUSD24": 3.3457629627696153
+        },
+        "revenue": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 3.374655206008185,
+            "profitUSD": 3.104655206008185
+        },
+        "revenue24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 3.6157629627696153,
+            "profitUSD24": 3.3457629627696153
+        }
+    },
+    "7713": {
+        "device": {
+            "name": "AMD EPYC 7713",
+            "brand": "AMD"
+        },
+        "profit": null,
+        "profit24": null,
+        "revenue": null,
+        "revenue24": null
+    },
+    "7700x": {
+        "device": {
+            "name": "AMD Ryzen 7 7700X",
+            "brand": "AMD"
+        },
+        "profit": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.974900392846809,
+            "profitUSD": 0.848900392846809
+        },
+        "profit24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 1.044553744800111,
+            "profitUSD24": 0.918553744800111
+        },
+        "revenue": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.974900392846809,
+            "profitUSD": 0.848900392846809
+        },
+        "revenue24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 1.044553744800111,
+            "profitUSD24": 0.918553744800111
+        }
+    },
+    "7700k": {
+        "device": {
+            "name": "Intel i7-7700K",
+            "brand": "INTEL"
+        },
+        "profit": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.05924394694992147,
+            "profitUSD": -0.04995605305007855
+        },
+        "profit24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.06347672756862213,
+            "profitUSD24": -0.04572327243137789
+        },
+        "revenue": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.05924394694992147,
+            "profitUSD": -0.04995605305007855
+        },
+        "revenue24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.06347672756862213,
+            "profitUSD24": -0.04572327243137789
+        }
+    },
+    "7700": {
+        "device": {
+            "name": "AMD Ryzen 7 7700",
+            "brand": "AMD"
+        },
+        "profit": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.824915717024223,
+            "profitUSD": 0.7469157170242229
+        },
+        "profit24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.883853168677017,
+            "profitUSD24": 0.805853168677017
+        },
+        "revenue": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.824915717024223,
+            "profitUSD": 0.7469157170242229
+        },
+        "revenue24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.883853168677017,
+            "profitUSD24": 0.805853168677017
+        }
+    },
+    "7600x": {
+        "device": {
+            "name": "AMD Ryzen 5 7600X",
+            "brand": "AMD"
+        },
+        "profit": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.6179368643890543,
+            "profitUSD": 0.49193686438905426
+        },
+        "profit24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.6620863736271473,
+            "profitUSD24": 0.5360863736271473
+        },
+        "revenue": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.6179368643890543,
+            "profitUSD": 0.49193686438905426
+        },
+        "revenue24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.6620863736271473,
+            "profitUSD24": 0.5360863736271473
+        }
+    },
+    "7600": {
+        "device": {
+            "name": "AMD Ryzen 5 7600",
+            "brand": "AMD"
+        },
+        "profit": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.6179368643890543,
+            "profitUSD": 0.5399368643890543
+        },
+        "profit24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.6620863736271473,
+            "profitUSD24": 0.5840863736271473
+        },
+        "revenue": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.6179368643890543,
+            "profitUSD": 0.5399368643890543
+        },
+        "revenue24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.6620863736271473,
+            "profitUSD24": 0.5840863736271473
+        }
+    },
+    "7551": {
+        "device": {
+            "name": "AMD EPYC 7551",
+            "brand": "AMD"
+        },
+        "profit": null,
+        "profit24": null,
+        "revenue": null,
+        "revenue24": null
+    },
+    "7532": {
+        "device": {
+            "name": "AMD EPYC 7532",
+            "brand": "AMD"
+        },
+        "profit": null,
+        "profit24": null,
+        "revenue": null,
+        "revenue24": null
+    },
+    "7500": {
+        "device": {
+            "name": "Intel i5-7500",
+            "brand": "INTEL"
+        },
+        "profit": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.15373429271815064,
+            "profitUSD": 0.07573429271815063
+        },
+        "profit24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.16471809052617137,
+            "profitUSD24": 0.08671809052617135
+        },
+        "revenue": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.15373429271815064,
+            "profitUSD": 0.07573429271815063
+        },
+        "revenue24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.16471809052617137,
+            "profitUSD24": 0.08671809052617135
+        }
+    },
+    "7453": {
+        "device": {
+            "name": "AMD EPYC 7453",
+            "brand": "AMD"
+        },
+        "profit": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 1.1848789389984293,
+            "profitUSD": 0.9148789389984293
+        },
+        "profit24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 1.2695345513724425,
+            "profitUSD24": 0.9995345513724425
+        },
+        "revenue": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 1.1848789389984293,
+            "profitUSD": 0.9148789389984293
+        },
+        "revenue24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 1.2695345513724425,
+            "profitUSD24": 0.9995345513724425
+        }
+    },
+    "7300": {
+        "device": {
+            "name": "Intel i3-7300",
+            "brand": "INTEL"
+        },
+        "profit": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.050619828090122776,
+            "profitUSD": -0.010580171909877228
+        },
+        "profit24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.054236444441544227,
+            "profitUSD24": -0.006963555558455778
+        },
+        "revenue": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.050619828090122776,
+            "profitUSD": -0.010580171909877228
+        },
+        "revenue24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.054236444441544227,
+            "profitUSD24": -0.006963555558455778
+        }
+    },
+    "7282": {
+        "device": {
+            "name": "AMD EPYC 7282",
+            "brand": "AMD"
+        },
+        "profit": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.9816497032588254,
+            "profitUSD": 0.8376497032588254
+        },
+        "profit24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 1.0517852707256503,
+            "profitUSD24": 0.9077852707256503
+        },
+        "revenue": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.9816497032588254,
+            "profitUSD": 0.8376497032588254
+        },
+        "revenue24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 1.0517852707256503,
+            "profitUSD24": 0.9077852707256503
+        }
+    },
+    "6700": {
+        "device": {
+            "name": "Intel i7-6700",
+            "brand": "INTEL"
+        },
+        "profit": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.2099785461516204,
+            "profitUSD": 0.13197854615162039
+        },
+        "profit24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.2249808065723316,
+            "profitUSD24": 0.1469808065723316
+        },
+        "revenue": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.2099785461516204,
+            "profitUSD": 0.13197854615162039
+        },
+        "revenue24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.2249808065723316,
+            "profitUSD24": 0.1469808065723316
+        }
+    },
+    "6400": {
+        "device": {
+            "name": "Intel i5-6400",
+            "brand": "INTEL"
+        },
+        "profit": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.1627333732675058,
+            "profitUSD": 0.0847333732675058
+        },
+        "profit24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.174360125093557,
+            "profitUSD24": 0.09636012509355699
+        },
+        "revenue": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.1627333732675058,
+            "profitUSD": 0.0847333732675058
+        },
+        "revenue24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.174360125093557,
+            "profitUSD24": 0.09636012509355699
+        }
+    },
+    "5950x": {
+        "device": {
+            "name": "AMD Ryzen 9 5950X",
+            "brand": "AMD"
+        },
+        "profit": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 1.4998467582258599,
+            "profitUSD": 1.3738467582258598
+        },
+        "profit24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 1.60700576123094,
+            "profitUSD24": 1.4810057612309402
+        },
+        "revenue": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 1.4998467582258599,
+            "profitUSD": 1.3738467582258598
+        },
+        "revenue24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 1.60700576123094,
+            "profitUSD24": 1.4810057612309402
+        }
+    },
+    "5900x": {
+        "device": {
+            "name": "AMD Ryzen 9 5900X",
+            "brand": "AMD"
+        },
+        "profit": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 1.1998774065806879,
+            "profitUSD": 1.0738774065806878
+        },
+        "profit24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 1.285604608984752,
+            "profitUSD24": 1.1596046089847518
+        },
+        "revenue": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 1.1998774065806879,
+            "profitUSD": 1.0738774065806878
+        },
+        "revenue24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 1.285604608984752,
+            "profitUSD24": 1.1596046089847518
+        }
+    },
+    "5800x3d": {
+        "device": {
+            "name": "AMD Ryzen 7 5800X3D",
+            "brand": "AMD"
+        },
+        "profit": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.6749310412016369,
+            "profitUSD": 0.5489310412016369
+        },
+        "profit24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.7231525925539231,
+            "profitUSD24": 0.5971525925539231
+        },
+        "revenue": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.6749310412016369,
+            "profitUSD": 0.5489310412016369
+        },
+        "revenue24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.7231525925539231,
+            "profitUSD24": 0.5971525925539231
+        }
+    },
+    "5800x": {
+        "device": {
+            "name": "AMD Ryzen 7 5800X",
+            "brand": "AMD"
+        },
+        "profit": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.8324149508153523,
+            "profitUSD": 0.7064149508153523
+        },
+        "profit24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.8918881974831717,
+            "profitUSD24": 0.7658881974831717
+        },
+        "revenue": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.8324149508153523,
+            "profitUSD": 0.7064149508153523
+        },
+        "revenue24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.8918881974831717,
+            "profitUSD24": 0.7658881974831717
+        }
+    },
+    "5700x": {
+        "device": {
+            "name": "AMD Ryzen 7 5700X",
+            "brand": "AMD"
+        },
+        "profit": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.7724210804863179,
+            "profitUSD": 0.6944210804863178
+        },
+        "profit24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.8276079670339341,
+            "profitUSD24": 0.7496079670339342
+        },
+        "revenue": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.7724210804863179,
+            "profitUSD": 0.6944210804863178
+        },
+        "revenue24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.8276079670339341,
+            "profitUSD24": 0.7496079670339342
+        }
+    },
+    "5700g": {
+        "device": {
+            "name": "AMD Ryzen 7 5700G",
+            "brand": "AMD"
+        },
+        "profit": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.28362102198051015,
+            "profitUSD": 0.20562102198051013
+        },
+        "profit24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.3038847894487708,
+            "profitUSD24": 0.22588478944877077
+        },
+        "revenue": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.28362102198051015,
+            "profitUSD": 0.20562102198051013
+        },
+        "revenue24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.3038847894487708,
+            "profitUSD24": 0.22588478944877077
+        }
+    },
+    "5600x": {
+        "device": {
+            "name": "AMD Ryzen 5 5600X",
+            "brand": "AMD"
+        },
+        "profit": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.41200790448464375,
+            "profitUSD": 0.33400790448464374
+        },
+        "profit24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.44144448261013924,
+            "profitUSD24": 0.36344448261013923
+        },
+        "revenue": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.41200790448464375,
+            "profitUSD": 0.33400790448464374
+        },
+        "revenue24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.44144448261013924,
+            "profitUSD24": 0.36344448261013923
+        }
+    },
+    "5600g": {
+        "device": {
+            "name": "AMD Ryzen 5 5600G",
+            "brand": "AMD"
+        },
+        "profit": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.39220992727606235,
+            "profitUSD": 0.31420992727606234
+        },
+        "profit24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.4202320065618908,
+            "profitUSD24": 0.3422320065618908
+        },
+        "revenue": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.39220992727606235,
+            "profitUSD": 0.31420992727606234
+        },
+        "revenue24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.4202320065618908,
+            "profitUSD24": 0.3422320065618908
+        }
+    },
+    "4790": {
+        "device": {
+            "name": "Intel i7-4790",
+            "brand": "INTEL"
+        },
+        "profit": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.2024793123604911,
+            "profitUSD": 0.1016793123604911
+        },
+        "profit24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.2169457777661769,
+            "profitUSD24": 0.1161457777661769
+        },
+        "revenue": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.2024793123604911,
+            "profitUSD": 0.1016793123604911
+        },
+        "revenue24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.2169457777661769,
+            "profitUSD24": 0.1161457777661769
+        }
+    },
+    "4460": {
+        "device": {
+            "name": "Intel i5-4460",
+            "brand": "INTEL"
+        },
+        "profit": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.13123659134476276,
+            "profitUSD": 0.03043659134476276
+        },
+        "profit24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.14061300410770725,
+            "profitUSD24": 0.039813004107707245
+        },
+        "revenue": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.13123659134476276,
+            "profitUSD": 0.03043659134476276
+        },
+        "revenue24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.14061300410770725,
+            "profitUSD24": 0.039813004107707245
+        }
+    },
+    "3950x": {
+        "device": {
+            "name": "AMD Ryzen 9 3950X",
+            "brand": "AMD"
+        },
+        "profit": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.9674011590556797,
+            "profitUSD": 0.8414011590556797
+        },
+        "profit24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 1.0365187159939564,
+            "profitUSD24": 0.9105187159939564
+        },
+        "revenue": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.9674011590556797,
+            "profitUSD": 0.8414011590556797
+        },
+        "revenue24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 1.0365187159939564,
+            "profitUSD24": 0.9105187159939564
+        }
+    },
+    "3900x": {
+        "device": {
+            "name": "AMD Ryzen 9 3900X",
+            "brand": "AMD"
+        },
+        "profit": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.9449034576822918,
+            "profitUSD": 0.8129034576822918
+        },
+        "profit24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 1.0124136295754922,
+            "profitUSD24": 0.8804136295754922
+        },
+        "revenue": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.9449034576822918,
+            "profitUSD": 0.8129034576822918
+        },
+        "revenue24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 1.0124136295754922,
+            "profitUSD24": 0.8804136295754922
+        }
+    },
+    "3770": {
+        "device": {
+            "name": "Intel i7-3770",
+            "brand": "INTEL"
+        },
+        "profit": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.1747321473333127,
+            "profitUSD": 0.08233214733331268
+        },
+        "profit24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.18721617118340453,
+            "profitUSD24": 0.09481617118340452
+        },
+        "revenue": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.1747321473333127,
+            "profitUSD": 0.08233214733331268
+        },
+        "revenue24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.18721617118340453,
+            "profitUSD24": 0.09481617118340452
+        }
+    },
+    "3700x": {
+        "device": {
+            "name": "AMD Ryzen 7 3700X",
+            "brand": "AMD"
+        },
+        "profit": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.7349249115306714,
+            "profitUSD": 0.6569249115306715
+        },
+        "profit24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.7874328230031606,
+            "profitUSD24": 0.7094328230031606
+        },
+        "revenue": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.7349249115306714,
+            "profitUSD": 0.6569249115306715
+        },
+        "revenue24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.7874328230031606,
+            "profitUSD24": 0.7094328230031606
+        }
+    },
+    "3600x": {
+        "device": {
+            "name": "AMD Ryzen 5 3600x",
+            "brand": "AMD"
+        },
+        "profit": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.6074379370814733,
+            "profitUSD": 0.4934379370814733
+        },
+        "profit24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.6508373332985308,
+            "profitUSD24": 0.5368373332985308
+        },
+        "revenue": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.6074379370814733,
+            "profitUSD": 0.4934379370814733
+        },
+        "revenue24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.6508373332985308,
+            "profitUSD24": 0.5368373332985308
+        }
+    },
+    "3600": {
+        "device": {
+            "name": "AMD Ryzen 5 3600",
+            "brand": "AMD"
+        },
+        "profit": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.5999387032903439,
+            "profitUSD": 0.521938703290344
+        },
+        "profit24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.642802304492376,
+            "profitUSD24": 0.564802304492376
+        },
+        "revenue": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.5999387032903439,
+            "profitUSD": 0.521938703290344
+        },
+        "revenue24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.642802304492376,
+            "profitUSD24": 0.564802304492376
+        }
+    },
+    "3450": {
+        "device": {
+            "name": "Intel i5-3450",
+            "brand": "INTEL"
+        },
+        "profit": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.11473827700427829,
+            "profitUSD": 0.022338277004278276
+        },
+        "profit24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.12293594073416692,
+            "profitUSD24": 0.030535940734166905
+        },
+        "revenue": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.11473827700427829,
+            "profitUSD": 0.022338277004278276
+        },
+        "revenue24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.12293594073416692,
+            "profitUSD24": 0.030535940734166905
+        }
+    },
+    "3240": {
+        "device": {
+            "name": "Intel i3-3240",
+            "brand": "INTEL"
+        },
+        "profit": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.04124578585121115,
+            "profitUSD": -0.024754214148788853
+        },
+        "profit24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.044192658433850854,
+            "profitUSD24": -0.02180734156614915
+        },
+        "revenue": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.04124578585121115,
+            "profitUSD": -0.024754214148788853
+        },
+        "revenue24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.044192658433850854,
+            "profitUSD24": -0.02180734156614915
+        }
+    },
+    "2600s": {
+        "device": {
+            "name": "Intel i7-2600S",
+            "brand": "INTEL"
+        },
+        "profit": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.13311139979254508,
+            "profitUSD": 0.05511139979254506
+        },
+        "profit24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.14262176130924592,
+            "profitUSD24": 0.0646217613092459
+        },
+        "revenue": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.13311139979254508,
+            "profitUSD": 0.05511139979254506
+        },
+        "revenue24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.14262176130924592,
+            "profitUSD24": 0.0646217613092459
+        }
+    },
+    "2400": {
+        "device": {
+            "name": "Intel i5-2400",
+            "brand": "INTEL"
+        },
+        "profit": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.1102387367296007,
+            "profitUSD": -0.003761263270399287
+        },
+        "profit24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.1181149234504741,
+            "profitUSD24": 0.004114923450474109
+        },
+        "revenue": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.1102387367296007,
+            "profitUSD": -0.003761263270399287
+        },
+        "revenue24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.1181149234504741,
+            "profitUSD24": 0.004114923450474109
+        }
+    },
+    "1600": {
+        "device": {
+            "name": "AMD Ryzen 5 1600",
+            "brand": "AMD"
+        },
+        "profit": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.3974593909298529,
+            "profitUSD": 0.31945939092985287
+        },
+        "profit24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.4258565267261991,
+            "profitUSD24": 0.3478565267261991
+        },
+        "revenue": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.3974593909298529,
+            "profitUSD": 0.31945939092985287
+        },
+        "revenue24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.4258565267261991,
+            "profitUSD24": 0.3478565267261991
+        }
+    },
+    "13900k": {
+        "device": {
+            "name": "Intel i9-13900K",
+            "brand": "INTEL"
+        },
+        "profit": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 1.0108967150442296,
+            "profitUSD": 0.8608967150442296
+        },
+        "profit24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 1.0831218830696536,
+            "profitUSD24": 0.9331218830696536
+        },
+        "revenue": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 1.0108967150442296,
+            "profitUSD": 0.8608967150442296
+        },
+        "revenue24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 1.0831218830696536,
+            "profitUSD24": 0.9331218830696536
+        }
+    },
+    "12900k": {
+        "device": {
+            "name": "Intel i9-12900K",
+            "brand": "INTEL"
+        },
+        "profit": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.8699111197709988,
+            "profitUSD": 0.7199111197709988
+        },
+        "profit24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.9320633415139452,
+            "profitUSD24": 0.7820633415139452
+        },
+        "revenue": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.8699111197709988,
+            "profitUSD": 0.7199111197709988
+        },
+        "revenue24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.9320633415139452,
+            "profitUSD24": 0.7820633415139452
+        }
+    },
+    "12700": {
+        "device": {
+            "name": "Intel i7-12700",
+            "brand": "INTEL"
+        },
+        "profit": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.39445969741340114,
+            "profitUSD": 0.31645969741340113
+        },
+        "profit24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.42264251520373725,
+            "profitUSD24": 0.34464251520373723
+        },
+        "revenue": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.39445969741340114,
+            "profitUSD": 0.31645969741340113
+        },
+        "revenue24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.42264251520373725,
+            "profitUSD24": 0.34464251520373723
+        }
+    },
+    "11400": {
+        "device": {
+            "name": "Intel i5-11400",
+            "brand": "INTEL"
+        },
+        "profit": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.3622129921115452,
+            "profitUSD": 0.28421299211154516
+        },
+        "profit24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.388091891337272,
+            "profitUSD24": 0.310091891337272
+        },
+        "revenue": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.3622129921115452,
+            "profitUSD": 0.28421299211154516
+        },
+        "revenue24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.388091891337272,
+            "profitUSD24": 0.310091891337272
+        }
+    },
+    "10900k": {
+        "device": {
+            "name": "Intel i9-10900K",
+            "brand": "INTEL"
+        },
+        "profit": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.7499233791129299,
+            "profitUSD": 0.5999233791129299
+        },
+        "profit24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.80350288061547,
+            "profitUSD24": 0.65350288061547
+        },
+        "revenue": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.7499233791129299,
+            "profitUSD": 0.5999233791129299
+        },
+        "revenue24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.80350288061547,
+            "profitUSD24": 0.65350288061547
+        }
+    },
+    "10870h": {
+        "device": {
+            "name": "Intel i7-10870H",
+            "brand": "INTEL"
+        },
+        "profit": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.3929598506551753,
+            "profitUSD": 0.3389598506551753
+        },
+        "profit24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.4210355094425063,
+            "profitUSD24": 0.3670355094425063
+        },
+        "revenue": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.3929598506551753,
+            "profitUSD": 0.3389598506551753
+        },
+        "revenue24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.4210355094425063,
+            "profitUSD24": 0.3670355094425063
+        }
+    },
+    "10700k": {
+        "device": {
+            "name": "Intel i7-10700K",
+            "brand": "INTEL"
+        },
+        "profit": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.4199570923032408,
+            "profitUSD": 0.2699570923032408
+        },
+        "profit24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.4499616131446632,
+            "profitUSD24": 0.2999616131446632
+        },
+        "revenue": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.4199570923032408,
+            "profitUSD": 0.2699570923032408
+        },
+        "revenue24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.4499616131446632,
+            "profitUSD24": 0.2999616131446632
+        }
+    },
+    "10700": {
+        "device": {
+            "name": "Intel i7-10700",
+            "brand": "INTEL"
+        },
+        "profit": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.4619528015335649,
+            "profitUSD": 0.38395280153356487
+        },
+        "profit24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.49495777445912953,
+            "profitUSD24": 0.4169577744591295
+        },
+        "revenue": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.4619528015335649,
+            "profitUSD": 0.38395280153356487
+        },
+        "revenue24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.49495777445912953,
+            "profitUSD24": 0.4169577744591295
+        }
+    },
+    "10600k": {
+        "device": {
+            "name": "Intel i5-10600K",
+            "brand": "INTEL"
+        },
+        "profit": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.42295678581969254,
+            "profitUSD": 0.2729567858196925
+        },
+        "profit24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.4531756246671251,
+            "profitUSD24": 0.30317562466712505
+        },
+        "revenue": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.42295678581969254,
+            "profitUSD": 0.2729567858196925
+        },
+        "revenue24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.4531756246671251,
+            "profitUSD24": 0.30317562466712505
+        }
+    },
+    "10310u": {
+        "device": {
+            "name": "Intel i5-10310U",
+            "brand": "INTEL"
+        },
+        "profit": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.1379859017567791,
+            "profitUSD": 0.1079859017567791
+        },
+        "profit24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.1478445300332465,
+            "profitUSD24": 0.11784453003324649
+        },
+        "revenue": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.1379859017567791,
+            "profitUSD": 0.1079859017567791
+        },
+        "revenue24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.1478445300332465,
+            "profitUSD24": 0.11784453003324649
+        }
+    },
+    "10100": {
+        "device": {
+            "name": "Intel i3-10100",
+            "brand": "INTEL"
+        },
+        "profit": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.10348942631758434,
+            "profitUSD": 0.02548942631758433
+        },
+        "profit24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.11088339752493487,
+            "profitUSD24": 0.032883397524934854
+        },
+        "revenue": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD": 0.10348942631758434,
+            "profitUSD": 0.02548942631758433
+        },
+        "revenue24": {
+            "coin": "ZEPH",
+            "logo": "428",
+            "revenueUSD24": 0.11088339752493487,
+            "profitUSD24": 0.032883397524934854
+        }
+    }
+}
