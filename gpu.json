@@ -1,0 +1,2612 @@
+{
+    "vii": {
+        "device": {
+            "name": "AMD VII",
+            "brand": "AMD"
+        },
+        "profit": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.8399373181978891,
+            "profitUSD": 0.6563373181978891
+        },
+        "profit24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.7703086355328452,
+            "profitUSD24": 0.5867086355328452
+        },
+        "revenue": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.8399373181978891,
+            "profitUSD": 0.6563373181978891
+        },
+        "revenue24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.7703086355328452,
+            "profitUSD24": 0.5867086355328452
+        }
+    },
+    "vega64": {
+        "device": {
+            "name": "AMD VEGA 64",
+            "brand": "AMD"
+        },
+        "profit": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.661972301035458,
+            "profitUSD": 0.486772301035458
+        },
+        "profit24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.6070964688951036,
+            "profitUSD24": 0.4318964688951036
+        },
+        "revenue": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.661972301035458,
+            "profitUSD": 0.486772301035458
+        },
+        "revenue24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.6070964688951036,
+            "profitUSD24": 0.4318964688951036
+        }
+    },
+    "vega56": {
+        "device": {
+            "name": "AMD VEGA 56",
+            "brand": "AMD"
+        },
+        "profit": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.6473417538024279,
+            "profitUSD": 0.4697417538024279
+        },
+        "profit24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.5936787570825669,
+            "profitUSD24": 0.4160787570825669
+        },
+        "revenue": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.6473417538024279,
+            "profitUSD": 0.4697417538024279
+        },
+        "revenue24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.5936787570825669,
+            "profitUSD24": 0.4160787570825669
+        }
+    },
+    "7900xtx": {
+        "device": {
+            "name": "AMD RX 7900 XTX",
+            "brand": "AMD"
+        },
+        "profit": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 1.400455168748565,
+            "profitUSD": 1.0404551687485648
+        },
+        "profit24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 1.2843609716951123,
+            "profitUSD24": 0.9243609716951122
+        },
+        "revenue": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 1.400455168748565,
+            "profitUSD": 1.0404551687485648
+        },
+        "revenue24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 1.2843609716951123,
+            "profitUSD24": 0.9243609716951122
+        }
+    },
+    "7900xt": {
+        "device": {
+            "name": "AMD RX 7900 XT",
+            "brand": "AMD"
+        },
+        "profit": {
+            "coin": "BTG",
+            "logo": "143",
+            "revenueUSD": 1.0933800395435567,
+            "profitUSD": 0.8989800395435567
+        },
+        "profit24": {
+            "coin": "BTG",
+            "logo": "143",
+            "revenueUSD24": 1.0474615338439537,
+            "profitUSD24": 0.8530615338439537
+        },
+        "revenue": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 1.1594109069584797,
+            "profitUSD": 0.8510109069584797
+        },
+        "revenue24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 1.0632986705213519,
+            "profitUSD24": 0.7548986705213518
+        }
+    },
+    "7900gre": {
+        "device": {
+            "name": "AMD RX 7900 GRE",
+            "brand": "AMD"
+        },
+        "profit": {
+            "coin": "IRON",
+            "logo": "366",
+            "revenueUSD": 0.6879082833908492,
+            "profitUSD": 0.5475082833908492
+        },
+        "profit24": {
+            "coin": "IRON",
+            "logo": "366",
+            "revenueUSD24": 0.7076359636710406,
+            "profitUSD24": 0.5672359636710407
+        },
+        "revenue": {
+            "coin": "IRON",
+            "logo": "366",
+            "revenueUSD": 0.6879082833908492,
+            "profitUSD": 0.5475082833908492
+        },
+        "revenue24": {
+            "coin": "IRON",
+            "logo": "366",
+            "revenueUSD24": 0.7076359636710406,
+            "profitUSD24": 0.5672359636710407
+        }
+    },
+    "7800xt": {
+        "device": {
+            "name": "AMD RX 7800 XT",
+            "brand": "AMD"
+        },
+        "profit": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.8670398073344857,
+            "profitUSD": 0.5994398073344858
+        },
+        "profit24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.7951643967593476,
+            "profitUSD24": 0.5275643967593475
+        },
+        "revenue": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.8670398073344857,
+            "profitUSD": 0.5994398073344858
+        },
+        "revenue24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.7951643967593476,
+            "profitUSD24": 0.5275643967593475
+        }
+    },
+    "7700xt": {
+        "device": {
+            "name": "AMD RX 7700 XT",
+            "brand": "AMD"
+        },
+        "profit": {
+            "coin": "BTG",
+            "logo": "143",
+            "revenueUSD": 0.6484351067848594,
+            "profitUSD": 0.4840351067848594
+        },
+        "profit24": {
+            "coin": "BTG",
+            "logo": "143",
+            "revenueUSD24": 0.6212028818769003,
+            "profitUSD24": 0.4568028818769003
+        },
+        "revenue": {
+            "coin": "BTG",
+            "logo": "143",
+            "revenueUSD": 0.6484351067848594,
+            "profitUSD": 0.4840351067848594
+        },
+        "revenue24": {
+            "coin": "BTG",
+            "logo": "143",
+            "revenueUSD24": 0.6212028818769003,
+            "profitUSD24": 0.4568028818769003
+        }
+    },
+    "7600": {
+        "device": {
+            "name": "AMD RX 7600",
+            "brand": "AMD"
+        },
+        "profit": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.4283632353801913,
+            "profitUSD": 0.3071632353801913
+        },
+        "profit24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.39285300487197644,
+            "profitUSD24": 0.2716530048719764
+        },
+        "revenue": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.4283632353801913,
+            "profitUSD": 0.3071632353801913
+        },
+        "revenue24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.39285300487197644,
+            "profitUSD24": 0.2716530048719764
+        }
+    },
+    "6950xt": {
+        "device": {
+            "name": "AMD RX 6950 XT",
+            "brand": "AMD"
+        },
+        "profit": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.8838289598969792,
+            "profitUSD": 0.6450289598969792
+        },
+        "profit24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.8105617709704553,
+            "profitUSD24": 0.5717617709704553
+        },
+        "revenue": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.8838289598969792,
+            "profitUSD": 0.6450289598969792
+        },
+        "revenue24": {
+            "coin": "HYPRA+KLS",
+            "logo": "595",
+            "revenueUSD24": 0.8154391598636299,
+            "profitUSD24": 0.5598391598636299
+        }
+    },
+    "6900xt": {
+        "device": {
+            "name": "AMD RX 6900 XT",
+            "brand": "AMD"
+        },
+        "profit": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.8821500446407299,
+            "profitUSD": 0.6805500446407299
+        },
+        "profit24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.8090220335493445,
+            "profitUSD24": 0.6074220335493445
+        },
+        "revenue": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.8821500446407299,
+            "profitUSD": 0.6805500446407299
+        },
+        "revenue24": {
+            "coin": "HYPRA+KLS",
+            "logo": "595",
+            "revenueUSD24": 0.848289634102832,
+            "profitUSD24": 0.596289634102832
+        }
+    },
+    "6800xt": {
+        "device": {
+            "name": "AMD RX 6800 XT",
+            "brand": "AMD"
+        },
+        "profit": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.8660804271880574,
+            "profitUSD": 0.7016804271880575
+        },
+        "profit24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.7942845468044272,
+            "profitUSD24": 0.6298845468044272
+        },
+        "revenue": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.8660804271880574,
+            "profitUSD": 0.7016804271880575
+        },
+        "revenue24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.7942845468044272,
+            "profitUSD24": 0.6298845468044272
+        }
+    },
+    "6800": {
+        "device": {
+            "name": "AMD RX 6800",
+            "brand": "AMD"
+        },
+        "profit": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.7665447369961318,
+            "profitUSD": 0.5997447369961317
+        },
+        "profit24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.7030001139814316,
+            "profitUSD24": 0.5362001139814316
+        },
+        "revenue": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.7665447369961318,
+            "profitUSD": 0.5997447369961317
+        },
+        "revenue24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.7030001139814316,
+            "profitUSD24": 0.5362001139814316
+        }
+    },
+    "6750xt": {
+        "device": {
+            "name": "AMD RX 6750 XT",
+            "brand": "AMD"
+        },
+        "profit": {
+            "coin": "ZANO",
+            "logo": "341",
+            "revenueUSD": 0.4471561670174527,
+            "profitUSD": 0.30075616701745267
+        },
+        "profit24": {
+            "coin": "HYPRA+KLS",
+            "logo": "595",
+            "revenueUSD24": 0.47053895258446915,
+            "profitUSD24": 0.31333895258446914
+        },
+        "revenue": {
+            "coin": "HYPRA+KLS",
+            "logo": "595",
+            "revenueUSD": 0.4522597195310152,
+            "profitUSD": 0.2950597195310152
+        },
+        "revenue24": {
+            "coin": "HYPRA+KLS",
+            "logo": "595",
+            "revenueUSD24": 0.47053895258446915,
+            "profitUSD24": 0.31333895258446914
+        }
+    },
+    "6700xt": {
+        "device": {
+            "name": "AMD RX 6700 XT",
+            "brand": "AMD"
+        },
+        "profit": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.5631561459533534,
+            "profitUSD": 0.43235614595335337
+        },
+        "profit24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.5164719235382983,
+            "profitUSD24": 0.38567192353829827
+        },
+        "revenue": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.5631561459533534,
+            "profitUSD": 0.43235614595335337
+        },
+        "revenue24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.5164719235382983,
+            "profitUSD24": 0.38567192353829827
+        }
+    },
+    "6650xt": {
+        "device": {
+            "name": "AMD RX 6650 XT",
+            "brand": "AMD"
+        },
+        "profit": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.4142123782203753,
+            "profitUSD": 0.3242123782203753
+        },
+        "profit24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.37987521803689994,
+            "profitUSD24": 0.2898752180368999
+        },
+        "revenue": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.4142123782203753,
+            "profitUSD": 0.3242123782203753
+        },
+        "revenue24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.37987521803689994,
+            "profitUSD24": 0.2898752180368999
+        }
+    },
+    "6600xt": {
+        "device": {
+            "name": "AMD RX 6600 XT",
+            "brand": "AMD"
+        },
+        "profit": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.4173303636962669,
+            "profitUSD": 0.3369303636962669
+        },
+        "profit24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.38273473039039135,
+            "profitUSD24": 0.3023347303903913
+        },
+        "revenue": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.4173303636962669,
+            "profitUSD": 0.3369303636962669
+        },
+        "revenue24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.38273473039039135,
+            "profitUSD24": 0.3023347303903913
+        }
+    },
+    "6600": {
+        "device": {
+            "name": "AMD RX 6600",
+            "brand": "AMD"
+        },
+        "profit": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.35329173892218463,
+            "profitUSD": 0.2776917389221846
+        },
+        "profit24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.32400474589945205,
+            "profitUSD24": 0.24840474589945205
+        },
+        "revenue": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.35329173892218463,
+            "profitUSD": 0.2776917389221846
+        },
+        "revenue24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.32400474589945205,
+            "profitUSD24": 0.24840474589945205
+        }
+    },
+    "6500xt": {
+        "device": {
+            "name": "AMD RX 6500 XT",
+            "brand": "AMD"
+        },
+        "profit": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.21394177265348857,
+            "profitUSD": 0.1563417726534886
+        },
+        "profit24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.19620653994725812,
+            "profitUSD24": 0.13860653994725813
+        },
+        "revenue": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.21394177265348857,
+            "profitUSD": 0.1563417726534886
+        },
+        "revenue24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.19620653994725812,
+            "profitUSD24": 0.13860653994725813
+        }
+    },
+    "6400": {
+        "device": {
+            "name": "AMD RX 6400",
+            "brand": "AMD"
+        },
+        "profit": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.18012362249189454,
+            "profitUSD": 0.14172362249189452
+        },
+        "profit24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.1651918290363126,
+            "profitUSD24": 0.1267918290363126
+        },
+        "revenue": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.18012362249189454,
+            "profitUSD": 0.14172362249189452
+        },
+        "revenue24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.1651918290363126,
+            "profitUSD24": 0.1267918290363126
+        }
+    },
+    "590": {
+        "device": {
+            "name": "AMD RX 590",
+            "brand": "AMD"
+        },
+        "profit": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.26239047004811267,
+            "profitUSD": 0.13759047004811265
+        },
+        "profit24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.24063896267074034,
+            "profitUSD24": 0.11583896267074033
+        },
+        "revenue": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.26239047004811267,
+            "profitUSD": 0.13759047004811265
+        },
+        "revenue24": {
+            "coin": "NIR",
+            "logo": "624",
+            "revenueUSD24": 0.24139564492171203,
+            "profitUSD24": 0.10459564492171203
+        }
+    },
+    "580": {
+        "device": {
+            "name": "AMD RX 580",
+            "brand": "AMD"
+        },
+        "profit": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.3353033611766559,
+            "profitUSD": 0.16730336117665587
+        },
+        "profit24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.3075075592446938,
+            "profitUSD24": 0.1395075592446938
+        },
+        "revenue": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.3353033611766559,
+            "profitUSD": 0.16730336117665587
+        },
+        "revenue24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.3075075592446938,
+            "profitUSD24": 0.1395075592446938
+        }
+    },
+    "5700xt": {
+        "device": {
+            "name": "AMD RX 5700 XT",
+            "brand": "AMD"
+        },
+        "profit": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.6535777247542112,
+            "profitUSD": 0.5107777247542111
+        },
+        "profit24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.5993977817895497,
+            "profitUSD24": 0.4565977817895497
+        },
+        "revenue": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.6535777247542112,
+            "profitUSD": 0.5107777247542111
+        },
+        "revenue24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.5993977817895497,
+            "profitUSD24": 0.4565977817895497
+        }
+    },
+    "5700": {
+        "device": {
+            "name": "AMD RX 5700",
+            "brand": "AMD"
+        },
+        "profit": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.5746687077104918,
+            "profitUSD": 0.4306687077104918
+        },
+        "profit24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.5270301229973435,
+            "profitUSD24": 0.3830301229973435
+        },
+        "revenue": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.5746687077104918,
+            "profitUSD": 0.4306687077104918
+        },
+        "revenue24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.5270301229973435,
+            "profitUSD24": 0.3830301229973435
+        }
+    },
+    "570": {
+        "device": {
+            "name": "AMD RX 570",
+            "brand": "AMD"
+        },
+        "profit": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.3353033611766559,
+            "profitUSD": 0.15770336117665587
+        },
+        "profit24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.3075075592446938,
+            "profitUSD24": 0.1299075592446938
+        },
+        "revenue": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.3353033611766559,
+            "profitUSD": 0.15770336117665587
+        },
+        "revenue24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.3075075592446938,
+            "profitUSD24": 0.1299075592446938
+        }
+    },
+    "5600xt": {
+        "device": {
+            "name": "AMD RX 5600 XT",
+            "brand": "AMD"
+        },
+        "profit": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.4981581410328428,
+            "profitUSD": 0.3757581410328428
+        },
+        "profit24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.4568620890924385,
+            "profitUSD24": 0.33446208909243846
+        },
+        "revenue": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.4981581410328428,
+            "profitUSD": 0.3757581410328428
+        },
+        "revenue24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.4568620890924385,
+            "profitUSD24": 0.33446208909243846
+        }
+    },
+    "5500xt": {
+        "device": {
+            "name": "AMD RX 5500 XT",
+            "brand": "AMD"
+        },
+        "profit": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.35065344351950706,
+            "profitUSD": 0.25705344351950704
+        },
+        "profit24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.3215851585234208,
+            "profitUSD24": 0.22798515852342077
+        },
+        "revenue": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.35065344351950706,
+            "profitUSD": 0.25705344351950704
+        },
+        "revenue24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.3215851585234208,
+            "profitUSD24": 0.22798515852342077
+        }
+    },
+    "480": {
+        "device": {
+            "name": "AMD RX 480",
+            "brand": "AMD"
+        },
+        "profit": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.21442146272670268,
+            "profitUSD": 0.10042146272670269
+        },
+        "profit24": {
+            "coin": "NIR",
+            "logo": "624",
+            "revenueUSD24": 0.22958358044600546,
+            "profitUSD24": 0.09158358044600548
+        },
+        "revenue": {
+            "coin": "ZANO",
+            "logo": "341",
+            "revenueUSD": 0.2369905515823782,
+            "profitUSD": 0.09899055158237821
+        },
+        "revenue24": {
+            "coin": "NIR",
+            "logo": "624",
+            "revenueUSD24": 0.22958358044600546,
+            "profitUSD24": 0.09158358044600548
+        }
+    },
+    "470": {
+        "device": {
+            "name": "AMD RX 470",
+            "brand": "AMD"
+        },
+        "profit": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.3410596420552251,
+            "profitUSD": 0.17905964205522507
+        },
+        "profit24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.3127866589742164,
+            "profitUSD24": 0.1507866589742164
+        },
+        "revenue": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.3410596420552251,
+            "profitUSD": 0.17905964205522507
+        },
+        "revenue24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.3127866589742164,
+            "profitUSD24": 0.1507866589742164
+        }
+    },
+    "a5000": {
+        "device": {
+            "name": "NVIDIA RTX A5000",
+            "brand": "NVIDIA"
+        },
+        "profit": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 1.0116663644085369,
+            "profitUSD": 0.7368663644085368
+        },
+        "profit24": {
+            "coin": "CFX+RXD",
+            "logo": "125",
+            "revenueUSD24": 0.950384341548987,
+            "profitUSD24": 0.695984341548987
+        },
+        "revenue": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 1.0116663644085369,
+            "profitUSD": 0.7368663644085368
+        },
+        "revenue24": {
+            "coin": "CFX+RXD",
+            "logo": "125",
+            "revenueUSD24": 0.950384341548987,
+            "profitUSD24": 0.695984341548987
+        }
+    },
+    "a4500": {
+        "device": {
+            "name": "NVIDIA RTX A4500",
+            "brand": "NVIDIA"
+        },
+        "profit": {
+            "coin": "CAU",
+            "logo": "540",
+            "revenueUSD": 0.35092281471889053,
+            "profitUSD": 0.13732281471889052
+        },
+        "profit24": {
+            "coin": "XPB",
+            "logo": "552",
+            "revenueUSD24": 0.35879848746431164,
+            "profitUSD24": 0.14519848746431163
+        },
+        "revenue": {
+            "coin": "CAU",
+            "logo": "540",
+            "revenueUSD": 0.35092281471889053,
+            "profitUSD": 0.13732281471889052
+        },
+        "revenue24": {
+            "coin": "XPB",
+            "logo": "552",
+            "revenueUSD24": 0.35879848746431164,
+            "profitUSD24": 0.14519848746431163
+        }
+    },
+    "a4000": {
+        "device": {
+            "name": "NVIDIA RTX A4000",
+            "brand": "NVIDIA"
+        },
+        "profit": {
+            "coin": "CTXC",
+            "logo": "132",
+            "revenueUSD": 0.7025122111627012,
+            "profitUSD": 0.5357122111627013
+        },
+        "profit24": {
+            "coin": "CTXC",
+            "logo": "132",
+            "revenueUSD24": 0.668870589461169,
+            "profitUSD24": 0.502070589461169
+        },
+        "revenue": {
+            "coin": "CTXC",
+            "logo": "132",
+            "revenueUSD": 0.7025122111627012,
+            "profitUSD": 0.5357122111627013
+        },
+        "revenue24": {
+            "coin": "CTXC",
+            "logo": "132",
+            "revenueUSD24": 0.668870589461169,
+            "profitUSD24": 0.502070589461169
+        }
+    },
+    "a2000": {
+        "device": {
+            "name": "NVIDIA RTX A2000",
+            "brand": "NVIDIA"
+        },
+        "profit": {
+            "coin": "BTG",
+            "logo": "143",
+            "revenueUSD": 0.3621821380988032,
+            "profitUSD": 0.28058213809880317
+        },
+        "profit24": {
+            "coin": "BTG",
+            "logo": "143",
+            "revenueUSD24": 0.34697163308580964,
+            "profitUSD24": 0.26537163308580963
+        },
+        "revenue": {
+            "coin": "BTG",
+            "logo": "143",
+            "revenueUSD": 0.3621821380988032,
+            "profitUSD": 0.28058213809880317
+        },
+        "revenue24": {
+            "coin": "BTG",
+            "logo": "143",
+            "revenueUSD24": 0.34697163308580964,
+            "profitUSD24": 0.26537163308580963
+        }
+    },
+    "4090": {
+        "device": {
+            "name": "NVIDIA RTX 4090",
+            "brand": "NVIDIA"
+        },
+        "profit": {
+            "coin": "NEXA",
+            "logo": "211",
+            "revenueUSD": 2.5233425788832236,
+            "profitUSD": 1.9893425788832235
+        },
+        "profit24": {
+            "coin": "NEXA",
+            "logo": "211",
+            "revenueUSD24": 2.453638644969994,
+            "profitUSD24": 1.919638644969994
+        },
+        "revenue": {
+            "coin": "NEXA",
+            "logo": "211",
+            "revenueUSD": 2.5233425788832236,
+            "profitUSD": 1.9893425788832235
+        },
+        "revenue24": {
+            "coin": "NEXA",
+            "logo": "211",
+            "revenueUSD24": 2.453638644969994,
+            "profitUSD24": 1.919638644969994
+        }
+    },
+    "4080s": {
+        "device": {
+            "name": "NVIDIA RTX 4080 Super",
+            "brand": "NVIDIA"
+        },
+        "profit": {
+            "coin": "PYI",
+            "logo": "570",
+            "revenueUSD": 1.4396426454381583,
+            "profitUSD": 1.1840426454381583
+        },
+        "profit24": {
+            "coin": "PYI",
+            "logo": "570",
+            "revenueUSD24": 1.365188580514655,
+            "profitUSD24": 1.109588580514655
+        },
+        "revenue": {
+            "coin": "PYI",
+            "logo": "570",
+            "revenueUSD": 1.4396426454381583,
+            "profitUSD": 1.1840426454381583
+        },
+        "revenue24": {
+            "coin": "PYI",
+            "logo": "570",
+            "revenueUSD24": 1.365188580514655,
+            "profitUSD24": 1.109588580514655
+        }
+    },
+    "4080": {
+        "device": {
+            "name": "NVIDIA RTX 4080",
+            "brand": "NVIDIA"
+        },
+        "profit": {
+            "coin": "BTG",
+            "logo": "143",
+            "revenueUSD": 1.4339982935291398,
+            "profitUSD": 1.1795982935291398
+        },
+        "profit24": {
+            "coin": "BTG",
+            "logo": "143",
+            "revenueUSD24": 1.373774897790063,
+            "profitUSD24": 1.119374897790063
+        },
+        "revenue": {
+            "coin": "NEXA",
+            "logo": "211",
+            "revenueUSD": 1.5267418063377813,
+            "profitUSD": 1.1607418063377812
+        },
+        "revenue24": {
+            "coin": "NEXA",
+            "logo": "211",
+            "revenueUSD24": 1.4845676240202013,
+            "profitUSD24": 1.1185676240202012
+        }
+    },
+    "4070tis": {
+        "device": {
+            "name": "NVIDIA RTX 4070 Ti Super",
+            "brand": "NVIDIA"
+        },
+        "profit": {
+            "coin": "NEXA",
+            "logo": "211",
+            "revenueUSD": 1.2818255380521042,
+            "profitUSD": 0.9854255380521042
+        },
+        "profit24": {
+            "coin": "NEXA",
+            "logo": "211",
+            "revenueUSD24": 1.2464168371724094,
+            "profitUSD24": 0.9500168371724094
+        },
+        "revenue": {
+            "coin": "NEXA",
+            "logo": "211",
+            "revenueUSD": 1.2818255380521042,
+            "profitUSD": 0.9854255380521042
+        },
+        "revenue24": {
+            "coin": "NEXA",
+            "logo": "211",
+            "revenueUSD24": 1.2464168371724094,
+            "profitUSD24": 0.9500168371724094
+        }
+    },
+    "4070ti": {
+        "device": {
+            "name": "NVIDIA RTX 4070 Ti",
+            "brand": "NVIDIA"
+        },
+        "profit": {
+            "coin": "NEXA",
+            "logo": "211",
+            "revenueUSD": 1.2032776109579806,
+            "profitUSD": 0.9332776109579806
+        },
+        "profit24": {
+            "coin": "NEXA",
+            "logo": "211",
+            "revenueUSD24": 1.1700386905769815,
+            "profitUSD24": 0.9000386905769815
+        },
+        "revenue": {
+            "coin": "NEXA",
+            "logo": "211",
+            "revenueUSD": 1.2032776109579806,
+            "profitUSD": 0.9332776109579806
+        },
+        "revenue24": {
+            "coin": "NEXA",
+            "logo": "211",
+            "revenueUSD24": 1.1700386905769815,
+            "profitUSD24": 0.9000386905769815
+        }
+    },
+    "4070s": {
+        "device": {
+            "name": "NVIDIA RTX 4070 Super",
+            "brand": "NVIDIA"
+        },
+        "profit": {
+            "coin": "PYI",
+            "logo": "570",
+            "revenueUSD": 0.9200989411515561,
+            "profitUSD": 0.7208989411515561
+        },
+        "profit24": {
+            "coin": "NEXA",
+            "logo": "211",
+            "revenueUSD24": 0.90468983201472,
+            "profitUSD24": 0.6742898320147199
+        },
+        "revenue": {
+            "coin": "NEXA",
+            "logo": "211",
+            "revenueUSD": 0.9303906174143957,
+            "profitUSD": 0.6999906174143957
+        },
+        "revenue24": {
+            "coin": "NEXA",
+            "logo": "211",
+            "revenueUSD24": 0.90468983201472,
+            "profitUSD24": 0.6742898320147199
+        }
+    },
+    "4070": {
+        "device": {
+            "name": "NVIDIA RTX 4070",
+            "brand": "NVIDIA"
+        },
+        "profit": {
+            "coin": "NEXA",
+            "logo": "211",
+            "revenueUSD": 0.9358314982179886,
+            "profitUSD": 0.7282314982179886
+        },
+        "profit24": {
+            "coin": "NEXA",
+            "logo": "211",
+            "revenueUSD24": 0.9099804158276715,
+            "profitUSD24": 0.7023804158276715
+        },
+        "revenue": {
+            "coin": "NEXA",
+            "logo": "211",
+            "revenueUSD": 0.9358314982179886,
+            "profitUSD": 0.7282314982179886
+        },
+        "revenue24": {
+            "coin": "NEXA",
+            "logo": "211",
+            "revenueUSD24": 0.9099804158276715,
+            "profitUSD24": 0.7023804158276715
+        }
+    },
+    "4060ti": {
+        "device": {
+            "name": "NVIDIA RTX 4060 Ti",
+            "brand": "NVIDIA"
+        },
+        "profit": {
+            "coin": "NEXA",
+            "logo": "211",
+            "revenueUSD": 0.7292312919294448,
+            "profitUSD": 0.5468312919294448
+        },
+        "profit24": {
+            "coin": "NEXA",
+            "logo": "211",
+            "revenueUSD24": 0.7090872614654539,
+            "profitUSD24": 0.5266872614654539
+        },
+        "revenue": {
+            "coin": "NEXA",
+            "logo": "211",
+            "revenueUSD": 0.7292312919294448,
+            "profitUSD": 0.5468312919294448
+        },
+        "revenue24": {
+            "coin": "NEXA",
+            "logo": "211",
+            "revenueUSD24": 0.7090872614654539,
+            "profitUSD24": 0.5266872614654539
+        }
+    },
+    "4060": {
+        "device": {
+            "name": "NVIDIA RTX 4060",
+            "brand": "NVIDIA"
+        },
+        "profit": {
+            "coin": "NEXA",
+            "logo": "211",
+            "revenueUSD": 0.5366547643318518,
+            "profitUSD": 0.39985476433185174
+        },
+        "profit24": {
+            "coin": "NEXA",
+            "logo": "211",
+            "revenueUSD24": 0.5218304005929564,
+            "profitUSD24": 0.38503040059295635
+        },
+        "revenue": {
+            "coin": "NEXA",
+            "logo": "211",
+            "revenueUSD": 0.5366547643318518,
+            "profitUSD": 0.39985476433185174
+        },
+        "revenue24": {
+            "coin": "NEXA",
+            "logo": "211",
+            "revenueUSD24": 0.5218304005929564,
+            "profitUSD24": 0.38503040059295635
+        }
+    },
+    "3090ti": {
+        "device": {
+            "name": "NVIDIA RTX 3090 Ti",
+            "brand": "NVIDIA"
+        },
+        "profit": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 1.5880139873752779,
+            "profitUSD": 1.052813987375278
+        },
+        "profit24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 1.4563716378820581,
+            "profitUSD24": 0.9211716378820581
+        },
+        "revenue": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 1.5880139873752779,
+            "profitUSD": 1.052813987375278
+        },
+        "revenue24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 1.4563716378820581,
+            "profitUSD24": 0.9211716378820581
+        }
+    },
+    "3090": {
+        "device": {
+            "name": "NVIDIA RTX 3090",
+            "brand": "NVIDIA"
+        },
+        "profit": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 1.4671320889253248,
+            "profitUSD": 1.0327320889253246
+        },
+        "profit24": {
+            "coin": "CFX+RXD",
+            "logo": "125",
+            "revenueUSD24": 1.3782666005538329,
+            "profitUSD24": 0.9294666005538328
+        },
+        "revenue": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 1.4671320889253248,
+            "profitUSD": 1.0327320889253246
+        },
+        "revenue24": {
+            "coin": "CFX+RXD",
+            "logo": "125",
+            "revenueUSD24": 1.3782666005538329,
+            "profitUSD24": 0.9294666005538328
+        }
+    },
+    "3080ti": {
+        "device": {
+            "name": "NVIDIA RTX 3080 Ti",
+            "brand": "NVIDIA"
+        },
+        "profit": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 1.4078903648833834,
+            "profitUSD": 0.9830903648833833
+        },
+        "profit24": {
+            "coin": "CFX+RXD",
+            "logo": "125",
+            "revenueUSD24": 1.2953818427439774,
+            "profitUSD24": 0.8885818427439773
+        },
+        "revenue": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 1.4078903648833834,
+            "profitUSD": 0.9830903648833833
+        },
+        "revenue24": {
+            "coin": "CFX+RXD",
+            "logo": "125",
+            "revenueUSD24": 1.2953818427439774,
+            "profitUSD24": 0.8885818427439773
+        }
+    },
+    "308012": {
+        "device": {
+            "name": "NVIDIA RTX 3080 12GB",
+            "brand": "NVIDIA"
+        },
+        "profit": {
+            "coin": "CFX+RXD",
+            "logo": "125",
+            "revenueUSD": 1.1917017173531919,
+            "profitUSD": 0.8101017173531919
+        },
+        "profit24": {
+            "coin": "CFX+RXD",
+            "logo": "125",
+            "revenueUSD24": 1.1712807003972003,
+            "profitUSD24": 0.7896807003972004
+        },
+        "revenue": {
+            "coin": "CFX+RXD",
+            "logo": "125",
+            "revenueUSD": 1.1917017173531919,
+            "profitUSD": 0.8101017173531919
+        },
+        "revenue24": {
+            "coin": "CFX+RXD",
+            "logo": "125",
+            "revenueUSD24": 1.1712807003972003,
+            "profitUSD24": 0.7896807003972004
+        }
+    },
+    "3080": {
+        "device": {
+            "name": "NVIDIA RTX 3080",
+            "brand": "NVIDIA"
+        },
+        "profit": {
+            "coin": "CFX+RXD",
+            "logo": "125",
+            "revenueUSD": 1.1833744978612883,
+            "profitUSD": 0.8017744978612884
+        },
+        "profit24": {
+            "coin": "CFX+RXD",
+            "logo": "125",
+            "revenueUSD24": 1.162971380933378,
+            "profitUSD24": 0.781371380933378
+        },
+        "revenue": {
+            "coin": "CFX+RXD",
+            "logo": "125",
+            "revenueUSD": 1.1833744978612883,
+            "profitUSD": 0.8017744978612884
+        },
+        "revenue24": {
+            "coin": "CFX+RXD",
+            "logo": "125",
+            "revenueUSD24": 1.162971380933378,
+            "profitUSD24": 0.781371380933378
+        }
+    },
+    "3070tim": {
+        "device": {
+            "name": "NVIDIA RTX 3070 Ti Laptop",
+            "brand": "NVIDIA"
+        },
+        "profit": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.7334461219443588,
+            "profitUSD": 0.5690461219443588
+        },
+        "profit24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.6726452905366763,
+            "profitUSD24": 0.5082452905366763
+        },
+        "revenue": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.7334461219443588,
+            "profitUSD": 0.5690461219443588
+        },
+        "revenue24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.6726452905366763,
+            "profitUSD24": 0.5082452905366763
+        }
+    },
+    "3070ti": {
+        "device": {
+            "name": "NVIDIA RTX 3070 Ti",
+            "brand": "NVIDIA"
+        },
+        "profit": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.9058947032648279,
+            "profitUSD": 0.6346947032648278
+        },
+        "profit24": {
+            "coin": "CFX+RXD",
+            "logo": "125",
+            "revenueUSD24": 0.8592690244334376,
+            "profitUSD24": 0.5664690244334376
+        },
+        "revenue": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.9058947032648279,
+            "profitUSD": 0.6346947032648278
+        },
+        "revenue24": {
+            "coin": "CFX+RXD",
+            "logo": "125",
+            "revenueUSD24": 0.8592690244334376,
+            "profitUSD24": 0.5664690244334376
+        }
+    },
+    "3070m": {
+        "device": {
+            "name": "NVIDIA RTX 3070 Laptop",
+            "brand": "NVIDIA"
+        },
+        "profit": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.5648350612096027,
+            "profitUSD": 0.4304350612096027
+        },
+        "profit24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.5180116609594091,
+            "profitUSD24": 0.3836116609594091
+        },
+        "revenue": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.5648350612096027,
+            "profitUSD": 0.4304350612096027
+        },
+        "revenue24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.5180116609594091,
+            "profitUSD24": 0.3836116609594091
+        }
+    },
+    "3070": {
+        "device": {
+            "name": "NVIDIA RTX 3070",
+            "brand": "NVIDIA"
+        },
+        "profit": {
+            "coin": "BTG",
+            "logo": "143",
+            "revenueUSD": 0.8344615718460895,
+            "profitUSD": 0.5956615718460895
+        },
+        "profit24": {
+            "coin": "BTG",
+            "logo": "143",
+            "revenueUSD24": 0.7994168233989618,
+            "profitUSD24": 0.5606168233989618
+        },
+        "revenue": {
+            "coin": "BTG",
+            "logo": "143",
+            "revenueUSD": 0.8344615718460895,
+            "profitUSD": 0.5956615718460895
+        },
+        "revenue24": {
+            "coin": "BTG",
+            "logo": "143",
+            "revenueUSD24": 0.7994168233989618,
+            "profitUSD24": 0.5606168233989618
+        }
+    },
+    "3060tix": {
+        "device": {
+            "name": "NVIDIA RTX 3060 Ti GDDR6X",
+            "brand": "NVIDIA"
+        },
+        "profit": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.7423203882988196,
+            "profitUSD": 0.5071203882988197
+        },
+        "profit24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.6807839026196905,
+            "profitUSD24": 0.4455839026196905
+        },
+        "revenue": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.7423203882988196,
+            "profitUSD": 0.5071203882988197
+        },
+        "revenue24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.6807839026196905,
+            "profitUSD24": 0.4455839026196905
+        }
+    },
+    "3060ti": {
+        "device": {
+            "name": "NVIDIA RTX 3060 Ti",
+            "brand": "NVIDIA"
+        },
+        "profit": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.7320070517247166,
+            "profitUSD": 0.5532070517247165
+        },
+        "profit24": {
+            "coin": "BTG",
+            "logo": "143",
+            "revenueUSD24": 0.6953980738575136,
+            "profitUSD24": 0.49259807385751364
+        },
+        "revenue": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.7320070517247166,
+            "profitUSD": 0.5532070517247165
+        },
+        "revenue24": {
+            "coin": "BTG",
+            "logo": "143",
+            "revenueUSD24": 0.6953980738575136,
+            "profitUSD24": 0.49259807385751364
+        }
+    },
+    "3060m": {
+        "device": {
+            "name": "NVIDIA RTX 3060 Laptop",
+            "brand": "NVIDIA"
+        },
+        "profit": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.5432490079149682,
+            "profitUSD": 0.4184490079149682
+        },
+        "profit24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.4982150369736991,
+            "profitUSD24": 0.3734150369736991
+        },
+        "revenue": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.5432490079149682,
+            "profitUSD": 0.4184490079149682
+        },
+        "revenue24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.4982150369736991,
+            "profitUSD24": 0.3734150369736991
+        }
+    },
+    "3060": {
+        "device": {
+            "name": "NVIDIA RTX 3060",
+            "brand": "NVIDIA"
+        },
+        "profit": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.5777866931863834,
+            "profitUSD": 0.4097866931863834
+        },
+        "profit24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.529889635350835,
+            "profitUSD24": 0.36188963535083496
+        },
+        "revenue": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.5777866931863834,
+            "profitUSD": 0.4097866931863834
+        },
+        "revenue24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.529889635350835,
+            "profitUSD24": 0.36188963535083496
+        }
+    },
+    "3050": {
+        "device": {
+            "name": "NVIDIA RTX 3050",
+            "brand": "NVIDIA"
+        },
+        "profit": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.3573691045445045,
+            "profitUSD": 0.2361691045445045
+        },
+        "profit24": {
+            "coin": "CFX+RXD",
+            "logo": "125",
+            "revenueUSD24": 0.3153909580465334,
+            "profitUSD24": 0.20739095804653337
+        },
+        "revenue": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.3573691045445045,
+            "profitUSD": 0.2361691045445045
+        },
+        "revenue24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.3277441082078639,
+            "profitUSD24": 0.20654410820786392
+        }
+    },
+    "2080ti": {
+        "device": {
+            "name": "NVIDIA RTX 2080 Ti",
+            "brand": "NVIDIA"
+        },
+        "profit": {
+            "coin": "CTXC",
+            "logo": "132",
+            "revenueUSD": 0.8128544432824972,
+            "profitUSD": 0.5824544432824972
+        },
+        "profit24": {
+            "coin": "CTXC",
+            "logo": "132",
+            "revenueUSD24": 0.7739287972299389,
+            "profitUSD24": 0.543528797229939
+        },
+        "revenue": {
+            "coin": "CTXC",
+            "logo": "132",
+            "revenueUSD": 0.8128544432824972,
+            "profitUSD": 0.5824544432824972
+        },
+        "revenue24": {
+            "coin": "CFX",
+            "logo": "125",
+            "revenueUSD24": 0.7882617119259073,
+            "profitUSD24": 0.5050617119259073
+        }
+    },
+    "2080s": {
+        "device": {
+            "name": "NVIDIA RTX 2080 Super",
+            "brand": "NVIDIA"
+        },
+        "profit": {
+            "coin": "BTG",
+            "logo": "143",
+            "revenueUSD": 0.704622692150292,
+            "profitUSD": 0.499422692150292
+        },
+        "profit24": {
+            "coin": "BTG",
+            "logo": "143",
+            "revenueUSD24": 0.6750307662549923,
+            "profitUSD24": 0.4698307662549922
+        },
+        "revenue": {
+            "coin": "BTG",
+            "logo": "143",
+            "revenueUSD": 0.704622692150292,
+            "profitUSD": 0.499422692150292
+        },
+        "revenue24": {
+            "coin": "BTG",
+            "logo": "143",
+            "revenueUSD24": 0.6750307662549923,
+            "profitUSD24": 0.4698307662549922
+        }
+    },
+    "2080": {
+        "device": {
+            "name": "NVIDIA RTX 2080",
+            "brand": "NVIDIA"
+        },
+        "profit": {
+            "coin": "BTG",
+            "logo": "143",
+            "revenueUSD": 0.6393236064553297,
+            "profitUSD": 0.4353236064553297
+        },
+        "profit24": {
+            "coin": "BTG",
+            "logo": "143",
+            "revenueUSD24": 0.612474035761534,
+            "profitUSD24": 0.408474035761534
+        },
+        "revenue": {
+            "coin": "BTG",
+            "logo": "143",
+            "revenueUSD": 0.6393236064553297,
+            "profitUSD": 0.4353236064553297
+        },
+        "revenue24": {
+            "coin": "BTG",
+            "logo": "143",
+            "revenueUSD24": 0.612474035761534,
+            "profitUSD24": 0.408474035761534
+        }
+    },
+    "2070s": {
+        "device": {
+            "name": "NVIDIA RTX 2070 Super",
+            "brand": "NVIDIA"
+        },
+        "profit": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.6346299668622543,
+            "profitUSD": 0.3994299668622543
+        },
+        "profit24": {
+            "coin": "BTG",
+            "logo": "143",
+            "revenueUSD24": 0.5237307669219768,
+            "profitUSD24": 0.3629307669219768
+        },
+        "revenue": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.6346299668622543,
+            "profitUSD": 0.3994299668622543
+        },
+        "revenue24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.5820207451798711,
+            "profitUSD24": 0.34682074517987116
+        }
+    },
+    "2070": {
+        "device": {
+            "name": "NVIDIA RTX 2070",
+            "brand": "NVIDIA"
+        },
+        "profit": {
+            "coin": "CFX",
+            "logo": "125",
+            "revenueUSD": 0.5260521295790986,
+            "profitUSD": 0.3760521295790986
+        },
+        "profit24": {
+            "coin": "CFX",
+            "logo": "125",
+            "revenueUSD24": 0.5154099518004902,
+            "profitUSD24": 0.3654099518004902
+        },
+        "revenue": {
+            "coin": "CFX",
+            "logo": "125",
+            "revenueUSD": 0.5260521295790986,
+            "profitUSD": 0.3760521295790986
+        },
+        "revenue24": {
+            "coin": "CFX",
+            "logo": "125",
+            "revenueUSD24": 0.5154099518004902,
+            "profitUSD24": 0.3654099518004902
+        }
+    },
+    "2060s": {
+        "device": {
+            "name": "NVIDIA RTX 2060 Super",
+            "brand": "NVIDIA"
+        },
+        "profit": {
+            "coin": "CFX",
+            "logo": "125",
+            "revenueUSD": 0.5123578703588171,
+            "profitUSD": 0.36355787035881704
+        },
+        "profit24": {
+            "coin": "CFX",
+            "logo": "125",
+            "revenueUSD24": 0.5019927311719641,
+            "profitUSD24": 0.35319273117196404
+        },
+        "revenue": {
+            "coin": "CFX",
+            "logo": "125",
+            "revenueUSD": 0.5123578703588171,
+            "profitUSD": 0.36355787035881704
+        },
+        "revenue24": {
+            "coin": "CFX",
+            "logo": "125",
+            "revenueUSD24": 0.5019927311719641,
+            "profitUSD24": 0.35319273117196404
+        }
+    },
+    "206012": {
+        "device": {
+            "name": "NVIDIA RTX 2060 12GB",
+            "brand": "NVIDIA"
+        },
+        "profit": {
+            "coin": "BTG",
+            "logo": "143",
+            "revenueUSD": 0.49961393473587523,
+            "profitUSD": 0.3196139347358752
+        },
+        "profit24": {
+            "coin": "BTG",
+            "logo": "143",
+            "revenueUSD24": 0.478631728659251,
+            "profitUSD24": 0.29863172865925103
+        },
+        "revenue": {
+            "coin": "BTG",
+            "logo": "143",
+            "revenueUSD": 0.49961393473587523,
+            "profitUSD": 0.3196139347358752
+        },
+        "revenue24": {
+            "coin": "BTG",
+            "logo": "143",
+            "revenueUSD24": 0.478631728659251,
+            "profitUSD24": 0.29863172865925103
+        }
+    },
+    "2060": {
+        "device": {
+            "name": "NVIDIA RTX 2060",
+            "brand": "NVIDIA"
+        },
+        "profit": {
+            "coin": "BTG",
+            "logo": "143",
+            "revenueUSD": 0.4479820995352073,
+            "profitUSD": 0.29918209953520725
+        },
+        "profit24": {
+            "coin": "BTG",
+            "logo": "143",
+            "revenueUSD24": 0.4291682673388421,
+            "profitUSD24": 0.2803682673388421
+        },
+        "revenue": {
+            "coin": "BTG",
+            "logo": "143",
+            "revenueUSD": 0.4479820995352073,
+            "profitUSD": 0.29918209953520725
+        },
+        "revenue24": {
+            "coin": "BTG",
+            "logo": "143",
+            "revenueUSD24": 0.4291682673388421,
+            "profitUSD24": 0.2803682673388421
+        }
+    },
+    "p106": {
+        "device": {
+            "name": "NVIDIA P106-100",
+            "brand": "NVIDIA"
+        },
+        "profit": {
+            "coin": "BTG",
+            "logo": "143",
+            "revenueUSD": 0.30447596934511545,
+            "profitUSD": 0.19767596934511544
+        },
+        "profit24": {
+            "coin": "BTG",
+            "logo": "143",
+            "revenueUSD24": 0.2916889410218232,
+            "profitUSD24": 0.18488894102182318
+        },
+        "revenue": {
+            "coin": "BTG",
+            "logo": "143",
+            "revenueUSD": 0.30447596934511545,
+            "profitUSD": 0.19767596934511544
+        },
+        "revenue24": {
+            "coin": "BTG",
+            "logo": "143",
+            "revenueUSD24": 0.2916889410218232,
+            "profitUSD24": 0.18488894102182318
+        }
+    },
+    "p104": {
+        "device": {
+            "name": "NVIDIA P104-100",
+            "brand": "NVIDIA"
+        },
+        "profit": {
+            "coin": "BTG",
+            "logo": "143",
+            "revenueUSD": 0.40470247296994144,
+            "profitUSD": 0.2619024729699414
+        },
+        "profit24": {
+            "coin": "BTG",
+            "logo": "143",
+            "revenueUSD24": 0.38770624829085226,
+            "profitUSD24": 0.24490624829085225
+        },
+        "revenue": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.4298023055998336,
+            "profitUSD": 0.23420230559983363
+        },
+        "revenue24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.39417277980435717,
+            "profitUSD24": 0.19857277980435717
+        }
+    },
+    "p102": {
+        "device": {
+            "name": "NVIDIA P102-100",
+            "brand": "NVIDIA"
+        },
+        "profit": {
+            "coin": "AE",
+            "logo": "127",
+            "revenueUSD": 0.5058259437360026,
+            "profitUSD": 0.3378259437360026
+        },
+        "profit24": {
+            "coin": "CTXC",
+            "logo": "132",
+            "revenueUSD24": 0.45700320379414944,
+            "profitUSD24": 0.2854032037941494
+        },
+        "revenue": {
+            "coin": "AE",
+            "logo": "127",
+            "revenueUSD": 0.5058259437360026,
+            "profitUSD": 0.3378259437360026
+        },
+        "revenue24": {
+            "coin": "CTXC",
+            "logo": "132",
+            "revenueUSD24": 0.45700320379414944,
+            "profitUSD24": 0.2854032037941494
+        }
+    },
+    "1660ti": {
+        "device": {
+            "name": "NVIDIA GTX 1660 Ti",
+            "brand": "NVIDIA"
+        },
+        "profit": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.3094000972230945,
+            "profitUSD": 0.22300009722309447
+        },
+        "profit24": {
+            "coin": "DNX",
+            "logo": "301",
+            "revenueUSD24": 0.2565167295499684,
+            "profitUSD24": 0.1977167295499684
+        },
+        "revenue": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.3094000972230945,
+            "profitUSD": 0.22300009722309447
+        },
+        "revenue24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.2837516104618419,
+            "profitUSD24": 0.19735161046184188
+        }
+    },
+    "1660s": {
+        "device": {
+            "name": "NVIDIA GTX 1660 Super",
+            "brand": "NVIDIA"
+        },
+        "profit": {
+            "coin": "DNX",
+            "logo": "301",
+            "revenueUSD": 0.30537983776900157,
+            "profitUSD": 0.21657983776900158
+        },
+        "profit24": {
+            "coin": "DNX",
+            "logo": "301",
+            "revenueUSD24": 0.2859530755638992,
+            "profitUSD24": 0.19715307556389922
+        },
+        "revenue": {
+            "coin": "DNX",
+            "logo": "301",
+            "revenueUSD": 0.30537983776900157,
+            "profitUSD": 0.21657983776900158
+        },
+        "revenue24": {
+            "coin": "DNX",
+            "logo": "301",
+            "revenueUSD24": 0.2859530755638992,
+            "profitUSD24": 0.19715307556389922
+        }
+    },
+    "1660": {
+        "device": {
+            "name": "NVIDIA GTX 1660",
+            "brand": "NVIDIA"
+        },
+        "profit": {
+            "coin": "DNX",
+            "logo": "301",
+            "revenueUSD": 0.286293597908439,
+            "profitUSD": 0.231093597908439
+        },
+        "profit24": {
+            "coin": "DNX",
+            "logo": "301",
+            "revenueUSD24": 0.2680810083411555,
+            "profitUSD24": 0.2128810083411555
+        },
+        "revenue": {
+            "coin": "DNX",
+            "logo": "301",
+            "revenueUSD": 0.286293597908439,
+            "profitUSD": 0.231093597908439
+        },
+        "revenue24": {
+            "coin": "DNX",
+            "logo": "301",
+            "revenueUSD24": 0.2680810083411555,
+            "profitUSD24": 0.2128810083411555
+        }
+    },
+    "1080ti": {
+        "device": {
+            "name": "NVIDIA GTX 1080 Ti",
+            "brand": "NVIDIA"
+        },
+        "profit": {
+            "coin": "BTG",
+            "logo": "143",
+            "revenueUSD": 0.6924740250442526,
+            "profitUSD": 0.4776740250442526
+        },
+        "profit24": {
+            "coin": "BTG",
+            "logo": "143",
+            "revenueUSD24": 0.6633923047678373,
+            "profitUSD24": 0.4485923047678373
+        },
+        "revenue": {
+            "coin": "BTG",
+            "logo": "143",
+            "revenueUSD": 0.6924740250442526,
+            "profitUSD": 0.4776740250442526
+        },
+        "revenue24": {
+            "coin": "BTG",
+            "logo": "143",
+            "revenueUSD24": 0.6633923047678373,
+            "profitUSD24": 0.4485923047678373
+        }
+    },
+    "1080": {
+        "device": {
+            "name": "NVIDIA GTX 1080",
+            "brand": "NVIDIA"
+        },
+        "profit": {
+            "coin": "BTG",
+            "logo": "143",
+            "revenueUSD": 0.4829095174650709,
+            "profitUSD": 0.31010951746507087
+        },
+        "profit24": {
+            "coin": "BTG",
+            "logo": "143",
+            "revenueUSD24": 0.46262884411441285,
+            "profitUSD24": 0.28982884411441284
+        },
+        "revenue": {
+            "coin": "BTG",
+            "logo": "143",
+            "revenueUSD": 0.4829095174650709,
+            "profitUSD": 0.31010951746507087
+        },
+        "revenue24": {
+            "coin": "BTG",
+            "logo": "143",
+            "revenueUSD24": 0.46262884411441285,
+            "profitUSD24": 0.28982884411441284
+        }
+    },
+    "1070ti": {
+        "device": {
+            "name": "NVIDIA GTX 1070 Ti",
+            "brand": "NVIDIA"
+        },
+        "profit": {
+            "coin": "BTG",
+            "logo": "143",
+            "revenueUSD": 0.45557501647648196,
+            "profitUSD": 0.28877501647648196
+        },
+        "profit24": {
+            "coin": "BTG",
+            "logo": "143",
+            "revenueUSD24": 0.436442305768314,
+            "profitUSD24": 0.269642305768314
+        },
+        "revenue": {
+            "coin": "BTG",
+            "logo": "143",
+            "revenueUSD": 0.45557501647648196,
+            "profitUSD": 0.28877501647648196
+        },
+        "revenue24": {
+            "coin": "BTG",
+            "logo": "143",
+            "revenueUSD24": 0.436442305768314,
+            "profitUSD24": 0.269642305768314
+        }
+    },
+    "1070": {
+        "device": {
+            "name": "NVIDIA GTX 1070",
+            "brand": "NVIDIA"
+        },
+        "profit": {
+            "coin": "BTG",
+            "logo": "143",
+            "revenueUSD": 0.379645847063735,
+            "profitUSD": 0.259645847063735
+        },
+        "profit24": {
+            "coin": "BTG",
+            "logo": "143",
+            "revenueUSD24": 0.363701921473595,
+            "profitUSD24": 0.24370192147359498
+        },
+        "revenue": {
+            "coin": "BTG",
+            "logo": "143",
+            "revenueUSD": 0.379645847063735,
+            "profitUSD": 0.259645847063735
+        },
+        "revenue24": {
+            "coin": "BTG",
+            "logo": "143",
+            "revenueUSD24": 0.363701921473595,
+            "profitUSD24": 0.24370192147359498
+        }
+    },
+    "1060": {
+        "device": {
+            "name": "NVIDIA GTX 1060",
+            "brand": "NVIDIA"
+        },
+        "profit": {
+            "coin": "DNX",
+            "logo": "301",
+            "revenueUSD": 0.2009668785318062,
+            "profitUSD": 0.1541668785318062
+        },
+        "profit24": {
+            "coin": "DNX",
+            "logo": "301",
+            "revenueUSD24": 0.1881823548747719,
+            "profitUSD24": 0.14138235487477188
+        },
+        "revenue": {
+            "coin": "DNX",
+            "logo": "301",
+            "revenueUSD": 0.2009668785318062,
+            "profitUSD": 0.1541668785318062
+        },
+        "revenue24": {
+            "coin": "DNX",
+            "logo": "301",
+            "revenueUSD24": 0.1881823548747719,
+            "profitUSD24": 0.14138235487477188
+        }
+    },
+    "1050ti": {
+        "device": {
+            "name": "NVIDIA GTX 1050 Ti",
+            "brand": "NVIDIA"
+        },
+        "profit": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.16933059584457727,
+            "profitUSD": 0.07933059584457726
+        },
+        "profit24": {
+            "coin": "DNX",
+            "logo": "301",
+            "revenueUSD24": 0.1145914898399449,
+            "profitUSD24": 0.0665914898399449
+        },
+        "revenue": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.16933059584457727,
+            "profitUSD": 0.07933059584457726
+        },
+        "revenue24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.15529351704345765,
+            "profitUSD24": 0.06529351704345764
+        }
+    },
+    "cmp90": {
+        "device": {
+            "name": "NVIDIA CMP 90HX",
+            "brand": "NVIDIA"
+        },
+        "profit": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 1.0927339867817198,
+            "profitUSD": 0.7939339867817199
+        },
+        "profit24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 1.0021490986543813,
+            "profitUSD24": 0.7033490986543813
+        },
+        "revenue": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 1.0927339867817198,
+            "profitUSD": 0.7939339867817199
+        },
+        "revenue24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 1.0021490986543813,
+            "profitUSD24": 0.7033490986543813
+        }
+    },
+    "cmp70": {
+        "device": {
+            "name": "NVIDIA CMP 70HX",
+            "brand": "NVIDIA"
+        },
+        "profit": {
+            "coin": "NEXA",
+            "logo": "211",
+            "revenueUSD": 0.42745398764002135,
+            "profitUSD": 0.25825398764002133
+        },
+        "profit24": {
+            "coin": "NEXA",
+            "logo": "211",
+            "revenueUSD24": 0.4156461480090691,
+            "profitUSD24": 0.2464461480090691
+        },
+        "revenue": {
+            "coin": "NEXA",
+            "logo": "211",
+            "revenueUSD": 0.42745398764002135,
+            "profitUSD": 0.25825398764002133
+        },
+        "revenue24": {
+            "coin": "NEXA",
+            "logo": "211",
+            "revenueUSD24": 0.4156461480090691,
+            "profitUSD24": 0.2464461480090691
+        }
+    },
+    "cmp50": {
+        "device": {
+            "name": "NVIDIA CMP 50HX",
+            "brand": "NVIDIA"
+        },
+        "profit": {
+            "coin": "DNX",
+            "logo": "301",
+            "revenueUSD": 0.651177595242724,
+            "profitUSD": 0.489177595242724
+        },
+        "profit24": {
+            "coin": "DNX",
+            "logo": "301",
+            "revenueUSD24": 0.6097528817171379,
+            "profitUSD24": 0.4477528817171379
+        },
+        "revenue": {
+            "coin": "DNX",
+            "logo": "301",
+            "revenueUSD": 0.651177595242724,
+            "profitUSD": 0.489177595242724
+        },
+        "revenue24": {
+            "coin": "DNX",
+            "logo": "301",
+            "revenueUSD24": 0.6097528817171379,
+            "profitUSD24": 0.4477528817171379
+        }
+    },
+    "cmp40": {
+        "device": {
+            "name": "NVIDIA CMP 40HX",
+            "brand": "NVIDIA"
+        },
+        "profit": {
+            "coin": "BTG",
+            "logo": "143",
+            "revenueUSD": 0.44547643694458666,
+            "profitUSD": 0.27987643694458664
+        },
+        "profit24": {
+            "coin": "BTG",
+            "logo": "143",
+            "revenueUSD24": 0.4267678346571164,
+            "profitUSD24": 0.26116783465711635
+        },
+        "revenue": {
+            "coin": "BTG",
+            "logo": "143",
+            "revenueUSD": 0.44547643694458666,
+            "profitUSD": 0.27987643694458664
+        },
+        "revenue24": {
+            "coin": "BTG",
+            "logo": "143",
+            "revenueUSD24": 0.4267678346571164,
+            "profitUSD24": 0.26116783465711635
+        }
+    },
+    "cmp30": {
+        "device": {
+            "name": "NVIDIA CMP 30HX",
+            "brand": "NVIDIA"
+        },
+        "profit": {
+            "coin": "DNX",
+            "logo": "301",
+            "revenueUSD": 0.2548574381381006,
+            "profitUSD": 0.1816574381381006
+        },
+        "profit24": {
+            "coin": "DNX",
+            "logo": "301",
+            "revenueUSD24": 0.2386446623272247,
+            "profitUSD24": 0.1654446623272247
+        },
+        "revenue": {
+            "coin": "ERG+ALPH",
+            "logo": "141",
+            "revenueUSD": 0.2644993705056183,
+            "profitUSD": 0.15649937050561827
+        },
+        "revenue24": {
+            "coin": "ERG+ALPH",
+            "logo": "141",
+            "revenueUSD24": 0.26439008216947557,
+            "profitUSD24": 0.15639008216947556
+        }
+    },
+    "cmp170": {
+        "device": {
+            "name": "NVIDIA CMP 170HX",
+            "brand": "NVIDIA"
+        },
+        "profit": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 1.037329783325491,
+            "profitUSD": 0.8213297833254911
+        },
+        "profit24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.9513377637577257,
+            "profitUSD24": 0.7353377637577256
+        },
+        "revenue": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 1.037329783325491,
+            "profitUSD": 0.8213297833254911
+        },
+        "revenue24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.9513377637577257,
+            "profitUSD24": 0.7353377637577256
+        }
+    },
+    "bc250": {
+        "device": {
+            "name": "AMD BC-250",
+            "brand": "AMD"
+        },
+        "profit": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.4386765719542944,
+            "profitUSD": 0.33667657195429435
+        },
+        "profit24": {
+            "coin": "ABEL",
+            "logo": "653",
+            "revenueUSD24": 0.41985768121616723,
+            "profitUSD24": 0.3322576812161672
+        },
+        "revenue": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.4386765719542944,
+            "profitUSD": 0.33667657195429435
+        },
+        "revenue24": {
+            "coin": "ABEL",
+            "logo": "653",
+            "revenueUSD24": 0.41985768121616723,
+            "profitUSD24": 0.3322576812161672
+        }
+    },
+    "bc160": {
+        "device": {
+            "name": "AMD BC-160",
+            "brand": "AMD"
+        },
+        "profit": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.48496666401945504,
+            "profitUSD": 0.376966664019455
+        },
+        "profit24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.4447641522122824,
+            "profitUSD24": 0.3367641522122824
+        },
+        "revenue": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.48496666401945504,
+            "profitUSD": 0.376966664019455
+        },
+        "revenue24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.4447641522122824,
+            "profitUSD24": 0.3367641522122824
+        }
+    },
+    "a770": {
+        "device": {
+            "name": "Intel Arc A770",
+            "brand": "INTEL"
+        },
+        "profit": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.6077673227622646,
+            "profitUSD": 0.38096732276226464
+        },
+        "profit24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.5573849464420987,
+            "profitUSD24": 0.3305849464420987
+        },
+        "revenue": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.6077673227622646,
+            "profitUSD": 0.38096732276226464
+        },
+        "revenue24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.5573849464420987,
+            "profitUSD24": 0.3305849464420987
+        }
+    },
+    "a750": {
+        "device": {
+            "name": "Intel Arc A750",
+            "brand": "INTEL"
+        },
+        "profit": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.6039298021765519,
+            "profitUSD": 0.3771298021765519
+        },
+        "profit24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.5538655466224169,
+            "profitUSD24": 0.32706554662241694
+        },
+        "revenue": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.6039298021765519,
+            "profitUSD": 0.3771298021765519
+        },
+        "revenue24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.5538655466224169,
+            "profitUSD24": 0.32706554662241694
+        }
+    },
+    "a380": {
+        "device": {
+            "name": "Intel Arc A380",
+            "brand": "INTEL"
+        },
+        "profit": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.2249746443374129,
+            "profitUSD": 0.1577746443374129
+        },
+        "profit24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.2063248144288432,
+            "profitUSD24": 0.1391248144288432
+        },
+        "revenue": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.2249746443374129,
+            "profitUSD": 0.1577746443374129
+        },
+        "revenue24": {
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.2063248144288432,
+            "profitUSD24": 0.1391248144288432
+        }
+    }
+}
