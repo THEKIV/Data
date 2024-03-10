@@ -7,26 +7,26 @@
         "profit": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.8180582392827845,
-            "profitUSD": 0.6344582392827846
+            "revenueUSD": 0.9155455486114205,
+            "profitUSD": 0.7319455486114205
         },
         "profit24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 0.7760961334988993,
-            "profitUSD24": 0.5924961334988993
+            "revenueUSD24": 0.8422105181279623,
+            "profitUSD24": 0.6586105181279623
         },
         "revenue": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.8180582392827845,
-            "profitUSD": 0.6344582392827846
+            "revenueUSD": 0.9155455486114205,
+            "profitUSD": 0.7319455486114205
         },
         "revenue24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 0.7760961334988993,
-            "profitUSD24": 0.5924961334988993
+            "revenueUSD24": 0.8422105181279623,
+            "profitUSD24": 0.6586105181279623
         }
     },
     "vega64": {
@@ -37,26 +37,26 @@
         "profit": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.6447289378699272,
-            "profitUSD": 0.4695289378699272
+            "revenueUSD": 0.7215607407674244,
+            "profitUSD": 0.5463607407674244
         },
         "profit24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 0.6116577180059857,
-            "profitUSD24": 0.43645771800598565
+            "revenueUSD24": 0.6637638578050188,
+            "profitUSD24": 0.48856385780501876
         },
         "revenue": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.6447289378699272,
-            "profitUSD": 0.4695289378699272
+            "revenueUSD": 0.7215607407674244,
+            "profitUSD": 0.5463607407674244
         },
         "revenue24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 0.6116577180059857,
-            "profitUSD24": 0.43645771800598565
+            "revenueUSD24": 0.6637638578050188,
+            "profitUSD24": 0.48856385780501876
         }
     },
     "vega56": {
@@ -67,26 +67,26 @@
         "profit": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.6304794939532368,
-            "profitUSD": 0.4528794939532368
+            "revenueUSD": 0.7056132026562603,
+            "profitUSD": 0.5280132026562603
         },
         "profit24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 0.5981391959775925,
-            "profitUSD24": 0.4205391959775925
+            "revenueUSD24": 0.6490937145709224,
+            "profitUSD24": 0.4714937145709224
         },
         "revenue": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.6304794939532368,
-            "profitUSD": 0.4528794939532368
+            "revenueUSD": 0.7056132026562603,
+            "profitUSD": 0.5280132026562603
         },
         "revenue24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 0.5981391959775925,
-            "profitUSD24": 0.4205391959775925
+            "revenueUSD24": 0.6490937145709224,
+            "profitUSD24": 0.4714937145709224
         }
     },
     "7900xtx": {
@@ -95,28 +95,28 @@
             "brand": "AMD"
         },
         "profit": {
-            "coin": "BTG",
-            "logo": "143",
-            "revenueUSD": 1.3014414816851578,
-            "profitUSD": 1.0506414816851577
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 1.5265192628047068,
+            "profitUSD": 1.1665192628047067
         },
         "profit24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 1.294010657767011,
-            "profitUSD24": 0.9340106577670109
+            "revenueUSD24": 1.4042453498998206,
+            "profitUSD24": 1.0442453498998205
         },
         "revenue": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 1.3639754595009077,
-            "profitUSD": 1.0039754595009076
+            "revenueUSD": 1.5265192628047068,
+            "profitUSD": 1.1665192628047067
         },
         "revenue24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 1.294010657767011,
-            "profitUSD24": 0.9340106577670109
+            "revenueUSD24": 1.4042453498998206,
+            "profitUSD24": 1.0442453498998205
         }
     },
     "7900xt": {
@@ -125,28 +125,28 @@
             "brand": "AMD"
         },
         "profit": {
-            "coin": "BTG",
-            "logo": "143",
-            "revenueUSD": 1.2059689405576752,
-            "profitUSD": 1.0115689405576753
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 1.2637770365470036,
+            "profitUSD": 0.9553770365470036
         },
         "profit24": {
             "coin": "BTG",
             "logo": "143",
-            "revenueUSD24": 1.0511385136626816,
-            "profitUSD24": 0.8567385136626816
+            "revenueUSD24": 1.1231076740514625,
+            "profitUSD24": 0.9287076740514625
         },
         "revenue": {
-            "coin": "BTG",
-            "logo": "143",
-            "revenueUSD": 1.2059689405576752,
-            "profitUSD": 1.0115689405576753
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 1.2637770365470036,
+            "profitUSD": 0.9553770365470036
         },
         "revenue24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 1.0712874669713532,
-            "profitUSD24": 0.7628874669713532
+            "revenueUSD24": 1.1625487277642974,
+            "profitUSD24": 0.8541487277642974
         }
     },
     "7900gre": {
@@ -157,26 +157,26 @@
         "profit": {
             "coin": "IRON",
             "logo": "366",
-            "revenueUSD": 0.7033816435500244,
-            "profitUSD": 0.5629816435500244
+            "revenueUSD": 0.7802573251136089,
+            "profitUSD": 0.6398573251136089
         },
         "profit24": {
             "coin": "IRON",
             "logo": "366",
-            "revenueUSD24": 0.709393887361378,
-            "profitUSD24": 0.568993887361378
+            "revenueUSD24": 0.7896200134273218,
+            "profitUSD24": 0.6492200134273218
         },
         "revenue": {
             "coin": "IRON",
             "logo": "366",
-            "revenueUSD": 0.7033816435500244,
-            "profitUSD": 0.5629816435500244
+            "revenueUSD": 0.7802573251136089,
+            "profitUSD": 0.6398573251136089
         },
         "revenue24": {
             "coin": "IRON",
             "logo": "366",
-            "revenueUSD24": 0.709393887361378,
-            "profitUSD24": 0.568993887361378
+            "revenueUSD24": 0.7896200134273218,
+            "profitUSD24": 0.6492200134273218
         }
     },
     "7800xt": {
@@ -187,26 +187,26 @@
         "profit": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.8444547501448503,
-            "profitUSD": 0.5768547501448502
+            "revenueUSD": 0.9450877093747243,
+            "profitUSD": 0.6774877093747242
         },
         "profit24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 0.8011386415187094,
-            "profitUSD24": 0.5335386415187093
+            "revenueUSD24": 0.8693863572337475,
+            "profitUSD24": 0.6017863572337474
         },
         "revenue": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.8444547501448503,
-            "profitUSD": 0.5768547501448502
+            "revenueUSD": 0.9450877093747243,
+            "profitUSD": 0.6774877093747242
         },
         "revenue24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 0.8011386415187094,
-            "profitUSD24": 0.5335386415187093
+            "revenueUSD24": 0.8693863572337475,
+            "profitUSD24": 0.6017863572337474
         }
     },
     "7700xt": {
@@ -215,28 +215,28 @@
             "brand": "AMD"
         },
         "profit": {
-            "coin": "BTG",
-            "logo": "143",
-            "revenueUSD": 0.7152065800251769,
-            "profitUSD": 0.5508065800251769
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.6883584892900827,
+            "profitUSD": 0.4963584892900827
         },
         "profit24": {
             "coin": "BTG",
             "logo": "143",
-            "revenueUSD24": 0.6233835351860626,
-            "profitUSD24": 0.4589835351860626
+            "revenueUSD24": 0.6660652455832979,
+            "profitUSD24": 0.501665245583298
         },
         "revenue": {
-            "coin": "BTG",
-            "logo": "143",
-            "revenueUSD": 0.7152065800251769,
-            "profitUSD": 0.5508065800251769
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.6883584892900827,
+            "profitUSD": 0.4963584892900827
         },
         "revenue24": {
             "coin": "BTG",
             "logo": "143",
-            "revenueUSD24": 0.6233835351860626,
-            "profitUSD24": 0.4589835351860626
+            "revenueUSD24": 0.6660652455832979,
+            "profitUSD24": 0.501665245583298
         }
     },
     "7600": {
@@ -247,26 +247,26 @@
         "profit": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.4172050300853949,
-            "profitUSD": 0.2960050300853949
+            "revenueUSD": 0.4669230010908043,
+            "profitUSD": 0.34572300109080434
         },
         "profit24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 0.39580459578213417,
-            "profitUSD24": 0.27460459578213414
+            "revenueUSD24": 0.4295225543622332,
+            "profitUSD24": 0.3083225543622332
         },
         "revenue": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.4172050300853949,
-            "profitUSD": 0.2960050300853949
+            "revenueUSD": 0.4669230010908043,
+            "profitUSD": 0.34572300109080434
         },
         "revenue24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 0.39580459578213417,
-            "profitUSD24": 0.27460459578213414
+            "revenueUSD24": 0.4295225543622332,
+            "profitUSD24": 0.3083225543622332
         }
     },
     "6950xt": {
@@ -277,26 +277,26 @@
         "profit": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.8608065710328557,
-            "profitUSD": 0.6220065710328557
+            "revenueUSD": 0.9633881629449127,
+            "profitUSD": 0.7245881629449127
         },
         "profit24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 0.8166516995840787,
-            "profitUSD24": 0.5778516995840787
+            "revenueUSD24": 0.8862209478302516,
+            "profitUSD24": 0.6474209478302516
         },
         "revenue": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.8608065710328557,
-            "profitUSD": 0.6220065710328557
+            "revenueUSD": 0.9633881629449127,
+            "profitUSD": 0.7245881629449127
         },
         "revenue24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 0.8166516995840787,
-            "profitUSD24": 0.5778516995840787
+            "revenueUSD24": 0.8862209478302516,
+            "profitUSD24": 0.6474209478302516
         }
     },
     "6900xt": {
@@ -307,26 +307,26 @@
         "profit": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.8591713889440552,
-            "profitUSD": 0.6575713889440552
+            "revenueUSD": 0.9615581175878938,
+            "profitUSD": 0.7599581175878938
         },
         "profit24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 0.8151003937775417,
-            "profitUSD24": 0.6135003937775417
+            "revenueUSD24": 0.8845374887706011,
+            "profitUSD24": 0.6829374887706011
         },
         "revenue": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.8591713889440552,
-            "profitUSD": 0.6575713889440552
+            "revenueUSD": 0.9615581175878938,
+            "profitUSD": 0.7599581175878938
         },
         "revenue24": {
-            "coin": "HYPRA+KLS",
-            "logo": "595",
-            "revenueUSD24": 0.8436817130797647,
-            "profitUSD24": 0.5916817130797647
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.8845374887706011,
+            "profitUSD24": 0.6829374887706011
         }
     },
     "6800xt": {
@@ -337,26 +337,26 @@
         "profit": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.8435203603798215,
-            "profitUSD": 0.6791203603798215
+            "revenueUSD": 0.9440419691707135,
+            "profitUSD": 0.7796419691707135
         },
         "profit24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 0.8002521810578311,
-            "profitUSD24": 0.6358521810578311
+            "revenueUSD24": 0.8684243806282329,
+            "profitUSD24": 0.7040243806282329
         },
         "revenue": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.8435203603798215,
-            "profitUSD": 0.6791203603798215
+            "revenueUSD": 0.9440419691707135,
+            "profitUSD": 0.7796419691707135
         },
         "revenue24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 0.8002521810578311,
-            "profitUSD24": 0.6358521810578311
+            "revenueUSD24": 0.8684243806282329,
+            "profitUSD24": 0.7040243806282329
         }
     },
     "6800": {
@@ -367,26 +367,26 @@
         "profit": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.7465774222580751,
-            "profitUSD": 0.5797774222580752
+            "revenueUSD": 0.8355464230045972,
+            "profitUSD": 0.6687464230045972
         },
         "profit24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 0.7082819082417138,
-            "profitUSD24": 0.5414819082417137
+            "revenueUSD24": 0.7686193078061015,
+            "profitUSD24": 0.6018193078061016
         },
         "revenue": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.7465774222580751,
-            "profitUSD": 0.5797774222580752
+            "revenueUSD": 0.8355464230045972,
+            "profitUSD": 0.6687464230045972
         },
         "revenue24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 0.7082819082417138,
-            "profitUSD24": 0.5414819082417137
+            "revenueUSD24": 0.7686193078061015,
+            "profitUSD24": 0.6018193078061016
         }
     },
     "6750xt": {
@@ -395,28 +395,28 @@
             "brand": "AMD"
         },
         "profit": {
-            "coin": "BTG",
-            "logo": "143",
-            "revenueUSD": 0.41706425860952934,
-            "profitUSD": 0.32226425860952934
-        },
-        "profit24": {
             "coin": "HYPRA+KLS",
             "logo": "595",
-            "revenueUSD24": 0.46750096365820193,
-            "profitUSD24": 0.3103009636582019
+            "revenueUSD": 0.48900836278305193,
+            "profitUSD": 0.3318083627830519
+        },
+        "profit24": {
+            "coin": "NIR",
+            "logo": "624",
+            "revenueUSD24": 0.48745636983067736,
+            "profitUSD24": 0.34105636983067733
         },
         "revenue": {
             "coin": "HYPRA+KLS",
             "logo": "595",
-            "revenueUSD": 0.44836251630100477,
-            "profitUSD": 0.29116251630100476
+            "revenueUSD": 0.48900836278305193,
+            "profitUSD": 0.3318083627830519
         },
         "revenue24": {
-            "coin": "HYPRA+KLS",
-            "logo": "595",
-            "revenueUSD24": 0.46750096365820193,
-            "profitUSD24": 0.3103009636582019
+            "coin": "NIR",
+            "logo": "624",
+            "revenueUSD24": 0.48745636983067736,
+            "profitUSD24": 0.34105636983067733
         }
     },
     "6700xt": {
@@ -427,26 +427,26 @@
         "profit": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.5484867920719526,
-            "profitUSD": 0.4176867920719526
+            "revenueUSD": 0.6138494997543161,
+            "profitUSD": 0.4830494997543161
         },
         "profit24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 0.5203522905355269,
-            "profitUSD24": 0.38955229053552687
+            "revenueUSD24": 0.5646802674370233,
+            "profitUSD24": 0.43388026743702324
         },
         "revenue": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.5484867920719526,
-            "profitUSD": 0.4176867920719526
+            "revenueUSD": 0.6138494997543161,
+            "profitUSD": 0.4830494997543161
         },
         "revenue24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 0.5203522905355269,
-            "profitUSD24": 0.38955229053552687
+            "revenueUSD24": 0.5646802674370233,
+            "profitUSD24": 0.43388026743702324
         }
     },
     "6650xt": {
@@ -457,26 +457,26 @@
         "profit": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.4034227810512189,
-            "profitUSD": 0.3134227810512189
+            "revenueUSD": 0.4514983330816456,
+            "profitUSD": 0.3614983330816456
         },
         "profit24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 0.38272930398418015,
-            "profitUSD24": 0.2927293039841801
+            "revenueUSD24": 0.415333399430894,
+            "profitUSD24": 0.32533339943089395
         },
         "revenue": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.4034227810512189,
-            "profitUSD": 0.3134227810512189
+            "revenueUSD": 0.4514983330816456,
+            "profitUSD": 0.3614983330816456
         },
         "revenue24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 0.38272930398418015,
-            "profitUSD24": 0.2927293039841801
+            "revenueUSD24": 0.415333399430894,
+            "profitUSD24": 0.32533339943089395
         }
     },
     "6600xt": {
@@ -487,26 +487,26 @@
         "profit": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.40645954778756277,
-            "profitUSD": 0.32605954778756274
+            "revenueUSD": 0.45489698874468054,
+            "profitUSD": 0.3744969887446805
         },
         "profit24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 0.3856103004820344,
-            "profitUSD24": 0.30521030048203435
+            "revenueUSD24": 0.41845982339881616,
+            "profitUSD24": 0.33805982339881613
         },
         "revenue": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.40645954778756277,
-            "profitUSD": 0.32605954778756274
+            "revenueUSD": 0.45489698874468054,
+            "profitUSD": 0.3744969887446805
         },
         "revenue24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 0.3856103004820344,
-            "profitUSD24": 0.30521030048203435
+            "revenueUSD24": 0.41845982339881616,
+            "profitUSD24": 0.33805982339881613
         }
     },
     "6600": {
@@ -517,26 +517,26 @@
         "profit": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.3440890309718851,
-            "profitUSD": 0.2684890309718851
+            "revenueUSD": 0.38509383012696236,
+            "profitUSD": 0.30949383012696235
         },
         "profit24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 0.3264390647184119,
-            "profitUSD24": 0.2508390647184119
+            "revenueUSD24": 0.354247884980722,
+            "profitUSD24": 0.278647884980722
         },
         "revenue": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.3440890309718851,
-            "profitUSD": 0.2684890309718851
+            "revenueUSD": 0.38509383012696236,
+            "profitUSD": 0.30949383012696235
         },
         "revenue24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 0.3264390647184119,
-            "profitUSD24": 0.2508390647184119
+            "revenueUSD24": 0.354247884980722,
+            "profitUSD24": 0.278647884980722
         }
     },
     "6500xt": {
@@ -547,26 +547,26 @@
         "profit": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.20836891760144025,
-            "profitUSD": 0.15076891760144023
+            "revenueUSD": 0.23320006549439948,
+            "profitUSD": 0.1756000654943995
         },
         "profit24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 0.19768068277584752,
-            "profitUSD24": 0.1400806827758475
+            "revenueUSD24": 0.21452078302973795,
+            "profitUSD24": 0.15692078302973794
         },
         "revenue": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.20836891760144025,
-            "profitUSD": 0.15076891760144023
+            "revenueUSD": 0.23320006549439948,
+            "profitUSD": 0.1756000654943995
         },
         "revenue24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 0.19768068277584752,
-            "profitUSD24": 0.1400806827758475
+            "revenueUSD24": 0.21452078302973795,
+            "profitUSD24": 0.15692078302973794
         }
     },
     "6400": {
@@ -577,26 +577,26 @@
         "profit": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.17543167838417223,
-            "profitUSD": 0.13703167838417224
+            "revenueUSD": 0.19633772330302018,
+            "profitUSD": 0.1579377233030202
         },
         "profit24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 0.16643295152988957,
-            "profitUSD24": 0.12803295152988958
+            "revenueUSD24": 0.18061110768535113,
+            "profitUSD24": 0.1422111076853511
         },
         "revenue": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.17543167838417223,
-            "profitUSD": 0.13703167838417224
+            "revenueUSD": 0.19633772330302018,
+            "profitUSD": 0.1579377233030202
         },
         "revenue24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 0.16643295152988957,
-            "profitUSD24": 0.12803295152988958
+            "revenueUSD24": 0.18061110768535113,
+            "profitUSD24": 0.1422111076853511
         }
     },
     "590": {
@@ -607,26 +607,26 @@
         "profit": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.2555556007353987,
-            "profitUSD": 0.13075560073539866
+            "revenueUSD": 0.28600994579694283,
+            "profitUSD": 0.1612099457969428
         },
         "profit24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 0.24244693605019865,
-            "profitUSD24": 0.11764693605019864
+            "revenueUSD24": 0.2631006016082212,
+            "profitUSD24": 0.13830060160822116
         },
         "revenue": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.2555556007353987,
-            "profitUSD": 0.13075560073539866
+            "revenueUSD": 0.28600994579694283,
+            "profitUSD": 0.1612099457969428
         },
         "revenue24": {
-            "coin": "CLORE",
-            "logo": "440",
-            "revenueUSD24": 0.24244693605019865,
-            "profitUSD24": 0.11764693605019864
+            "coin": "NIR",
+            "logo": "624",
+            "revenueUSD24": 0.27164152686647564,
+            "profitUSD24": 0.13484152686647563
         }
     },
     "580": {
@@ -637,26 +637,26 @@
         "profit": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.3265692228775936,
-            "profitUSD": 0.1585692228775936
+            "revenueUSD": 0.3654862013017606,
+            "profitUSD": 0.19748620130176062
         },
         "profit24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 0.3098179310769449,
-            "profitUSD24": 0.14181793107694488
+            "revenueUSD24": 0.33621082362732474,
+            "profitUSD24": 0.16821082362732473
         },
         "revenue": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.3265692228775936,
-            "profitUSD": 0.1585692228775936
+            "revenueUSD": 0.3654862013017606,
+            "profitUSD": 0.19748620130176062
         },
         "revenue24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 0.3098179310769449,
-            "profitUSD24": 0.14181793107694488
+            "revenueUSD24": 0.33621082362732474,
+            "profitUSD24": 0.16821082362732473
         }
     },
     "5700xt": {
@@ -667,26 +667,26 @@
         "profit": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.6365530274259246,
-            "profitUSD": 0.49375302742592453
+            "revenueUSD": 0.7124105139823302,
+            "profitUSD": 0.5696105139823302
         },
         "profit24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 0.603901188973301,
-            "profitUSD24": 0.461101188973301
+            "revenueUSD24": 0.6553465625067667,
+            "profitUSD24": 0.5125465625067667
         },
         "revenue": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.6365530274259246,
-            "profitUSD": 0.49375302742592453
+            "revenueUSD": 0.7124105139823302,
+            "profitUSD": 0.5696105139823302
         },
         "revenue24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 0.603901188973301,
-            "profitUSD24": 0.461101188973301
+            "revenueUSD24": 0.6553465625067667,
+            "profitUSD24": 0.5125465625067667
         }
     },
     "5700": {
@@ -697,26 +697,26 @@
         "profit": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.5596994692522992,
-            "profitUSD": 0.41569946925229917
+            "revenueUSD": 0.6263983822024453,
+            "profitUSD": 0.48239838220244524
         },
         "profit24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 0.5309898160660658,
-            "profitUSD24": 0.38698981606606575
+            "revenueUSD24": 0.5762239867031975,
+            "profitUSD24": 0.4322239867031975
         },
         "revenue": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.5596994692522992,
-            "profitUSD": 0.41569946925229917
+            "revenueUSD": 0.6263983822024453,
+            "profitUSD": 0.48239838220244524
         },
         "revenue24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 0.5309898160660658,
-            "profitUSD24": 0.38698981606606575
+            "revenueUSD24": 0.5762239867031975,
+            "profitUSD24": 0.4322239867031975
         }
     },
     "570": {
@@ -727,26 +727,26 @@
         "profit": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.3265692228775936,
-            "profitUSD": 0.1489692228775936
+            "revenueUSD": 0.3654862013017606,
+            "profitUSD": 0.18788620130176062
         },
         "profit24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 0.3098179310769449,
-            "profitUSD24": 0.13221793107694488
+            "revenueUSD24": 0.33621082362732474,
+            "profitUSD24": 0.15861082362732473
         },
         "revenue": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.3265692228775936,
-            "profitUSD": 0.1489692228775936
+            "revenueUSD": 0.3654862013017606,
+            "profitUSD": 0.18788620130176062
         },
         "revenue24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 0.3098179310769449,
-            "profitUSD24": 0.13221793107694488
+            "revenueUSD24": 0.33621082362732474,
+            "profitUSD24": 0.15861082362732473
         }
     },
     "5600xt": {
@@ -757,26 +757,26 @@
         "profit": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.48518188549124597,
-            "profitUSD": 0.36278188549124596
+            "revenueUSD": 0.5430006009325871,
+            "profitUSD": 0.42060060093258705
         },
         "profit24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 0.46029459431102615,
-            "profitUSD24": 0.33789459431102614
+            "revenueUSD24": 0.4995063524134145,
+            "profitUSD24": 0.3771063524134145
         },
         "revenue": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.48518188549124597,
-            "profitUSD": 0.36278188549124596
+            "revenueUSD": 0.5430006009325871,
+            "profitUSD": 0.42060060093258705
         },
         "revenue24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 0.46029459431102615,
-            "profitUSD24": 0.33789459431102614
+            "revenueUSD24": 0.4995063524134145,
+            "profitUSD24": 0.3771063524134145
         }
     },
     "5500xt": {
@@ -787,26 +787,26 @@
         "profit": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.34151945911805565,
-            "profitUSD": 0.24791945911805563
+            "revenueUSD": 0.3822180445659327,
+            "profitUSD": 0.2886180445659327
         },
         "profit24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 0.32400129845099673,
-            "profitUSD24": 0.23040129845099672
+            "revenueUSD24": 0.35160244931555706,
+            "profitUSD24": 0.25800244931555705
         },
         "revenue": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.34151945911805565,
-            "profitUSD": 0.24791945911805563
+            "revenueUSD": 0.3822180445659327,
+            "profitUSD": 0.2886180445659327
         },
         "revenue24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 0.32400129845099673,
-            "profitUSD24": 0.23040129845099672
+            "revenueUSD24": 0.35160244931555706,
+            "profitUSD24": 0.25800244931555705
         }
     },
     "480": {
@@ -815,28 +815,28 @@
             "brand": "AMD"
         },
         "profit": {
-            "coin": "BTG",
-            "logo": "143",
-            "revenueUSD": 0.1959699528406222,
-            "profitUSD": 0.0963699528406222
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.23372293559640483,
+            "profitUSD": 0.11972293559640484
         },
         "profit24": {
             "coin": "NIR",
             "logo": "624",
-            "revenueUSD24": 0.22886946473975459,
-            "profitUSD24": 0.0908694647397546
+            "revenueUSD24": 0.2583494592706961,
+            "profitUSD24": 0.1203494592706961
         },
         "revenue": {
-            "coin": "ZANO",
-            "logo": "341",
-            "revenueUSD": 0.22708616387847042,
-            "profitUSD": 0.08908616387847043
+            "coin": "NIR",
+            "logo": "624",
+            "revenueUSD": 0.2478911027854082,
+            "profitUSD": 0.10989110278540823
         },
         "revenue24": {
             "coin": "NIR",
             "logo": "624",
-            "revenueUSD24": 0.22886946473975459,
-            "profitUSD24": 0.0908694647397546
+            "revenueUSD24": 0.2583494592706961,
+            "profitUSD24": 0.1203494592706961
         }
     },
     "470": {
@@ -847,26 +847,26 @@
         "profit": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.3321755614677669,
-            "profitUSD": 0.17017556146776686
+            "revenueUSD": 0.3717606425258252,
+            "profitUSD": 0.20976064252582516
         },
         "profit24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 0.3151366938422143,
-            "profitUSD24": 0.1531366938422143
+            "revenueUSD24": 0.34198268326041187,
+            "profitUSD24": 0.17998268326041184
         },
         "revenue": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.3321755614677669,
-            "profitUSD": 0.17017556146776686
+            "revenueUSD": 0.3717606425258252,
+            "profitUSD": 0.20976064252582516
         },
         "revenue24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 0.3151366938422143,
-            "profitUSD24": 0.1531366938422143
+            "revenueUSD24": 0.34198268326041187,
+            "profitUSD24": 0.17998268326041184
         }
     },
     "a5000": {
@@ -875,28 +875,28 @@
             "brand": "NVIDIA"
         },
         "profit": {
-            "coin": "CFX+RXD",
-            "logo": "125",
-            "revenueUSD": 0.972478169209576,
-            "profitUSD": 0.7180781692095759
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 1.1027330451293464,
+            "profitUSD": 0.8279330451293464
         },
         "profit24": {
-            "coin": "CFX+RXD",
-            "logo": "125",
-            "revenueUSD24": 0.9502424445513928,
-            "profitUSD24": 0.6958424445513929
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 1.0144043305150614,
+            "profitUSD24": 0.7396043305150614
         },
         "revenue": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.9853140072229539,
-            "profitUSD": 0.7105140072229539
+            "revenueUSD": 1.1027330451293464,
+            "profitUSD": 0.8279330451293464
         },
         "revenue24": {
-            "coin": "CFX+RXD",
-            "logo": "125",
-            "revenueUSD24": 0.9502424445513928,
-            "profitUSD24": 0.6958424445513929
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 1.0144043305150614,
+            "profitUSD24": 0.7396043305150614
         }
     },
     "a4500": {
@@ -905,28 +905,28 @@
             "brand": "NVIDIA"
         },
         "profit": {
-            "coin": "CAU",
-            "logo": "540",
-            "revenueUSD": 0.34786380772213554,
-            "profitUSD": 0.13426380772213553
+            "coin": "LRS",
+            "logo": "609",
+            "revenueUSD": 0.3650679985348698,
+            "profitUSD": 0.1514679985348698
         },
         "profit24": {
-            "coin": "XPB",
-            "logo": "552",
-            "revenueUSD24": 0.357399181663776,
-            "profitUSD24": 0.14379918166377598
-        },
-        "revenue": {
             "coin": "CAU",
             "logo": "540",
-            "revenueUSD": 0.34786380772213554,
-            "profitUSD": 0.13426380772213553
+            "revenueUSD24": 0.3545859218768025,
+            "profitUSD24": 0.14098592187680248
+        },
+        "revenue": {
+            "coin": "LRS",
+            "logo": "609",
+            "revenueUSD": 0.3650679985348698,
+            "profitUSD": 0.1514679985348698
         },
         "revenue24": {
-            "coin": "XPB",
-            "logo": "552",
-            "revenueUSD24": 0.357399181663776,
-            "profitUSD24": 0.14379918166377598
+            "coin": "CAU",
+            "logo": "540",
+            "revenueUSD24": 0.3545859218768025,
+            "profitUSD24": 0.14098592187680248
         }
     },
     "a4000": {
@@ -937,26 +937,26 @@
         "profit": {
             "coin": "CTXC",
             "logo": "132",
-            "revenueUSD": 0.718007287898773,
-            "profitUSD": 0.551207287898773
+            "revenueUSD": 0.8212211278364996,
+            "profitUSD": 0.6544211278364995
         },
         "profit24": {
             "coin": "CTXC",
             "logo": "132",
-            "revenueUSD24": 0.6715181775952345,
-            "profitUSD24": 0.5047181775952345
+            "revenueUSD24": 0.7894624682886888,
+            "profitUSD24": 0.6226624682886888
         },
         "revenue": {
             "coin": "CTXC",
             "logo": "132",
-            "revenueUSD": 0.718007287898773,
-            "profitUSD": 0.551207287898773
+            "revenueUSD": 0.8212211278364996,
+            "profitUSD": 0.6544211278364995
         },
         "revenue24": {
             "coin": "CTXC",
             "logo": "132",
-            "revenueUSD24": 0.6715181775952345,
-            "profitUSD24": 0.5047181775952345
+            "revenueUSD24": 0.7894624682886888,
+            "profitUSD24": 0.6226624682886888
         }
     },
     "a2000": {
@@ -965,28 +965,28 @@
             "brand": "NVIDIA"
         },
         "profit": {
-            "coin": "BTG",
-            "logo": "143",
-            "revenueUSD": 0.39947721155972993,
-            "profitUSD": 0.3178772115597299
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.39345975175904846,
+            "profitUSD": 0.3106597517590485
         },
         "profit24": {
             "coin": "BTG",
             "logo": "143",
-            "revenueUSD24": 0.3481896326507633,
-            "profitUSD24": 0.2665896326507633
+            "revenueUSD24": 0.37202941702954695,
+            "profitUSD24": 0.29042941702954694
         },
         "revenue": {
-            "coin": "BTG",
-            "logo": "143",
-            "revenueUSD": 0.39947721155972993,
-            "profitUSD": 0.3178772115597299
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.39345975175904846,
+            "profitUSD": 0.3106597517590485
         },
         "revenue24": {
             "coin": "BTG",
             "logo": "143",
-            "revenueUSD24": 0.3481896326507633,
-            "profitUSD24": 0.2665896326507633
+            "revenueUSD24": 0.37202941702954695,
+            "profitUSD24": 0.29042941702954694
         }
     },
     "4090": {
@@ -995,28 +995,28 @@
             "brand": "NVIDIA"
         },
         "profit": {
-            "coin": "NEXA",
-            "logo": "211",
-            "revenueUSD": 2.6078131775737727,
-            "profitUSD": 2.073813177573773
+            "coin": "PYI",
+            "logo": "570",
+            "revenueUSD": 2.566888463634221,
+            "profitUSD": 2.150488463634221
         },
         "profit24": {
             "coin": "NEXA",
             "logo": "211",
-            "revenueUSD24": 2.4657023900593256,
-            "profitUSD24": 1.9317023900593255
+            "revenueUSD24": 2.59778984559127,
+            "profitUSD24": 2.0637898455912698
         },
         "revenue": {
             "coin": "NEXA",
             "logo": "211",
-            "revenueUSD": 2.6078131775737727,
-            "profitUSD": 2.073813177573773
+            "revenueUSD": 2.6532257115368556,
+            "profitUSD": 2.1192257115368553
         },
         "revenue24": {
             "coin": "NEXA",
             "logo": "211",
-            "revenueUSD24": 2.4657023900593256,
-            "profitUSD24": 1.9317023900593255
+            "revenueUSD24": 2.59778984559127,
+            "profitUSD24": 2.0637898455912698
         }
     },
     "4080s": {
@@ -1027,26 +1027,26 @@
         "profit": {
             "coin": "PYI",
             "logo": "570",
-            "revenueUSD": 1.4545132749823184,
-            "profitUSD": 1.1989132749823184
+            "revenueUSD": 1.6127186131419118,
+            "profitUSD": 1.3571186131419117
         },
         "profit24": {
             "coin": "PYI",
             "logo": "570",
-            "revenueUSD24": 1.3705977270435763,
-            "profitUSD24": 1.1149977270435762
+            "revenueUSD24": 1.5270342838009376,
+            "profitUSD24": 1.2714342838009376
         },
         "revenue": {
             "coin": "PYI",
             "logo": "570",
-            "revenueUSD": 1.4545132749823184,
-            "profitUSD": 1.1989132749823184
+            "revenueUSD": 1.6127186131419118,
+            "profitUSD": 1.3571186131419117
         },
         "revenue24": {
             "coin": "PYI",
             "logo": "570",
-            "revenueUSD24": 1.3705977270435763,
-            "profitUSD24": 1.1149977270435762
+            "revenueUSD24": 1.5270342838009376,
+            "profitUSD24": 1.2714342838009376
         }
     },
     "4080": {
@@ -1055,28 +1055,28 @@
             "brand": "NVIDIA"
         },
         "profit": {
-            "coin": "BTG",
-            "logo": "143",
-            "revenueUSD": 1.5816617646786288,
-            "profitUSD": 1.3272617646786289
+            "coin": "PYI",
+            "logo": "570",
+            "revenueUSD": 1.6377936161285698,
+            "profitUSD": 1.3317936161285697
         },
         "profit24": {
-            "coin": "NEXA",
-            "logo": "211",
-            "revenueUSD24": 1.4918667613323597,
-            "profitUSD24": 1.1258667613323596
+            "coin": "CTXC",
+            "logo": "132",
+            "revenueUSD24": 1.5458584457590034,
+            "profitUSD24": 1.2626584457590035
         },
         "revenue": {
-            "coin": "BTG",
-            "logo": "143",
-            "revenueUSD": 1.5816617646786288,
-            "profitUSD": 1.3272617646786289
+            "coin": "PYI",
+            "logo": "570",
+            "revenueUSD": 1.6377936161285698,
+            "profitUSD": 1.3317936161285697
         },
         "revenue24": {
             "coin": "NEXA",
             "logo": "211",
-            "revenueUSD24": 1.4918667613323597,
-            "profitUSD24": 1.1258667613323596
+            "revenueUSD24": 1.5717859297168026,
+            "profitUSD24": 1.2057859297168025
         }
     },
     "4070tis": {
@@ -1085,28 +1085,28 @@
             "brand": "NVIDIA"
         },
         "profit": {
-            "coin": "NEXA",
-            "logo": "211",
-            "revenueUSD": 1.3247355144945487,
-            "profitUSD": 1.0283355144945487
+            "coin": "PYI",
+            "logo": "570",
+            "revenueUSD": 1.3302948952921825,
+            "profitUSD": 1.0950948952921824
         },
         "profit24": {
-            "coin": "NEXA",
-            "logo": "211",
-            "revenueUSD24": 1.2525450643380207,
-            "profitUSD24": 0.9561450643380207
+            "coin": "PYI",
+            "logo": "570",
+            "revenueUSD24": 1.2596158413022465,
+            "profitUSD24": 1.0244158413022464
         },
         "revenue": {
             "coin": "NEXA",
             "logo": "211",
-            "revenueUSD": 1.3247355144945487,
-            "profitUSD": 1.0283355144945487
+            "revenueUSD": 1.3478044969897045,
+            "profitUSD": 1.0514044969897045
         },
         "revenue24": {
             "coin": "NEXA",
             "logo": "211",
-            "revenueUSD24": 1.2525450643380207,
-            "profitUSD24": 0.9561450643380207
+            "revenueUSD24": 1.3196437909136656,
+            "profitUSD24": 1.0232437909136656
         }
     },
     "4070ti": {
@@ -1115,28 +1115,28 @@
             "brand": "NVIDIA"
         },
         "profit": {
-            "coin": "BTG",
-            "logo": "143",
-            "revenueUSD": 1.1539615299961254,
-            "profitUSD": 0.9895615299961255
+            "coin": "PYI",
+            "logo": "570",
+            "revenueUSD": 1.2022804063602957,
+            "profitUSD": 1.0186804063602957
         },
         "profit24": {
             "coin": "NEXA",
             "logo": "211",
-            "revenueUSD24": 1.1757913911780713,
-            "profitUSD24": 0.9057913911780713
+            "revenueUSD24": 1.2387784303776157,
+            "profitUSD24": 0.9687784303776157
         },
         "revenue": {
             "coin": "NEXA",
             "logo": "211",
-            "revenueUSD": 1.2435581424399715,
-            "profitUSD": 0.9735581424399715
+            "revenueUSD": 1.2652134998345392,
+            "profitUSD": 0.9952134998345392
         },
         "revenue24": {
             "coin": "NEXA",
             "logo": "211",
-            "revenueUSD24": 1.1757913911780713,
-            "profitUSD24": 0.9057913911780713
+            "revenueUSD24": 1.2387784303776157,
+            "profitUSD24": 0.9687784303776157
         }
     },
     "4070s": {
@@ -1145,28 +1145,28 @@
             "brand": "NVIDIA"
         },
         "profit": {
-            "coin": "NEXA",
-            "logo": "211",
-            "revenueUSD": 0.9615360723069477,
-            "profitUSD": 0.7311360723069478
+            "coin": "PYI",
+            "logo": "570",
+            "revenueUSD": 1.0307145964515818,
+            "profitUSD": 0.8315145964515818
         },
         "profit24": {
-            "coin": "NEXA",
-            "logo": "211",
-            "revenueUSD24": 0.9091378983755549,
-            "profitUSD24": 0.678737898375555
+            "coin": "PYI",
+            "logo": "570",
+            "revenueUSD24": 0.9759523532312048,
+            "profitUSD24": 0.7767523532312047
         },
         "revenue": {
-            "coin": "NEXA",
-            "logo": "211",
-            "revenueUSD": 0.9615360723069477,
-            "profitUSD": 0.7311360723069478
+            "coin": "PYI",
+            "logo": "570",
+            "revenueUSD": 1.0307145964515818,
+            "profitUSD": 0.8315145964515818
         },
         "revenue24": {
-            "coin": "NEXA",
-            "logo": "211",
-            "revenueUSD24": 0.9091378983755549,
-            "profitUSD24": 0.678737898375555
+            "coin": "PYI",
+            "logo": "570",
+            "revenueUSD24": 0.9759523532312048,
+            "profitUSD24": 0.7767523532312047
         }
     },
     "4070": {
@@ -1177,26 +1177,26 @@
         "profit": {
             "coin": "NEXA",
             "logo": "211",
-            "revenueUSD": 0.9671590902736551,
-            "profitUSD": 0.7595590902736551
+            "revenueUSD": 0.9840012265940259,
+            "profitUSD": 0.7764012265940259
         },
         "profit24": {
             "coin": "NEXA",
             "logo": "211",
-            "revenueUSD24": 0.914454494272488,
-            "profitUSD24": 0.706854494272488
+            "revenueUSD24": 0.9634417393816993,
+            "profitUSD24": 0.7558417393816993
         },
         "revenue": {
             "coin": "NEXA",
             "logo": "211",
-            "revenueUSD": 0.9671590902736551,
-            "profitUSD": 0.7595590902736551
+            "revenueUSD": 0.9840012265940259,
+            "profitUSD": 0.7764012265940259
         },
         "revenue24": {
             "coin": "NEXA",
             "logo": "211",
-            "revenueUSD24": 0.914454494272488,
-            "profitUSD24": 0.706854494272488
+            "revenueUSD24": 0.9634417393816993,
+            "profitUSD24": 0.7558417393816993
         }
     },
     "4060ti": {
@@ -1207,26 +1207,26 @@
         "profit": {
             "coin": "NEXA",
             "logo": "211",
-            "revenueUSD": 0.7536428024110794,
-            "profitUSD": 0.5712428024110794
+            "revenueUSD": 0.766766759930294,
+            "profitUSD": 0.584366759930294
         },
         "profit24": {
             "coin": "NEXA",
             "logo": "211",
-            "revenueUSD24": 0.7125736134537336,
-            "profitUSD24": 0.5301736134537336
+            "revenueUSD24": 0.7507461179132205,
+            "profitUSD24": 0.5683461179132205
         },
         "revenue": {
             "coin": "NEXA",
             "logo": "211",
-            "revenueUSD": 0.7536428024110794,
-            "profitUSD": 0.5712428024110794
+            "revenueUSD": 0.766766759930294,
+            "profitUSD": 0.584366759930294
         },
         "revenue24": {
             "coin": "NEXA",
             "logo": "211",
-            "revenueUSD24": 0.7125736134537336,
-            "profitUSD24": 0.5301736134537336
+            "revenueUSD24": 0.7507461179132205,
+            "profitUSD24": 0.5683461179132205
         }
     },
     "4060": {
@@ -1235,28 +1235,28 @@
             "brand": "NVIDIA"
         },
         "profit": {
-            "coin": "BTG",
-            "logo": "143",
-            "revenueUSD": 0.5585981134388677,
-            "profitUSD": 0.44579811343886766
+            "coin": "NEXA",
+            "logo": "211",
+            "revenueUSD": 0.5642778078806062,
+            "profitUSD": 0.4274778078806062
         },
         "profit24": {
             "coin": "NEXA",
             "logo": "211",
-            "revenueUSD24": 0.5243960713552435,
-            "profitUSD24": 0.38759607135524343
+            "revenueUSD24": 0.552487921789227,
+            "profitUSD24": 0.415687921789227
         },
         "revenue": {
-            "coin": "BTG",
-            "logo": "143",
-            "revenueUSD": 0.5585981134388677,
-            "profitUSD": 0.44579811343886766
+            "coin": "NEXA",
+            "logo": "211",
+            "revenueUSD": 0.5642778078806062,
+            "profitUSD": 0.4274778078806062
         },
         "revenue24": {
             "coin": "NEXA",
             "logo": "211",
-            "revenueUSD24": 0.5243960713552435,
-            "profitUSD24": 0.38759607135524343
+            "revenueUSD24": 0.552487921789227,
+            "profitUSD24": 0.415687921789227
         }
     },
     "3090ti": {
@@ -1267,26 +1267,26 @@
         "profit": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 1.5466486585640535,
-            "profitUSD": 1.0114486585640536
+            "revenueUSD": 1.7309614726888103,
+            "profitUSD": 1.1957614726888104
         },
         "profit24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 1.4673136778687066,
-            "profitUSD24": 0.9321136778687066
+            "revenueUSD24": 1.592311776277909,
+            "profitUSD24": 1.057111776277909
         },
         "revenue": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 1.5466486585640535,
-            "profitUSD": 1.0114486585640536
+            "revenueUSD": 1.7309614726888103,
+            "profitUSD": 1.1957614726888104
         },
         "revenue24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 1.4673136778687066,
-            "profitUSD24": 0.9321136778687066
+            "revenueUSD24": 1.592311776277909,
+            "profitUSD24": 1.057111776277909
         }
     },
     "3090": {
@@ -1297,26 +1297,26 @@
         "profit": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 1.4289155481704148,
-            "profitUSD": 0.9945155481704147
+            "revenueUSD": 1.5991982069834547,
+            "profitUSD": 1.1647982069834546
         },
         "profit24": {
-            "coin": "CFX+RXD",
-            "logo": "125",
-            "revenueUSD24": 1.3779225049469654,
-            "profitUSD24": 0.9291225049469654
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 1.4711027239830798,
+            "profitUSD24": 1.0367027239830797
         },
         "revenue": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 1.4289155481704148,
-            "profitUSD": 0.9945155481704147
+            "revenueUSD": 1.5991982069834547,
+            "profitUSD": 1.1647982069834546
         },
         "revenue24": {
-            "coin": "CFX+RXD",
-            "logo": "125",
-            "revenueUSD24": 1.3779225049469654,
-            "profitUSD24": 0.9291225049469654
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 1.4711027239830798,
+            "profitUSD24": 1.0367027239830797
         }
     },
     "3080ti": {
@@ -1327,26 +1327,26 @@
         "profit": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 1.3712169801798815,
-            "profitUSD": 0.9464169801798814
+            "revenueUSD": 1.5346237493857904,
+            "profitUSD": 1.1098237493857903
         },
         "profit24": {
-            "coin": "CFX+RXD",
-            "logo": "125",
-            "revenueUSD24": 1.2951648405395852,
-            "profitUSD24": 0.8883648405395852
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 1.4117006685925582,
+            "profitUSD24": 0.9869006685925581
         },
         "revenue": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 1.3712169801798815,
-            "profitUSD": 0.9464169801798814
+            "revenueUSD": 1.5346237493857904,
+            "profitUSD": 1.1098237493857903
         },
         "revenue24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 1.3008807263388174,
-            "profitUSD24": 0.8760807263388173
+            "revenueUSD24": 1.4117006685925582,
+            "profitUSD24": 0.9869006685925581
         }
     },
     "308012": {
@@ -1357,26 +1357,26 @@
         "profit": {
             "coin": "CFX+RXD",
             "logo": "125",
-            "revenueUSD": 1.1972551109843428,
-            "profitUSD": 0.8156551109843428
+            "revenueUSD": 1.240451351608153,
+            "profitUSD": 0.8588513516081531
         },
         "profit24": {
             "coin": "CFX+RXD",
             "logo": "125",
-            "revenueUSD24": 1.1710471925726993,
-            "profitUSD24": 0.7894471925726994
+            "revenueUSD24": 1.2151670272480892,
+            "profitUSD24": 0.8335670272480893
         },
         "revenue": {
             "coin": "CFX+RXD",
             "logo": "125",
-            "revenueUSD": 1.1972551109843428,
-            "profitUSD": 0.8156551109843428
+            "revenueUSD": 1.240451351608153,
+            "profitUSD": 0.8588513516081531
         },
         "revenue24": {
             "coin": "CFX+RXD",
             "logo": "125",
-            "revenueUSD24": 1.1710471925726993,
-            "profitUSD24": 0.7894471925726994
+            "revenueUSD24": 1.2151670272480892,
+            "profitUSD24": 0.8335670272480893
         }
     },
     "3080": {
@@ -1385,28 +1385,28 @@
             "brand": "NVIDIA"
         },
         "profit": {
-            "coin": "BTG",
-            "logo": "143",
-            "revenueUSD": 1.2930666973757297,
-            "profitUSD": 0.9102666973757296
+            "coin": "CFX+RXD",
+            "logo": "125",
+            "revenueUSD": 1.2324163251957356,
+            "profitUSD": 0.8508163251957357
         },
         "profit24": {
             "coin": "CFX+RXD",
             "logo": "125",
-            "revenueUSD24": 1.1627517460387375,
-            "profitUSD24": 0.7811517460387376
+            "revenueUSD24": 1.2071165929777432,
+            "profitUSD24": 0.8255165929777433
         },
         "revenue": {
-            "coin": "BTG",
-            "logo": "143",
-            "revenueUSD": 1.2930666973757297,
-            "profitUSD": 0.9102666973757296
+            "coin": "CFX+RXD",
+            "logo": "125",
+            "revenueUSD": 1.2324163251957356,
+            "profitUSD": 0.8508163251957357
         },
         "revenue24": {
             "coin": "CFX+RXD",
             "logo": "125",
-            "revenueUSD24": 1.1627517460387375,
-            "profitUSD24": 0.7811517460387376
+            "revenueUSD24": 1.2071165929777432,
+            "profitUSD24": 0.8255165929777433
         }
     },
     "3070tim": {
@@ -1417,26 +1417,26 @@
         "profit": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.7143409753645787,
-            "profitUSD": 0.5499409753645788
+            "revenueUSD": 0.7994683859662259,
+            "profitUSD": 0.635068385966226
         },
         "profit24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 0.6776990223414144,
-            "profitUSD24": 0.5132990223414144
+            "revenueUSD24": 0.7354311149158504,
+            "profitUSD24": 0.5710311149158505
         },
         "revenue": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.7143409753645787,
-            "profitUSD": 0.5499409753645788
+            "revenueUSD": 0.7994683859662259,
+            "profitUSD": 0.635068385966226
         },
         "revenue24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 0.6776990223414144,
-            "profitUSD24": 0.5132990223414144
+            "revenueUSD24": 0.7354311149158504,
+            "profitUSD24": 0.5710311149158505
         }
     },
     "3070ti": {
@@ -1447,26 +1447,26 @@
         "profit": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.88229753562852,
-            "profitUSD": 0.61109753562852
+            "revenueUSD": 0.9874401876371601,
+            "profitUSD": 0.71624018763716
         },
         "profit24": {
-            "coin": "CFX+RXD",
-            "logo": "125",
-            "revenueUSD24": 0.859062549015012,
-            "profitUSD24": 0.5662625490150119
+            "coin": "NIR",
+            "logo": "624",
+            "revenueUSD24": 0.9410783857811885,
+            "profitUSD24": 0.6482783857811885
         },
         "revenue": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.88229753562852,
-            "profitUSD": 0.61109753562852
+            "revenueUSD": 0.9874401876371601,
+            "profitUSD": 0.71624018763716
         },
         "revenue24": {
-            "coin": "CFX+RXD",
-            "logo": "125",
-            "revenueUSD24": 0.859062549015012,
-            "profitUSD24": 0.5662625490150119
+            "coin": "NIR",
+            "logo": "624",
+            "revenueUSD24": 0.9410783857811885,
+            "profitUSD24": 0.6482783857811885
         }
     },
     "3070m": {
@@ -1475,28 +1475,28 @@
             "brand": "NVIDIA"
         },
         "profit": {
-            "coin": "BTG",
-            "logo": "143",
-            "revenueUSD": 0.5711602899030102,
-            "profitUSD": 0.4499602899030102
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.6156795451113349,
+            "profitUSD": 0.4812795451113349
         },
         "profit24": {
-            "coin": "CLORE",
-            "logo": "440",
-            "revenueUSD24": 0.5219035963420638,
-            "profitUSD24": 0.3875035963420638
+            "coin": "NIR",
+            "logo": "624",
+            "revenueUSD24": 0.5795341471759862,
+            "profitUSD24": 0.44153414717598616
         },
         "revenue": {
-            "coin": "BTG",
-            "logo": "143",
-            "revenueUSD": 0.5711602899030102,
-            "profitUSD": 0.4499602899030102
-        },
-        "revenue24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 0.5219035963420638,
-            "profitUSD24": 0.3875035963420638
+            "revenueUSD": 0.6156795451113349,
+            "profitUSD": 0.4812795451113349
+        },
+        "revenue24": {
+            "coin": "NIR",
+            "logo": "624",
+            "revenueUSD24": 0.5795341471759862,
+            "profitUSD24": 0.44153414717598616
         }
     },
     "3070": {
@@ -1505,28 +1505,28 @@
             "brand": "NVIDIA"
         },
         "profit": {
-            "coin": "BTG",
-            "logo": "143",
-            "revenueUSD": 0.9203887956061703,
-            "profitUSD": 0.6815887956061703
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.7997298210172287,
+            "profitUSD": 0.6197298210172286
         },
         "profit24": {
             "coin": "BTG",
             "logo": "143",
-            "revenueUSD24": 0.8022230739689494,
-            "profitUSD24": 0.5634230739689494
+            "revenueUSD24": 0.8571495373489981,
+            "profitUSD24": 0.6183495373489981
         },
         "revenue": {
-            "coin": "BTG",
-            "logo": "143",
-            "revenueUSD": 0.9203887956061703,
-            "profitUSD": 0.6815887956061703
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.7997298210172287,
+            "profitUSD": 0.6197298210172286
         },
         "revenue24": {
             "coin": "BTG",
             "logo": "143",
-            "revenueUSD24": 0.8022230739689494,
-            "profitUSD24": 0.5634230739689494
+            "revenueUSD24": 0.8571495373489981,
+            "profitUSD24": 0.6183495373489981
         }
     },
     "3060tix": {
@@ -1535,28 +1535,28 @@
             "brand": "NVIDIA"
         },
         "profit": {
-            "coin": "BTG",
-            "logo": "143",
-            "revenueUSD": 0.6884072702350064,
-            "profitUSD": 0.5000072702350064
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.8091414828533255,
+            "profitUSD": 0.5739414828533256
         },
         "profit24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 0.6858987816045382,
-            "profitUSD24": 0.45069878160453825
+            "revenueUSD24": 0.7443293985168599,
+            "profitUSD24": 0.5091293985168599
         },
         "revenue": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.7229840806910959,
-            "profitUSD": 0.4877840806910959
+            "revenueUSD": 0.8091414828533255,
+            "profitUSD": 0.5739414828533256
         },
         "revenue24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 0.6858987816045382,
-            "profitUSD24": 0.45069878160453825
+            "revenueUSD24": 0.7443293985168599,
+            "profitUSD24": 0.5091293985168599
         }
     },
     "3060ti": {
@@ -1565,28 +1565,28 @@
             "brand": "NVIDIA"
         },
         "profit": {
-            "coin": "BTG",
-            "logo": "143",
-            "revenueUSD": 0.8006293799813454,
-            "profitUSD": 0.5978293799813454
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.7978997756602099,
+            "profitUSD": 0.6190997756602099
         },
         "profit24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 0.6763693316500972,
-            "profitUSD24": 0.49756933165009715
+            "revenueUSD24": 0.7339881500075788,
+            "profitUSD24": 0.5551881500075788
         },
         "revenue": {
-            "coin": "BTG",
-            "logo": "143",
-            "revenueUSD": 0.8006293799813454,
-            "profitUSD": 0.5978293799813454
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.7978997756602099,
+            "profitUSD": 0.6190997756602099
         },
         "revenue24": {
             "coin": "BTG",
             "logo": "143",
-            "revenueUSD24": 0.6978391799038358,
-            "profitUSD24": 0.49503917990383584
+            "revenueUSD24": 0.7456187058286098,
+            "profitUSD24": 0.5428187058286098
         }
     },
     "3060m": {
@@ -1597,26 +1597,26 @@
         "profit": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.5290982044476032,
-            "profitUSD": 0.4042982044476032
+            "revenueUSD": 0.5921503905210928,
+            "profitUSD": 0.46735039052109273
         },
         "profit24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 0.5019582359723034,
-            "profitUSD24": 0.37715823597230336
+            "revenueUSD24": 0.5447192528725969,
+            "profitUSD24": 0.4199192528725969
         },
         "revenue": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.5290982044476032,
-            "profitUSD": 0.4042982044476032
+            "revenueUSD": 0.5921503905210928,
+            "profitUSD": 0.46735039052109273
         },
         "revenue24": {
-            "coin": "CLORE",
-            "logo": "440",
-            "revenueUSD24": 0.5019582359723034,
-            "profitUSD24": 0.37715823597230336
+            "coin": "NIR",
+            "logo": "624",
+            "revenueUSD24": 0.5481165328586892,
+            "profitUSD24": 0.4173165328586892
         }
     },
     "3060": {
@@ -1627,26 +1627,26 @@
         "profit": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.562736235988643,
-            "profitUSD": 0.39473623598864294
+            "revenueUSD": 0.6297970378654801,
+            "profitUSD": 0.4617970378654801
         },
         "profit24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 0.5338708125639201,
-            "profitUSD24": 0.36587081256392007
+            "revenueUSD24": 0.5793504106711197,
+            "profitUSD24": 0.41135041067111966
         },
         "revenue": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.562736235988643,
-            "profitUSD": 0.39473623598864294
+            "revenueUSD": 0.6297970378654801,
+            "profitUSD": 0.4617970378654801
         },
         "revenue24": {
-            "coin": "CLORE",
-            "logo": "440",
-            "revenueUSD24": 0.5338708125639201,
-            "profitUSD24": 0.36587081256392007
+            "coin": "CTXC",
+            "logo": "132",
+            "revenueUSD24": 0.5807302449977004,
+            "profitUSD24": 0.3983302449977004
         }
     },
     "3050": {
@@ -1657,26 +1657,26 @@
         "profit": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.34806018747325784,
-            "profitUSD": 0.22686018747325784
+            "revenueUSD": 0.3895382259940081,
+            "profitUSD": 0.26833822599400814
         },
         "profit24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 0.3302065216771444,
-            "profitUSD24": 0.20900652167714442
+            "revenueUSD24": 0.3583362855541587,
+            "profitUSD24": 0.2371362855541587
         },
         "revenue": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.34806018747325784,
-            "profitUSD": 0.22686018747325784
+            "revenueUSD": 0.3895382259940081,
+            "profitUSD": 0.26833822599400814
         },
         "revenue24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 0.3302065216771444,
-            "profitUSD24": 0.20900652167714442
+            "revenueUSD24": 0.3583362855541587,
+            "profitUSD24": 0.2371362855541587
         }
     },
     "2080ti": {
@@ -1685,28 +1685,28 @@
             "brand": "NVIDIA"
         },
         "profit": {
-            "coin": "BTG",
-            "logo": "143",
-            "revenueUSD": 0.8009643713537227,
-            "profitUSD": 0.6305643713537227
+            "coin": "CTXC",
+            "logo": "132",
+            "revenueUSD": 0.9502087395385675,
+            "profitUSD": 0.7198087395385675
         },
         "profit24": {
             "coin": "CTXC",
             "logo": "132",
-            "revenueUSD24": 0.7769922369033865,
-            "profitUSD24": 0.5465922369033864
+            "revenueUSD24": 0.9134618088575928,
+            "profitUSD24": 0.6830618088575928
         },
         "revenue": {
             "coin": "CTXC",
             "logo": "132",
-            "revenueUSD": 0.8307833017048629,
-            "profitUSD": 0.600383301704863
+            "revenueUSD": 0.9502087395385675,
+            "profitUSD": 0.7198087395385675
         },
         "revenue24": {
-            "coin": "CFX",
-            "logo": "125",
-            "revenueUSD24": 0.7883482584395551,
-            "profitUSD24": 0.5051482584395551
+            "coin": "CTXC",
+            "logo": "132",
+            "revenueUSD24": 0.9134618088575928,
+            "profitUSD24": 0.6830618088575928
         }
     },
     "2080s": {
@@ -1715,28 +1715,28 @@
             "brand": "NVIDIA"
         },
         "profit": {
-            "coin": "BTG",
-            "logo": "143",
-            "revenueUSD": 0.7771799839149462,
-            "profitUSD": 0.5719799839149462
+            "coin": "CTXC",
+            "logo": "132",
+            "revenueUSD": 0.7115816578897418,
+            "profitUSD": 0.5375816578897418
         },
         "profit24": {
             "coin": "BTG",
             "logo": "143",
-            "revenueUSD24": 0.6774003754715059,
-            "profitUSD24": 0.47220037547150584
+            "revenueUSD24": 0.7237805010553869,
+            "profitUSD24": 0.5185805010553869
         },
         "revenue": {
-            "coin": "BTG",
-            "logo": "143",
-            "revenueUSD": 0.7771799839149462,
-            "profitUSD": 0.5719799839149462
+            "coin": "CTXC",
+            "logo": "132",
+            "revenueUSD": 0.7115816578897418,
+            "profitUSD": 0.5375816578897418
         },
         "revenue24": {
             "coin": "BTG",
             "logo": "143",
-            "revenueUSD24": 0.6774003754715059,
-            "profitUSD24": 0.47220037547150584
+            "revenueUSD24": 0.7237805010553869,
+            "profitUSD24": 0.5185805010553869
         }
     },
     "2080": {
@@ -1745,28 +1745,28 @@
             "brand": "NVIDIA"
         },
         "profit": {
-            "coin": "BTG",
-            "logo": "143",
-            "revenueUSD": 0.7051568388538629,
-            "profitUSD": 0.501156838853863
+            "coin": "CTXC",
+            "logo": "132",
+            "revenueUSD": 0.6728853743791213,
+            "profitUSD": 0.46168537437912127
         },
         "profit24": {
             "coin": "BTG",
             "logo": "143",
-            "revenueUSD24": 0.6146240475722069,
-            "profitUSD24": 0.4106240475722069
+            "revenueUSD24": 0.6567060149662024,
+            "profitUSD24": 0.4527060149662024
         },
         "revenue": {
-            "coin": "BTG",
-            "logo": "143",
-            "revenueUSD": 0.7051568388538629,
-            "profitUSD": 0.501156838853863
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.6758096068419537,
+            "profitUSD": 0.4610096068419537
         },
         "revenue24": {
             "coin": "BTG",
             "logo": "143",
-            "revenueUSD24": 0.6146240475722069,
-            "profitUSD24": 0.4106240475722069
+            "revenueUSD24": 0.6567060149662024,
+            "profitUSD24": 0.4527060149662024
         }
     },
     "2070s": {
@@ -1775,28 +1775,28 @@
             "brand": "NVIDIA"
         },
         "profit": {
-            "coin": "BTG",
-            "logo": "143",
-            "revenueUSD": 0.6029844702788376,
-            "profitUSD": 0.44218447027883756
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.6917571449531177,
+            "profitUSD": 0.4565571449531177
         },
         "profit24": {
-            "coin": "BTG",
-            "logo": "143",
-            "revenueUSD24": 0.5255692568313408,
-            "profitUSD24": 0.36476925683134076
+            "coin": "CTXC",
+            "logo": "132",
+            "revenueUSD24": 0.5827969006738488,
+            "profitUSD24": 0.4123969006738488
         },
         "revenue": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.6180988295666041,
-            "profitUSD": 0.38289882956660415
+            "revenueUSD": 0.6917571449531177,
+            "profitUSD": 0.4565571449531177
         },
         "revenue24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 0.5863935948709558,
-            "profitUSD24": 0.3511935948709558
+            "revenueUSD24": 0.636347524547855,
+            "profitUSD24": 0.40114752454785507
         }
     },
     "2070": {
@@ -1805,28 +1805,28 @@
             "brand": "NVIDIA"
         },
         "profit": {
-            "coin": "BTG",
-            "logo": "143",
-            "revenueUSD": 0.5611105487316961,
-            "profitUSD": 0.39911054873169605
+            "coin": "CFX",
+            "logo": "125",
+            "revenueUSD": 0.5558259571431234,
+            "profitUSD": 0.4058259571431234
         },
         "profit24": {
             "coin": "CFX",
             "logo": "125",
-            "revenueUSD24": 0.5154665407908634,
-            "profitUSD24": 0.3654665407908634
+            "revenueUSD24": 0.5421592757729072,
+            "profitUSD24": 0.3921592757729072
         },
         "revenue": {
-            "coin": "BTG",
-            "logo": "143",
-            "revenueUSD": 0.5611105487316961,
-            "profitUSD": 0.39911054873169605
+            "coin": "CFX",
+            "logo": "125",
+            "revenueUSD": 0.5558259571431234,
+            "profitUSD": 0.4058259571431234
         },
         "revenue24": {
             "coin": "CFX",
             "logo": "125",
-            "revenueUSD24": 0.5154665407908634,
-            "profitUSD24": 0.3654665407908634
+            "revenueUSD24": 0.5421592757729072,
+            "profitUSD24": 0.3921592757729072
         }
     },
     "2060s": {
@@ -1835,28 +1835,28 @@
             "brand": "NVIDIA"
         },
         "profit": {
-            "coin": "BTG",
-            "logo": "143",
-            "revenueUSD": 0.517561670322669,
-            "profitUSD": 0.36876167032266893
+            "coin": "CFX",
+            "logo": "125",
+            "revenueUSD": 0.5413566216714293,
+            "profitUSD": 0.39255662167142924
         },
         "profit24": {
             "coin": "CFX",
             "logo": "125",
-            "revenueUSD24": 0.5020478470301901,
-            "profitUSD24": 0.3532478470301901
+            "revenueUSD24": 0.5280457131739785,
+            "profitUSD24": 0.3792457131739785
         },
         "revenue": {
-            "coin": "BTG",
-            "logo": "143",
-            "revenueUSD": 0.517561670322669,
-            "profitUSD": 0.36876167032266893
+            "coin": "CFX",
+            "logo": "125",
+            "revenueUSD": 0.5413566216714293,
+            "profitUSD": 0.39255662167142924
         },
         "revenue24": {
             "coin": "CFX",
             "logo": "125",
-            "revenueUSD24": 0.5020478470301901,
-            "profitUSD24": 0.3532478470301901
+            "revenueUSD24": 0.5280457131739785,
+            "profitUSD24": 0.3792457131739785
         }
     },
     "206012": {
@@ -1865,28 +1865,28 @@
             "brand": "NVIDIA"
         },
         "profit": {
-            "coin": "BTG",
-            "logo": "143",
-            "revenueUSD": 0.5510608075603821,
-            "profitUSD": 0.37106080756038207
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.5239158422093907,
+            "profitUSD": 0.3463158422093907
         },
         "profit24": {
             "coin": "BTG",
             "logo": "143",
-            "revenueUSD24": 0.4803119041597531,
-            "profitUSD24": 0.30031190415975306
+            "revenueUSD24": 0.5131978121707377,
+            "profitUSD24": 0.33319781217073763
         },
         "revenue": {
-            "coin": "BTG",
-            "logo": "143",
-            "revenueUSD": 0.5510608075603821,
-            "profitUSD": 0.37106080756038207
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.5239158422093907,
+            "profitUSD": 0.3463158422093907
         },
         "revenue24": {
             "coin": "BTG",
             "logo": "143",
-            "revenueUSD24": 0.4803119041597531,
-            "profitUSD24": 0.30031190415975306
+            "revenueUSD24": 0.5131978121707377,
+            "profitUSD24": 0.33319781217073763
         }
     },
     "2060": {
@@ -1895,28 +1895,28 @@
             "brand": "NVIDIA"
         },
         "profit": {
-            "coin": "BTG",
-            "logo": "143",
-            "revenueUSD": 0.49411227425626975,
-            "profitUSD": 0.34531227425626976
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.46430865058077747,
+            "profitUSD": 0.31430865058077745
         },
         "profit24": {
             "coin": "BTG",
             "logo": "143",
-            "revenueUSD24": 0.4306748076812376,
-            "profitUSD24": 0.2818748076812376
+            "revenueUSD24": 0.46016217200719645,
+            "profitUSD24": 0.3113621720071964
         },
         "revenue": {
-            "coin": "BTG",
-            "logo": "143",
-            "revenueUSD": 0.49411227425626975,
-            "profitUSD": 0.34531227425626976
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.46430865058077747,
+            "profitUSD": 0.31430865058077745
         },
         "revenue24": {
             "coin": "BTG",
             "logo": "143",
-            "revenueUSD24": 0.4306748076812376,
-            "profitUSD24": 0.2818748076812376
+            "revenueUSD24": 0.46016217200719645,
+            "profitUSD24": 0.3113621720071964
         }
     },
     "p106": {
@@ -1925,28 +1925,28 @@
             "brand": "NVIDIA"
         },
         "profit": {
-            "coin": "BTG",
-            "logo": "143",
-            "revenueUSD": 0.33582885080807484,
-            "profitUSD": 0.22902885080807484
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.2713695829407922,
+            "profitUSD": 0.16456958294079221
         },
         "profit24": {
             "coin": "BTG",
             "logo": "143",
-            "revenueUSD24": 0.29271287776301064,
-            "profitUSD24": 0.18591287776301063
+            "revenueUSD24": 0.312754289787942,
+            "profitUSD24": 0.205954289787942
         },
         "revenue": {
-            "coin": "BTG",
-            "logo": "143",
-            "revenueUSD": 0.33582885080807484,
-            "profitUSD": 0.22902885080807484
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.290977211765994,
+            "profitUSD": 0.148177211765994
         },
         "revenue24": {
             "coin": "BTG",
             "logo": "143",
-            "revenueUSD24": 0.29271287776301064,
-            "profitUSD24": 0.18591287776301063
+            "revenueUSD24": 0.312754289787942,
+            "profitUSD24": 0.205954289787942
         }
     },
     "p104": {
@@ -1955,28 +1955,28 @@
             "brand": "NVIDIA"
         },
         "profit": {
-            "coin": "BTG",
-            "logo": "143",
-            "revenueUSD": 0.4463760036925284,
-            "profitUSD": 0.30357600369252835
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.4530669433876617,
+            "profitUSD": 0.27426694338766167
         },
         "profit24": {
             "coin": "BTG",
             "logo": "143",
-            "revenueUSD24": 0.3890672415154231,
-            "profitUSD24": 0.2462672415154231
+            "revenueUSD24": 0.4157058265759927,
+            "profitUSD24": 0.2729058265759927
         },
         "revenue": {
-            "coin": "BTG",
-            "logo": "143",
-            "revenueUSD": 0.4463760036925284,
-            "profitUSD": 0.30357600369252835
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.4684916113968205,
+            "profitUSD": 0.2728916113968205
         },
         "revenue24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 0.39713428647345156,
-            "profitUSD24": 0.20153428647345156
+            "revenueUSD24": 0.43096551927050497,
+            "profitUSD24": 0.23536551927050497
         }
     },
     "p102": {
@@ -1987,26 +1987,26 @@
         "profit": {
             "coin": "CTXC",
             "logo": "132",
-            "revenueUSD": 0.49057566005649145,
-            "profitUSD": 0.3189756600564915
+            "revenueUSD": 0.5610961109039958,
+            "profitUSD": 0.38949611090399583
         },
         "profit24": {
             "coin": "CTXC",
             "logo": "132",
-            "revenueUSD24": 0.4588121579904612,
-            "profitUSD24": 0.2872121579904612
+            "revenueUSD24": 0.5393971314747323,
+            "profitUSD24": 0.36779713147473236
         },
         "revenue": {
             "coin": "CTXC",
             "logo": "132",
-            "revenueUSD": 0.49057566005649145,
-            "profitUSD": 0.3189756600564915
+            "revenueUSD": 0.5610961109039958,
+            "profitUSD": 0.38949611090399583
         },
         "revenue24": {
             "coin": "CTXC",
             "logo": "132",
-            "revenueUSD24": 0.4588121579904612,
-            "profitUSD24": 0.2872121579904612
+            "revenueUSD24": 0.5393971314747323,
+            "profitUSD24": 0.36779713147473236
         }
     },
     "1660ti": {
@@ -2015,28 +2015,28 @@
             "brand": "NVIDIA"
         },
         "profit": {
-            "coin": "BTG",
-            "logo": "143",
-            "revenueUSD": 0.3048421488631901,
-            "profitUSD": 0.2340421488631901
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.3372512157934701,
+            "profitUSD": 0.25085121579347014
         },
         "profit24": {
-            "coin": "DNX",
-            "logo": "301",
-            "revenueUSD24": 0.2585368686150624,
-            "profitUSD24": 0.19973686861506243
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.3102374552784327,
+            "profitUSD24": 0.2238374552784327
         },
         "revenue": {
-            "coin": "BTG",
-            "logo": "143",
-            "revenueUSD": 0.3048421488631901,
-            "profitUSD": 0.2340421488631901
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.3372512157934701,
+            "profitUSD": 0.25085121579347014
         },
         "revenue24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 0.2858834986332324,
-            "profitUSD24": 0.19948349863323242
+            "revenueUSD24": 0.3102374552784327,
+            "profitUSD24": 0.2238374552784327
         }
     },
     "1660s": {
@@ -2047,26 +2047,26 @@
         "profit": {
             "coin": "DNX",
             "logo": "301",
-            "revenueUSD": 0.2963719459180848,
-            "profitUSD": 0.2075719459180848
+            "revenueUSD": 0.2976430261310624,
+            "profitUSD": 0.20884302613106243
         },
         "profit24": {
             "coin": "DNX",
             "logo": "301",
-            "revenueUSD24": 0.28820503386597124,
-            "profitUSD24": 0.19940503386597125
+            "revenueUSD24": 0.2922032154011472,
+            "profitUSD24": 0.2034032154011472
         },
         "revenue": {
-            "coin": "DNX",
-            "logo": "301",
-            "revenueUSD": 0.2963719459180848,
-            "profitUSD": 0.2075719459180848
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.3092776653361823,
+            "profitUSD": 0.20847766533618228
         },
         "revenue24": {
             "coin": "DNX",
             "logo": "301",
-            "revenueUSD24": 0.28820503386597124,
-            "profitUSD24": 0.19940503386597125
+            "revenueUSD24": 0.2922032154011472,
+            "profitUSD24": 0.2034032154011472
         }
     },
     "1660": {
@@ -2075,28 +2075,28 @@
             "brand": "NVIDIA"
         },
         "profit": {
-            "coin": "BTG",
-            "logo": "143",
-            "revenueUSD": 0.2830677096586765,
-            "profitUSD": 0.2230677096586765
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.30718618492816074,
+            "profitUSD": 0.23278618492816072
         },
         "profit24": {
             "coin": "DNX",
             "logo": "301",
-            "revenueUSD24": 0.270192219249348,
-            "profitUSD24": 0.214992219249348
+            "revenueUSD24": 0.2739405144385755,
+            "profitUSD24": 0.21874051443857548
         },
         "revenue": {
-            "coin": "BTG",
-            "logo": "143",
-            "revenueUSD": 0.2830677096586765,
-            "profitUSD": 0.2230677096586765
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.30718618492816074,
+            "profitUSD": 0.23278618492816072
         },
         "revenue24": {
-            "coin": "DNX",
-            "logo": "301",
-            "revenueUSD24": 0.270192219249348,
-            "profitUSD24": 0.214992219249348
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.28258062786989024,
+            "profitUSD24": 0.20818062786989022
         }
     },
     "1080ti": {
@@ -2105,28 +2105,28 @@
             "brand": "NVIDIA"
         },
         "profit": {
-            "coin": "BTG",
-            "logo": "143",
-            "revenueUSD": 0.763780329019861,
-            "profitUSD": 0.548980329019861
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.6248297718964291,
+            "profitUSD": 0.4100297718964291
         },
         "profit24": {
             "coin": "BTG",
             "logo": "143",
-            "revenueUSD24": 0.6657210586530318,
-            "profitUSD24": 0.4509210586530318
+            "revenueUSD24": 0.7113015268992596,
+            "profitUSD24": 0.49650152689925964
         },
         "revenue": {
-            "coin": "BTG",
-            "logo": "143",
-            "revenueUSD": 0.763780329019861,
-            "profitUSD": 0.548980329019861
+            "coin": "CTXC",
+            "logo": "132",
+            "revenueUSD": 0.6406384714536044,
+            "profitUSD": 0.4030384714536044
         },
         "revenue24": {
             "coin": "BTG",
             "logo": "143",
-            "revenueUSD24": 0.6657210586530318,
-            "profitUSD24": 0.4509210586530318
+            "revenueUSD24": 0.7113015268992596,
+            "profitUSD24": 0.49650152689925964
         }
     },
     "1080": {
@@ -2135,28 +2135,28 @@
             "brand": "NVIDIA"
         },
         "profit": {
-            "coin": "BTG",
-            "logo": "143",
-            "revenueUSD": 0.5326362820796399,
-            "profitUSD": 0.35983628207963986
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.4779032732329173,
+            "profitUSD": 0.2871032732329173
         },
         "profit24": {
             "coin": "BTG",
             "logo": "143",
-            "revenueUSD24": 0.4642528435343511,
-            "profitUSD24": 0.2914528435343511
+            "revenueUSD24": 0.4960392227060626,
+            "profitUSD24": 0.3232392227060626
         },
         "revenue": {
-            "coin": "BTG",
-            "logo": "143",
-            "revenueUSD": 0.5326362820796399,
-            "profitUSD": 0.35983628207963986
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.4779032732329173,
+            "profitUSD": 0.2871032732329173
         },
         "revenue24": {
             "coin": "BTG",
             "logo": "143",
-            "revenueUSD24": 0.4642528435343511,
-            "profitUSD24": 0.2914528435343511
+            "revenueUSD24": 0.4960392227060626,
+            "profitUSD24": 0.3232392227060626
         }
     },
     "1070ti": {
@@ -2165,28 +2165,28 @@
             "brand": "NVIDIA"
         },
         "profit": {
-            "coin": "BTG",
-            "logo": "143",
-            "revenueUSD": 0.502487058565698,
-            "profitUSD": 0.33568705856569797
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.43267500940945197,
+            "profitUSD": 0.24067500940945197
         },
         "profit24": {
             "coin": "BTG",
             "logo": "143",
-            "revenueUSD24": 0.437974380692784,
-            "profitUSD24": 0.271174380692784
+            "revenueUSD24": 0.46796153085477604,
+            "profitUSD24": 0.30116153085477604
         },
         "revenue": {
-            "coin": "BTG",
-            "logo": "143",
-            "revenueUSD": 0.502487058565698,
-            "profitUSD": 0.33568705856569797
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.43267500940945197,
+            "profitUSD": 0.24067500940945197
         },
         "revenue24": {
             "coin": "BTG",
             "logo": "143",
-            "revenueUSD24": 0.437974380692784,
-            "profitUSD24": 0.271174380692784
+            "revenueUSD24": 0.46796153085477604,
+            "profitUSD24": 0.30116153085477604
         }
     },
     "1070": {
@@ -2195,28 +2195,28 @@
             "brand": "NVIDIA"
         },
         "profit": {
-            "coin": "BTG",
-            "logo": "143",
-            "revenueUSD": 0.418739215471415,
-            "profitUSD": 0.298739215471415
+            "coin": "DNX",
+            "logo": "301",
+            "revenueUSD": 0.2921716469742414,
+            "profitUSD": 0.22137164697424142
         },
         "profit24": {
             "coin": "BTG",
             "logo": "143",
-            "revenueUSD24": 0.36497865057732004,
-            "profitUSD24": 0.24497865057732005
+            "revenueUSD24": 0.38996794237898,
+            "profitUSD24": 0.26996794237898003
         },
         "revenue": {
-            "coin": "BTG",
-            "logo": "143",
-            "revenueUSD": 0.418739215471415,
-            "profitUSD": 0.298739215471415
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.34744718278257497,
+            "profitUSD": 0.17944718278257496
         },
         "revenue24": {
             "coin": "BTG",
             "logo": "143",
-            "revenueUSD24": 0.36497865057732004,
-            "profitUSD24": 0.24497865057732005
+            "revenueUSD24": 0.38996794237898,
+            "profitUSD24": 0.26996794237898003
         }
     },
     "1060": {
@@ -2227,26 +2227,26 @@
         "profit": {
             "coin": "DNX",
             "logo": "301",
-            "revenueUSD": 0.1950388908799161,
-            "profitUSD": 0.1482388908799161
+            "revenueUSD": 0.19587537381419182,
+            "profitUSD": 0.1490753738141918
         },
         "profit24": {
             "coin": "DNX",
             "logo": "301",
-            "revenueUSD24": 0.1896643421397384,
-            "profitUSD24": 0.1428643421397384
+            "revenueUSD24": 0.1922954983706079,
+            "profitUSD24": 0.14549549837060788
         },
         "revenue": {
             "coin": "DNX",
             "logo": "301",
-            "revenueUSD": 0.1950388908799161,
-            "profitUSD": 0.1482388908799161
+            "revenueUSD": 0.19587537381419182,
+            "profitUSD": 0.1490753738141918
         },
         "revenue24": {
             "coin": "DNX",
             "logo": "301",
-            "revenueUSD24": 0.1896643421397384,
-            "profitUSD24": 0.1428643421397384
+            "revenueUSD24": 0.1922954983706079,
+            "profitUSD24": 0.14549549837060788
         }
     },
     "1050ti": {
@@ -2257,26 +2257,26 @@
         "profit": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.1649197935275973,
-            "profitUSD": 0.0749197935275973
+            "revenueUSD": 0.18457314600789912,
+            "profitUSD": 0.09457314600789911
         },
         "profit24": {
-            "coin": "DNX",
-            "logo": "301",
-            "revenueUSD24": 0.11549392901246641,
-            "profitUSD24": 0.06749392901246641
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.16978887087331276,
+            "profitUSD24": 0.07978887087331275
         },
         "revenue": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.1649197935275973,
-            "profitUSD": 0.0749197935275973
+            "revenueUSD": 0.18457314600789912,
+            "profitUSD": 0.09457314600789911
         },
         "revenue24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 0.15646027134500937,
-            "profitUSD24": 0.06646027134500936
+            "revenueUSD24": 0.16978887087331276,
+            "profitUSD24": 0.07978887087331275
         }
     },
     "cmp90": {
@@ -2287,26 +2287,26 @@
         "profit": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 1.0642699423678943,
-            "profitUSD": 0.7654699423678943
+            "revenueUSD": 1.1910980923682557,
+            "profitUSD": 0.8922980923682557
         },
         "profit24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 1.0096784649403154,
-            "profitUSD24": 0.7108784649403155
+            "revenueUSD24": 1.0956913536810384,
+            "profitUSD24": 0.7968913536810385
         },
         "revenue": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 1.0642699423678943,
-            "profitUSD": 0.7654699423678943
+            "revenueUSD": 1.1910980923682557,
+            "profitUSD": 0.8922980923682557
         },
         "revenue24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 1.0096784649403154,
-            "profitUSD24": 0.7108784649403155
+            "revenueUSD24": 1.0956913536810384,
+            "profitUSD24": 0.7968913536810385
         }
     },
     "cmp70": {
@@ -2317,26 +2317,26 @@
         "profit": {
             "coin": "NEXA",
             "logo": "211",
-            "revenueUSD": 0.44176329884920146,
-            "profitUSD": 0.27256329884920144
+            "revenueUSD": 0.4494561776892791,
+            "profitUSD": 0.2802561776892791
         },
         "profit24": {
             "coin": "NEXA",
             "logo": "211",
-            "revenueUSD24": 0.4176897452548263,
-            "profitUSD24": 0.24848974525482626
+            "revenueUSD24": 0.4400653473854502,
+            "profitUSD24": 0.2708653473854502
         },
         "revenue": {
             "coin": "NEXA",
             "logo": "211",
-            "revenueUSD": 0.44176329884920146,
-            "profitUSD": 0.27256329884920144
+            "revenueUSD": 0.4494561776892791,
+            "profitUSD": 0.2802561776892791
         },
         "revenue24": {
             "coin": "NEXA",
             "logo": "211",
-            "revenueUSD24": 0.4176897452548263,
-            "profitUSD24": 0.24848974525482626
+            "revenueUSD24": 0.4400653473854502,
+            "profitUSD24": 0.2708653473854502
         }
     },
     "cmp50": {
@@ -2345,28 +2345,28 @@
             "brand": "NVIDIA"
         },
         "profit": {
-            "coin": "BTG",
-            "logo": "143",
-            "revenueUSD": 0.649548271039259,
-            "profitUSD": 0.48274827103925905
+            "coin": "DNX",
+            "logo": "301",
+            "revenueUSD": 0.634679982191236,
+            "profitUSD": 0.47267998219123597
         },
         "profit24": {
             "coin": "DNX",
             "logo": "301",
-            "revenueUSD24": 0.614554851625968,
-            "profitUSD24": 0.452554851625968
+            "revenueUSD24": 0.623080385781858,
+            "profitUSD24": 0.46108038578185795
         },
         "revenue": {
-            "coin": "BTG",
-            "logo": "143",
-            "revenueUSD": 0.649548271039259,
-            "profitUSD": 0.48274827103925905
+            "coin": "DNX",
+            "logo": "301",
+            "revenueUSD": 0.634679982191236,
+            "profitUSD": 0.47267998219123597
         },
         "revenue24": {
             "coin": "DNX",
             "logo": "301",
-            "revenueUSD24": 0.614554851625968,
-            "profitUSD24": 0.452554851625968
+            "revenueUSD24": 0.623080385781858,
+            "profitUSD24": 0.46108038578185795
         }
     },
     "cmp40": {
@@ -2375,28 +2375,28 @@
             "brand": "NVIDIA"
         },
         "profit": {
-            "coin": "BTG",
-            "logo": "143",
-            "revenueUSD": 0.4913485954341584,
-            "profitUSD": 0.32574859543415835
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.48051762374294416,
+            "profitUSD": 0.30411762374294415
         },
         "profit24": {
             "coin": "BTG",
             "logo": "143",
-            "revenueUSD24": 0.42826594858742734,
-            "profitUSD24": 0.2626659485874273
+            "revenueUSD24": 0.45758838358749515,
+            "profitUSD24": 0.2919883835874951
         },
         "revenue": {
-            "coin": "BTG",
-            "logo": "143",
-            "revenueUSD": 0.4913485954341584,
-            "profitUSD": 0.32574859543415835
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.48051762374294416,
+            "profitUSD": 0.30411762374294415
         },
         "revenue24": {
             "coin": "BTG",
             "logo": "143",
-            "revenueUSD24": 0.42826594858742734,
-            "profitUSD24": 0.2626659485874273
+            "revenueUSD24": 0.45758838358749515,
+            "profitUSD24": 0.2919883835874951
         }
     },
     "cmp30": {
@@ -2405,28 +2405,28 @@
             "brand": "NVIDIA"
         },
         "profit": {
-            "coin": "DNX",
-            "logo": "301",
-            "revenueUSD": 0.24733982251251932,
-            "profitUSD": 0.1741398225125193
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.2810426798278917,
+            "profitUSD": 0.18504267982789172
         },
         "profit24": {
             "coin": "DNX",
             "logo": "301",
-            "revenueUSD24": 0.2405240539984392,
-            "profitUSD24": 0.1673240539984392
+            "revenueUSD24": 0.2438607716766927,
+            "profitUSD24": 0.1706607716766927
         },
         "revenue": {
-            "coin": "ERG+ALPH",
-            "logo": "141",
-            "revenueUSD": 0.2616289947631048,
-            "profitUSD": 0.1536289947631048
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD": 0.2810426798278917,
+            "profitUSD": 0.18504267982789172
         },
         "revenue24": {
             "coin": "ERG+ALPH",
             "logo": "141",
-            "revenueUSD24": 0.2636107580727296,
-            "profitUSD24": 0.1556107580727296
+            "revenueUSD24": 0.26082880663455854,
+            "profitUSD24": 0.15282880663455853
         }
     },
     "cmp170": {
@@ -2437,26 +2437,26 @@
         "profit": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 1.0103089334374766,
-            "profitUSD": 0.7943089334374767
+            "revenueUSD": 1.1307065955866342,
+            "profitUSD": 0.9147065955866343
         },
         "profit24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 0.958485373324597,
-            "profitUSD24": 0.7424853733245971
+            "revenueUSD24": 1.0401372047125748,
+            "profitUSD24": 0.8241372047125748
         },
         "revenue": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 1.0103089334374766,
-            "profitUSD": 0.7943089334374767
+            "revenueUSD": 1.1307065955866342,
+            "profitUSD": 0.9147065955866343
         },
         "revenue24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 0.958485373324597,
-            "profitUSD24": 0.7424853733245971
+            "revenueUSD24": 1.0401372047125748,
+            "profitUSD24": 0.8241372047125748
         }
     },
     "bc250": {
@@ -2467,26 +2467,26 @@
         "profit": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.4272497200594554,
-            "profitUSD": 0.3252497200594554
+            "revenueUSD": 0.47816470828392,
+            "profitUSD": 0.37616470828392
         },
         "profit24": {
-            "coin": "ABEL",
-            "logo": "653",
-            "revenueUSD24": 0.4173812711178025,
-            "profitUSD24": 0.3297812711178025
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.4398638028715142,
+            "profitUSD24": 0.3378638028715142
         },
         "revenue": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.4272497200594554,
-            "profitUSD": 0.3252497200594554
+            "revenueUSD": 0.47816470828392,
+            "profitUSD": 0.37616470828392
         },
         "revenue24": {
-            "coin": "ABEL",
-            "logo": "653",
-            "revenueUSD24": 0.4173812711178025,
-            "profitUSD24": 0.3297812711178025
+            "coin": "CLORE",
+            "logo": "440",
+            "revenueUSD24": 0.4398638028715142,
+            "profitUSD24": 0.3378638028715142
         }
     },
     "bc160": {
@@ -2497,26 +2497,26 @@
         "profit": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.4723340262220988,
-            "profitUSD": 0.36433402622209876
+            "revenueUSD": 0.5286216731274391,
+            "profitUSD": 0.42062167312743914
         },
         "profit24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 0.44810576297395033,
-            "profitUSD24": 0.34010576297395034
+            "revenueUSD24": 0.4862791740875898,
+            "profitUSD24": 0.3782791740875898
         },
         "revenue": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.4723340262220988,
-            "profitUSD": 0.36433402622209876
+            "revenueUSD": 0.5286216731274391,
+            "profitUSD": 0.42062167312743914
         },
         "revenue24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 0.44810576297395033,
-            "profitUSD24": 0.34010576297395034
+            "revenueUSD24": 0.4862791740875898,
+            "profitUSD24": 0.3782791740875898
         }
     },
     "a770": {
@@ -2527,26 +2527,26 @@
         "profit": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.5919359161457954,
-            "profitUSD": 0.36513591614579544
+            "revenueUSD": 0.6624764192408165,
+            "profitUSD": 0.43567641924081646
         },
         "profit24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 0.5615727019663651,
-            "profitUSD24": 0.3347727019663651
+            "revenueUSD24": 0.6094121795934484,
+            "profitUSD24": 0.3826121795934484
         },
         "revenue": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.5919359161457954,
-            "profitUSD": 0.36513591614579544
+            "revenueUSD": 0.6624764192408165,
+            "profitUSD": 0.43567641924081646
         },
         "revenue24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 0.5615727019663651,
-            "profitUSD24": 0.3347727019663651
+            "revenueUSD24": 0.6094121795934484,
+            "profitUSD24": 0.3826121795934484
         }
     },
     "a750": {
@@ -2557,26 +2557,26 @@
         "profit": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.5881983570856799,
-            "profitUSD": 0.3613983570856799
+            "revenueUSD": 0.6582934584247734,
+            "profitUSD": 0.4314934584247734
         },
         "profit24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 0.5580268601228521,
-            "profitUSD24": 0.3312268601228521
+            "revenueUSD24": 0.6055642731713903,
+            "profitUSD24": 0.3787642731713903
         },
         "revenue": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.5881983570856799,
-            "profitUSD": 0.3613983570856799
+            "revenueUSD": 0.6582934584247734,
+            "profitUSD": 0.4314934584247734
         },
         "revenue24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 0.5580268601228521,
-            "profitUSD24": 0.3312268601228521
+            "revenueUSD24": 0.6055642731713903,
+            "profitUSD24": 0.3787642731713903
         }
     },
     "a380": {
@@ -2587,26 +2587,26 @@
         "profit": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.2191143998992724,
-            "profitUSD": 0.15191439989927238
+            "revenueUSD": 0.24522607784052322,
+            "profitUSD": 0.1780260778405232
         },
         "profit24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 0.20787497807594732,
-            "profitUSD24": 0.1406749780759473
+            "revenueUSD24": 0.22558351399315496,
+            "profitUSD24": 0.15838351399315495
         },
         "revenue": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD": 0.2191143998992724,
-            "profitUSD": 0.15191439989927238
+            "revenueUSD": 0.24522607784052322,
+            "profitUSD": 0.1780260778405232
         },
         "revenue24": {
             "coin": "CLORE",
             "logo": "440",
-            "revenueUSD24": 0.20787497807594732,
-            "profitUSD24": 0.1406749780759473
+            "revenueUSD24": 0.22558351399315496,
+            "profitUSD24": 0.15838351399315495
         }
     }
 }
