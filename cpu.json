@@ -7,26 +7,26 @@
         "profit": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.0868536188226778,
-            "profitUSD": 0.02565361882267779
+            "revenueUSD": 0.06305315161113528,
+            "profitUSD": 0.0018531516111352786
         },
         "profit24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.07788841595364063,
-            "profitUSD24": 0.016688415953640623
+            "revenueUSD24": 0.07651194889894662,
+            "profitUSD24": 0.015311948898946617
         },
         "revenue": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.0868536188226778,
-            "profitUSD": 0.02565361882267779
+            "revenueUSD": 0.06305315161113528,
+            "profitUSD": 0.0018531516111352786
         },
         "revenue24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.07788841595364063,
-            "profitUSD24": 0.016688415953640623
+            "revenueUSD24": 0.07651194889894662,
+            "profitUSD24": 0.015311948898946617
         }
     },
     "g4400": {
@@ -37,26 +37,26 @@
         "profit": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.03969689940054905,
-            "profitUSD": -0.025103100599450957
+            "revenueUSD": 0.02881877174864772,
+            "profitUSD": -0.03598122825135229
         },
         "profit24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.03559930667819771,
-            "profitUSD24": -0.0292006933218023
+            "revenueUSD24": 0.03497018523295413,
+            "profitUSD24": -0.02982981476704588
         },
         "revenue": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.03969689940054905,
-            "profitUSD": -0.025103100599450957
+            "revenueUSD": 0.02881877174864772,
+            "profitUSD": -0.03598122825135229
         },
         "revenue24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.03559930667819771,
-            "profitUSD24": -0.0292006933218023
+            "revenueUSD24": 0.03497018523295413,
+            "profitUSD24": -0.02982981476704588
         }
     },
     "g3930": {
@@ -67,26 +67,26 @@
         "profit": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.03374680485952716,
-            "profitUSD": -0.02745319514047284
+            "revenueUSD": 0.0244991795626088,
+            "profitUSD": -0.0367008204373912
         },
         "profit24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.030263392701823558,
-            "profitUSD24": -0.030936607298176447
+            "revenueUSD24": 0.029728569101840203,
+            "profitUSD24": -0.031471430898159805
         },
         "revenue": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.03374680485952716,
-            "profitUSD": -0.02745319514047284
+            "revenueUSD": 0.0244991795626088,
+            "profitUSD": -0.0367008204373912
         },
         "revenue24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.030263392701823558,
-            "profitUSD24": -0.030936607298176447
+            "revenueUSD24": 0.029728569101840203,
+            "profitUSD24": -0.031471430898159805
         }
     },
     "bc250cpu": {
@@ -97,26 +97,26 @@
         "profit": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.1900477957878635,
-            "profitUSD": 0.11204779578786347
+            "revenueUSD": 0.1379690638525864,
+            "profitUSD": 0.05996906385258638
         },
         "profit24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.17043068521553267,
-            "profitUSD24": 0.09243068521553266
+            "revenueUSD24": 0.1674187838893106,
+            "profitUSD24": 0.0894187838893106
         },
         "revenue": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.1900477957878635,
-            "profitUSD": 0.11204779578786347
+            "revenueUSD": 0.1379690638525864,
+            "profitUSD": 0.05996906385258638
         },
         "revenue24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.17043068521553267,
-            "profitUSD24": 0.09243068521553266
+            "revenueUSD24": 0.1674187838893106,
+            "profitUSD24": 0.0894187838893106
         }
     },
     "9900k": {
@@ -127,26 +127,26 @@
         "profit": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.7193397877951843,
-            "profitUSD": 0.6053397877951843
+            "revenueUSD": 0.522219353834556,
+            "profitUSD": 0.408219353834556
         },
         "profit24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.6450881075915021,
-            "profitUSD24": 0.5310881075915022
+            "revenueUSD24": 0.633687920328699,
+            "profitUSD24": 0.519687920328699
         },
         "revenue": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.7193397877951843,
-            "profitUSD": 0.6053397877951843
+            "revenueUSD": 0.522219353834556,
+            "profitUSD": 0.408219353834556
         },
         "revenue24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.6450881075915021,
-            "profitUSD24": 0.5310881075915022
+            "revenueUSD24": 0.633687920328699,
+            "profitUSD24": 0.519687920328699
         }
     },
     "9700k": {
@@ -157,26 +157,26 @@
         "profit": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.44403690604641,
-            "profitUSD": 0.33003690604641
+            "revenueUSD": 0.3223576258238,
+            "profitUSD": 0.20835762582380002
         },
         "profit24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.39820253555031,
-            "profitUSD24": 0.28420253555031
+            "revenueUSD24": 0.39116538291895003,
+            "profitUSD24": 0.27716538291895004
         },
         "revenue": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.44403690604641,
-            "profitUSD": 0.33003690604641
+            "revenueUSD": 0.3223576258238,
+            "profitUSD": 0.20835762582380002
         },
         "revenue24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.39820253555031,
-            "profitUSD24": 0.28420253555031
+            "revenueUSD24": 0.39116538291895003,
+            "profitUSD24": 0.27716538291895004
         }
     },
     "9600k": {
@@ -187,26 +187,26 @@
         "profit": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.32947538428643625,
-            "profitUSD": 0.21547538428643626
+            "revenueUSD": 0.2391893583612596,
+            "profitUSD": 0.1251893583612596
         },
         "profit24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.29546628137833,
-            "profitUSD24": 0.18146628137832999
+            "revenueUSD24": 0.2902447141258609,
+            "profitUSD24": 0.1762447141258609
         },
         "revenue": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.32947538428643625,
-            "profitUSD": 0.21547538428643626
+            "revenueUSD": 0.2391893583612596,
+            "profitUSD": 0.1251893583612596
         },
         "revenue24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.29546628137833,
-            "profitUSD24": 0.18146628137832999
+            "revenueUSD24": 0.2902447141258609,
+            "profitUSD24": 0.1762447141258609
         }
     },
     "9354": {
@@ -217,26 +217,26 @@
         "profit": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 3.002044714398569,
-            "profitUSD": 2.666044714398569
+            "revenueUSD": 2.179395436669547,
+            "profitUSD": 1.843395436669547
         },
         "profit24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 2.6921677023485358,
-            "profitUSD24": 2.356167702348536
+            "revenueUSD24": 2.6445909208384375,
+            "profitUSD24": 2.3085909208384376
         },
         "revenue": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 3.002044714398569,
-            "profitUSD": 2.666044714398569
+            "revenueUSD": 2.179395436669547,
+            "profitUSD": 1.843395436669547
         },
         "revenue24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 2.6921677023485358,
-            "profitUSD24": 2.356167702348536
+            "revenueUSD24": 2.6445909208384375,
+            "profitUSD24": 2.3085909208384376
         }
     },
     "8700k": {
@@ -247,26 +247,26 @@
         "profit": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.5141947372017428,
-            "profitUSD": 0.4001947372017428
+            "revenueUSD": 0.3732901307039604,
+            "profitUSD": 0.2592901307039604
         },
         "profit24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.46111853616725895,
-            "profitUSD24": 0.34711853616725896
+            "revenueUSD24": 0.45296951342014413,
+            "profitUSD24": 0.33896951342014414
         },
         "revenue": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.5141947372017428,
-            "profitUSD": 0.4001947372017428
+            "revenueUSD": 0.3732901307039604,
+            "profitUSD": 0.2592901307039604
         },
         "revenue24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.46111853616725895,
-            "profitUSD24": 0.34711853616725896
+            "revenueUSD24": 0.45296951342014413,
+            "profitUSD24": 0.33896951342014414
         }
     },
     "8700g": {
@@ -277,26 +277,26 @@
         "profit": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.5435011730008058,
-            "profitUSD": 0.4559011730008058
+            "revenueUSD": 0.3945657340083312,
+            "profitUSD": 0.3069657340083312
         },
         "profit24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.4873999035135794,
-            "profitUSD24": 0.3997999035135794
+            "revenueUSD24": 0.4787864286927948,
+            "profitUSD24": 0.3911864286927948
         },
         "revenue": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.5435011730008058,
-            "profitUSD": 0.4559011730008058
+            "revenueUSD": 0.3945657340083312,
+            "profitUSD": 0.3069657340083312
         },
         "revenue24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.4873999035135794,
-            "profitUSD24": 0.3997999035135794
+            "revenueUSD24": 0.4787864286927948,
+            "profitUSD24": 0.3911864286927948
         }
     },
     "8600g": {
@@ -307,26 +307,26 @@
         "profit": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.5097543681412787,
-            "profitUSD": 0.4317543681412787
+            "revenueUSD": 0.3700665544457224,
+            "profitUSD": 0.2920665544457224
         },
         "profit24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.4571365108117558,
-            "profitUSD24": 0.3791365108117558
+            "revenueUSD24": 0.4490578595909546,
+            "profitUSD24": 0.3710578595909546
         },
         "revenue": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.5097543681412787,
-            "profitUSD": 0.4317543681412787
+            "revenueUSD": 0.3700665544457224,
+            "profitUSD": 0.2920665544457224
         },
         "revenue24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.4571365108117558,
-            "profitUSD24": 0.3791365108117558
+            "revenueUSD24": 0.4490578595909546,
+            "profitUSD24": 0.3710578595909546
         }
     },
     "8500g": {
@@ -337,26 +337,26 @@
         "profit": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.47867178471803,
-            "profitUSD": 0.42827178471803
+            "revenueUSD": 0.3475015206380564,
+            "profitUSD": 0.2971015206380564
         },
         "profit24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.42926233332323416,
-            "profitUSD24": 0.37886233332323416
+            "revenueUSD24": 0.4216762827866281,
+            "profitUSD24": 0.3712762827866281
         },
         "revenue": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.47867178471803,
-            "profitUSD": 0.42827178471803
+            "revenueUSD": 0.3475015206380564,
+            "profitUSD": 0.2971015206380564
         },
         "revenue24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.42926233332323416,
-            "profitUSD24": 0.37886233332323416
+            "revenueUSD24": 0.4216762827866281,
+            "profitUSD24": 0.3712762827866281
         }
     },
     "8100": {
@@ -367,26 +367,26 @@
         "profit": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.09466866836909461,
-            "profitUSD": 0.0166686683690946
+            "revenueUSD": 0.06872664582563416,
+            "profitUSD": -0.009273354174365853
         },
         "profit24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.08489678057932609,
-            "profitUSD24": 0.006896780579326078
+            "revenueUSD24": 0.08339645963832014,
+            "profitUSD24": 0.005396459638320125
         },
         "revenue": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.09466866836909461,
-            "profitUSD": 0.0166686683690946
+            "revenueUSD": 0.06872664582563416,
+            "profitUSD": -0.009273354174365853
         },
         "revenue24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.08489678057932609,
-            "profitUSD24": 0.006896780579326078
+            "revenueUSD24": 0.08339645963832014,
+            "profitUSD24": 0.005396459638320125
         }
     },
     "7950x3d": {
@@ -397,26 +397,26 @@
         "profit": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 1.998166077208845,
-            "profitUSD": 1.854166077208845
+            "revenueUSD": 1.4506093162071,
+            "profitUSD": 1.3066093162071002
         },
         "profit24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 1.7919114099763949,
-            "profitUSD24": 1.647911409976395
+            "revenueUSD24": 1.760244223135275,
+            "profitUSD24": 1.6162442231352752
         },
         "revenue": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 1.998166077208845,
-            "profitUSD": 1.854166077208845
+            "revenueUSD": 1.4506093162071,
+            "profitUSD": 1.3066093162071002
         },
         "revenue24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 1.7919114099763949,
-            "profitUSD24": 1.647911409976395
+            "revenueUSD24": 1.760244223135275,
+            "profitUSD24": 1.6162442231352752
         }
     },
     "7950x": {
@@ -427,26 +427,26 @@
         "profit": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 1.5884976276904272,
-            "profitUSD": 1.4312976276904272
+            "revenueUSD": 1.153202170622062,
+            "profitUSD": 0.9960021706220621
         },
         "profit24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 1.4245297506776788,
-            "profitUSD24": 1.2673297506776788
+            "revenueUSD24": 1.3993550408542519,
+            "profitUSD24": 1.2421550408542519
         },
         "revenue": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 1.5884976276904272,
-            "profitUSD": 1.4312976276904272
+            "revenueUSD": 1.153202170622062,
+            "profitUSD": 0.9960021706220621
         },
         "revenue24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 1.4245297506776788,
-            "profitUSD24": 1.2673297506776788
+            "revenueUSD24": 1.3993550408542519,
+            "profitUSD24": 1.2421550408542519
         }
     },
     "7900x3d": {
@@ -457,26 +457,26 @@
         "profit": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 1.3578648586899218,
-            "profitUSD": 1.2138648586899219
+            "revenueUSD": 0.9857696197691804,
+            "profitUSD": 0.8417696197691804
         },
         "profit24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 1.2177033537128479,
-            "profitUSD24": 1.073703353712848
+            "revenueUSD24": 1.196183740966149,
+            "profitUSD24": 1.0521837409661492
         },
         "revenue": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 1.3578648586899218,
-            "profitUSD": 1.2138648586899219
+            "revenueUSD": 0.9857696197691804,
+            "profitUSD": 0.8417696197691804
         },
         "revenue24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 1.2177033537128479,
-            "profitUSD24": 1.073703353712848
+            "revenueUSD24": 1.196183740966149,
+            "profitUSD24": 1.0521837409661492
         }
     },
     "7900x": {
@@ -487,26 +487,26 @@
         "profit": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 1.3409914562601581,
-            "profitUSD": 1.1597914562601581
+            "revenueUSD": 0.973520029987876,
+            "profitUSD": 0.792320029987876
         },
         "profit24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 1.202571657361936,
-            "profitUSD24": 1.021371657361936
+            "revenueUSD24": 1.181319456415229,
+            "profitUSD24": 1.000119456415229
         },
         "revenue": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 1.3409914562601581,
-            "profitUSD": 1.1597914562601581
+            "revenueUSD": 0.973520029987876,
+            "profitUSD": 0.792320029987876
         },
         "revenue24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 1.202571657361936,
-            "profitUSD24": 1.021371657361936
+            "revenueUSD24": 1.181319456415229,
+            "profitUSD24": 1.000119456415229
         }
     },
     "7900": {
@@ -517,26 +517,26 @@
         "profit": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 1.33211071813923,
-            "profitUSD": 1.25411071813923
+            "revenueUSD": 0.9670728774714,
+            "profitUSD": 0.8890728774714001
         },
         "profit24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 1.19460760665093,
-            "profitUSD24": 1.1166076066509298
+            "revenueUSD24": 1.17349614875685,
+            "profitUSD24": 1.09549614875685
         },
         "revenue": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 1.33211071813923,
-            "profitUSD": 1.25411071813923
+            "revenueUSD": 0.9670728774714,
+            "profitUSD": 0.8890728774714001
         },
         "revenue24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 1.19460760665093,
-            "profitUSD24": 1.1166076066509298
+            "revenueUSD24": 1.17349614875685,
+            "profitUSD24": 1.09549614875685
         }
     },
     "7800x3d": {
@@ -547,26 +547,26 @@
         "profit": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.903171066898398,
-            "profitUSD": 0.759171066898398
+            "revenueUSD": 0.6556754109256092,
+            "profitUSD": 0.5116754109256092
         },
         "profit24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.8099439573093304,
-            "profitUSD24": 0.6659439573093304
+            "revenueUSD24": 0.7956303888571443,
+            "profitUSD24": 0.6516303888571443
         },
         "revenue": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.903171066898398,
-            "profitUSD": 0.759171066898398
+            "revenueUSD": 0.6556754109256092,
+            "profitUSD": 0.5116754109256092
         },
         "revenue24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.8099439573093304,
-            "profitUSD24": 0.6659439573093304
+            "revenueUSD24": 0.7956303888571443,
+            "profitUSD24": 0.6516303888571443
         }
     },
     "7763": {
@@ -577,26 +577,26 @@
         "profit": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 4.173946916836254,
-            "profitUSD": 3.801946916836254
+            "revenueUSD": 3.03016168274372,
+            "profitUSD": 2.65816168274372
         },
         "profit24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 3.743103834172914,
-            "profitUSD24": 3.371103834172914
+            "revenueUSD24": 3.67695459943813,
+            "profitUSD24": 3.30495459943813
         },
         "revenue": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 4.173946916836254,
-            "profitUSD": 3.801946916836254
+            "revenueUSD": 3.03016168274372,
+            "profitUSD": 2.65816168274372
         },
         "revenue24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 3.743103834172914,
-            "profitUSD24": 3.371103834172914
+            "revenueUSD24": 3.67695459943813,
+            "profitUSD24": 3.30495459943813
         }
     },
     "7742": {
@@ -607,26 +607,26 @@
         "profit": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 3.99633215441769,
-            "profitUSD": 3.72633215441769
+            "revenueUSD": 2.9012186324142,
+            "profitUSD": 2.6312186324142
         },
         "profit24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 3.5838228199527897,
-            "profitUSD24": 3.3138228199527897
+            "revenueUSD24": 3.52048844627055,
+            "profitUSD24": 3.25048844627055
         },
         "revenue": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 3.99633215441769,
-            "profitUSD": 3.72633215441769
+            "revenueUSD": 2.9012186324142,
+            "profitUSD": 2.6312186324142
         },
         "revenue24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 3.5838228199527897,
-            "profitUSD24": 3.3138228199527897
+            "revenueUSD24": 3.52048844627055,
+            "profitUSD24": 3.25048844627055
         }
     },
     "7713": {
@@ -647,26 +647,26 @@
         "profit": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 1.154495955720666,
-            "profitUSD": 1.028495955720666
+            "revenueUSD": 0.83812982714188,
+            "profitUSD": 0.71212982714188
         },
         "profit24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 1.035326592430806,
-            "profitUSD24": 0.9093265924308059
+            "revenueUSD24": 1.01702999558927,
+            "profitUSD24": 0.8910299955892701
         },
         "revenue": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 1.154495955720666,
-            "profitUSD": 1.028495955720666
+            "revenueUSD": 0.83812982714188,
+            "profitUSD": 0.71212982714188
         },
         "revenue24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 1.035326592430806,
-            "profitUSD24": 0.9093265924308059
+            "revenueUSD24": 1.01702999558927,
+            "profitUSD24": 0.8910299955892701
         }
     },
     "7700k": {
@@ -677,26 +677,26 @@
         "profit": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.07015783115533278,
-            "profitUSD": -0.03904216884466724
+            "revenueUSD": 0.0509325048801604,
+            "profitUSD": -0.05826749511983962
         },
         "profit24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.06291600061694898,
-            "profitUSD24": -0.04628399938305104
+            "revenueUSD24": 0.061804130501194106,
+            "profitUSD24": -0.04739586949880591
         },
         "revenue": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.07015783115533278,
-            "profitUSD": -0.03904216884466724
+            "revenueUSD": 0.0509325048801604,
+            "profitUSD": -0.05826749511983962
         },
         "revenue24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.06291600061694898,
-            "profitUSD24": -0.04628399938305104
+            "revenueUSD24": 0.061804130501194106,
+            "profitUSD24": -0.04739586949880591
         }
     },
     "7700": {
@@ -707,26 +707,26 @@
         "profit": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.976881193302102,
-            "profitUSD": 0.8988811933021019
+            "revenueUSD": 0.70918677681236,
+            "profitUSD": 0.63118677681236
         },
         "profit24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.876045578210682,
-            "profitUSD24": 0.7980455782106819
+            "revenueUSD24": 0.86056384242169,
+            "profitUSD24": 0.7825638424216901
         },
         "revenue": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.976881193302102,
-            "profitUSD": 0.8988811933021019
+            "revenueUSD": 0.70918677681236,
+            "profitUSD": 0.63118677681236
         },
         "revenue24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.876045578210682,
-            "profitUSD24": 0.7980455782106819
+            "revenueUSD24": 0.86056384242169,
+            "profitUSD24": 0.7825638424216901
         }
     },
     "7600x": {
@@ -737,26 +737,26 @@
         "profit": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.7317728211644837,
-            "profitUSD": 0.6057728211644837
+            "revenueUSD": 0.5312453673576224,
+            "profitUSD": 0.4052453673576224
         },
         "profit24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.6562377785869108,
-            "profitUSD24": 0.5302377785869108
+            "revenueUSD24": 0.6446405510504296,
+            "profitUSD24": 0.5186405510504296
         },
         "revenue": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.7317728211644837,
-            "profitUSD": 0.6057728211644837
+            "revenueUSD": 0.5312453673576224,
+            "profitUSD": 0.4052453673576224
         },
         "revenue24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.6562377785869108,
-            "profitUSD24": 0.5302377785869108
+            "revenueUSD24": 0.6446405510504296,
+            "profitUSD24": 0.5186405510504296
         }
     },
     "7600": {
@@ -767,26 +767,26 @@
         "profit": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.7317728211644837,
-            "profitUSD": 0.6537728211644838
+            "revenueUSD": 0.5312453673576224,
+            "profitUSD": 0.4532453673576224
         },
         "profit24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.6562377785869108,
-            "profitUSD24": 0.5782377785869108
+            "revenueUSD24": 0.6446405510504296,
+            "profitUSD24": 0.5666405510504295
         },
         "revenue": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.7317728211644837,
-            "profitUSD": 0.6537728211644838
+            "revenueUSD": 0.5312453673576224,
+            "profitUSD": 0.4532453673576224
         },
         "revenue24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.6562377785869108,
-            "profitUSD24": 0.5782377785869108
+            "revenueUSD24": 0.6446405510504296,
+            "profitUSD24": 0.5666405510504295
         }
     },
     "7551": {
@@ -817,26 +817,26 @@
         "profit": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.1820551314790281,
-            "profitUSD": 0.10405513147902809
+            "revenueUSD": 0.132166626587758,
+            "profitUSD": 0.05416662658775798
         },
         "profit24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.1632630395756271,
-            "profitUSD24": 0.08526303957562709
+            "revenueUSD24": 0.1603778069967695,
+            "profitUSD24": 0.0823778069967695
         },
         "revenue": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.1820551314790281,
-            "profitUSD": 0.10405513147902809
+            "revenueUSD": 0.132166626587758,
+            "profitUSD": 0.05416662658775798
         },
         "revenue24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.1632630395756271,
-            "profitUSD24": 0.08526303957562709
+            "revenueUSD24": 0.1603778069967695,
+            "profitUSD24": 0.0823778069967695
         }
     },
     "7453": {
@@ -847,26 +847,26 @@
         "profit": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 1.4031566231066557,
-            "profitUSD": 1.1331566231066557
+            "revenueUSD": 1.018650097603208,
+            "profitUSD": 0.748650097603208
         },
         "profit24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 1.2583200123389795,
-            "profitUSD24": 0.9883200123389795
+            "revenueUSD24": 1.236082610023882,
+            "profitUSD24": 0.966082610023882
         },
         "revenue": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 1.4031566231066557,
-            "profitUSD": 1.1331566231066557
+            "revenueUSD": 1.018650097603208,
+            "profitUSD": 0.748650097603208
         },
         "revenue24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 1.2583200123389795,
-            "profitUSD24": 0.9883200123389795
+            "revenueUSD24": 1.236082610023882,
+            "profitUSD24": 0.966082610023882
         }
     },
     "7300": {
@@ -877,26 +877,26 @@
         "profit": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.05994498231626535,
-            "profitUSD": -0.0012550176837346563
+            "revenueUSD": 0.043518279486213,
+            "profitUSD": -0.017681720513787004
         },
         "profit24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.05375734229929185,
-            "profitUSD24": -0.0074426577007081565
+            "revenueUSD24": 0.05280732669405825,
+            "profitUSD24": -0.008392673305941754
         },
         "revenue": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.05994498231626535,
-            "profitUSD": -0.0012550176837346563
+            "revenueUSD": 0.043518279486213,
+            "profitUSD": -0.017681720513787004
         },
         "revenue24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.05375734229929185,
-            "profitUSD24": -0.0074426577007081565
+            "revenueUSD24": 0.05280732669405825,
+            "profitUSD24": -0.008392673305941754
         }
     },
     "7282": {
@@ -907,26 +907,26 @@
         "profit": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 1.1624886200295015,
-            "profitUSD": 1.0184886200295016
+            "revenueUSD": 0.8439322644067084,
+            "profitUSD": 0.6999322644067084
         },
         "profit24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 1.0424942380707114,
-            "profitUSD24": 0.8984942380707114
+            "revenueUSD24": 1.0240709724818111,
+            "profitUSD24": 0.8800709724818111
         },
         "revenue": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 1.1624886200295015,
-            "profitUSD": 1.0184886200295016
+            "revenueUSD": 0.8439322644067084,
+            "profitUSD": 0.6999322644067084
         },
         "revenue24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 1.0424942380707114,
-            "profitUSD24": 0.8984942380707114
+            "revenueUSD24": 1.0240709724818111,
+            "profitUSD24": 0.8800709724818111
         }
     },
     "6700": {
@@ -937,26 +937,26 @@
         "profit": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.2486606673859896,
-            "profitUSD": 0.1706606673859896
+            "revenueUSD": 0.180520270461328,
+            "profitUSD": 0.10252027046132797
         },
         "profit24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.2229934199081736,
-            "profitUSD24": 0.14499341990817358
+            "revenueUSD24": 0.21905261443461202,
+            "profitUSD24": 0.141052614434612
         },
         "revenue": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.2486606673859896,
-            "profitUSD": 0.1706606673859896
+            "revenueUSD": 0.180520270461328,
+            "profitUSD": 0.10252027046132797
         },
         "revenue24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.2229934199081736,
-            "profitUSD24": 0.14499341990817358
+            "revenueUSD24": 0.21905261443461202,
+            "profitUSD24": 0.141052614434612
         }
     },
     "6400": {
@@ -967,26 +967,26 @@
         "profit": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.19271201722414194,
-            "profitUSD": 0.11471201722414193
+            "revenueUSD": 0.1399032096075292,
+            "profitUSD": 0.06190320960752918
         },
         "profit24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.17281990042883452,
-            "profitUSD24": 0.09481990042883451
+            "revenueUSD24": 0.1697657761868243,
+            "profitUSD24": 0.0917657761868243
         },
         "revenue": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.19271201722414194,
-            "profitUSD": 0.11471201722414193
+            "revenueUSD": 0.1399032096075292,
+            "profitUSD": 0.06190320960752918
         },
         "revenue24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.17281990042883452,
-            "profitUSD24": 0.09481990042883451
+            "revenueUSD24": 0.1697657761868243,
+            "profitUSD24": 0.0917657761868243
         }
     },
     "5950x": {
@@ -997,26 +997,26 @@
         "profit": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 1.77614762418564,
-            "profitUSD": 1.65014762418564
+            "revenueUSD": 1.2894305032952,
+            "profitUSD": 1.1634305032952001
         },
         "profit24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 1.59281014220124,
-            "profitUSD24": 1.4668101422012398
+            "revenueUSD24": 1.5646615316758001,
+            "profitUSD24": 1.4386615316758
         },
         "revenue": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 1.77614762418564,
-            "profitUSD": 1.65014762418564
+            "revenueUSD": 1.2894305032952,
+            "profitUSD": 1.1634305032952001
         },
         "revenue24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 1.59281014220124,
-            "profitUSD24": 1.4668101422012398
+            "revenueUSD24": 1.5646615316758001,
+            "profitUSD24": 1.4386615316758
         }
     },
     "5900x": {
@@ -1027,26 +1027,26 @@
         "profit": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 1.420918099348512,
-            "profitUSD": 1.294918099348512
+            "revenueUSD": 1.03154440263616,
+            "profitUSD": 0.90554440263616
         },
         "profit24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 1.274248113760992,
-            "profitUSD24": 1.148248113760992
+            "revenueUSD24": 1.25172922534064,
+            "profitUSD24": 1.1257292253406401
         },
         "revenue": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 1.420918099348512,
-            "profitUSD": 1.294918099348512
+            "revenueUSD": 1.03154440263616,
+            "profitUSD": 0.90554440263616
         },
         "revenue24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 1.274248113760992,
-            "profitUSD24": 1.148248113760992
+            "revenueUSD24": 1.25172922534064,
+            "profitUSD24": 1.1257292253406401
         }
     },
     "5800x3d": {
@@ -1057,26 +1057,26 @@
         "profit": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.799266430883538,
-            "profitUSD": 0.673266430883538
+            "revenueUSD": 0.58024372648284,
+            "profitUSD": 0.45424372648283995
         },
         "profit24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.716764563990558,
-            "profitUSD24": 0.590764563990558
+            "revenueUSD24": 0.70409768925411,
+            "profitUSD24": 0.57809768925411
         },
         "revenue": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.799266430883538,
-            "profitUSD": 0.673266430883538
+            "revenueUSD": 0.58024372648284,
+            "profitUSD": 0.45424372648283995
         },
         "revenue24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.716764563990558,
-            "profitUSD24": 0.590764563990558
+            "revenueUSD24": 0.70409768925411,
+            "profitUSD24": 0.57809768925411
         }
     },
     "5800x": {
@@ -1087,26 +1087,26 @@
         "profit": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.9857619314230303,
-            "profitUSD": 0.8597619314230303
+            "revenueUSD": 0.715633929328836,
+            "profitUSD": 0.589633929328836
         },
         "profit24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.8840096289216881,
-            "profitUSD24": 0.7580096289216881
+            "revenueUSD24": 0.8683871500800691,
+            "profitUSD24": 0.7423871500800691
         },
         "revenue": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.9857619314230303,
-            "profitUSD": 0.8597619314230303
+            "revenueUSD": 0.715633929328836,
+            "profitUSD": 0.589633929328836
         },
         "revenue24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.8840096289216881,
-            "profitUSD24": 0.7580096289216881
+            "revenueUSD24": 0.8683871500800691,
+            "profitUSD24": 0.7423871500800691
         }
     },
     "5700x": {
@@ -1117,26 +1117,26 @@
         "profit": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.9147160264556046,
-            "profitUSD": 0.8367160264556046
+            "revenueUSD": 0.664056709197028,
+            "profitUSD": 0.5860567091970279
         },
         "profit24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.8202972232336385,
-            "profitUSD24": 0.7422972232336384
+            "revenueUSD24": 0.805800688813037,
+            "profitUSD24": 0.7278006888130371
         },
         "revenue": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.9147160264556046,
-            "profitUSD": 0.8367160264556046
+            "revenueUSD": 0.664056709197028,
+            "profitUSD": 0.5860567091970279
         },
         "revenue24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.8202972232336385,
-            "profitUSD24": 0.7422972232336384
+            "revenueUSD24": 0.805800688813037,
+            "profitUSD24": 0.7278006888130371
         }
     },
     "5700g": {
@@ -1147,26 +1147,26 @@
         "profit": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.33586951573350454,
-            "profitUSD": 0.25786951573350453
+            "revenueUSD": 0.24383130817312232,
+            "profitUSD": 0.1658313081731223
         },
         "profit24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.30120039789025443,
-            "profitUSD24": 0.22320039789025442
+            "revenueUSD24": 0.2958774956398938,
+            "profitUSD24": 0.21787749563989378
         },
         "revenue": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.33586951573350454,
-            "profitUSD": 0.25786951573350453
+            "revenueUSD": 0.24383130817312232,
+            "profitUSD": 0.1658313081731223
         },
         "revenue24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.30120039789025443,
-            "profitUSD24": 0.22320039789025442
+            "revenueUSD24": 0.2958774956398938,
+            "profitUSD24": 0.21787749563989378
         }
     },
     "5600x": {
@@ -1177,26 +1177,26 @@
         "profit": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.4879077523637953,
-            "profitUSD": 0.4099077523637953
+            "revenueUSD": 0.35420655925519146,
+            "profitUSD": 0.27620655925519144
         },
         "profit24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.4375449460626806,
-            "profitUSD24": 0.35954494606268056
+            "revenueUSD24": 0.4298125227513423,
+            "profitUSD24": 0.3518125227513423
         },
         "revenue": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.4879077523637953,
-            "profitUSD": 0.4099077523637953
+            "revenueUSD": 0.35420655925519146,
+            "profitUSD": 0.27620655925519144
         },
         "revenue24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.4375449460626806,
-            "profitUSD24": 0.35954494606268056
+            "revenueUSD24": 0.4298125227513423,
+            "profitUSD24": 0.3518125227513423
         }
     },
     "5600g": {
@@ -1207,26 +1207,26 @@
         "profit": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.46446260372454484,
-            "profitUSD": 0.38646260372454483
+            "revenueUSD": 0.3371860766116948,
+            "profitUSD": 0.2591860766116948
         },
         "profit24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.4165198521856242,
-            "profitUSD24": 0.3385198521856242
+            "revenueUSD24": 0.40915899053322174,
+            "profitUSD24": 0.33115899053322173
         },
         "revenue": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.46446260372454484,
-            "profitUSD": 0.38646260372454483
+            "revenueUSD": 0.3371860766116948,
+            "profitUSD": 0.2591860766116948
         },
         "revenue24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.4165198521856242,
-            "profitUSD24": 0.3385198521856242
+            "revenueUSD24": 0.40915899053322174,
+            "profitUSD24": 0.33115899053322173
         }
     },
     "4790": {
@@ -1237,26 +1237,26 @@
         "profit": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.2397799292650614,
-            "profitUSD": 0.1389799292650614
+            "revenueUSD": 0.174073117944852,
+            "profitUSD": 0.073273117944852
         },
         "profit24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.2150293691971674,
-            "profitUSD24": 0.11422936919716739
+            "revenueUSD24": 0.211229306776233,
+            "profitUSD24": 0.110429306776233
         },
         "revenue": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.2397799292650614,
-            "profitUSD": 0.1389799292650614
+            "revenueUSD": 0.174073117944852,
+            "profitUSD": 0.073273117944852
         },
         "revenue24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.2150293691971674,
-            "profitUSD24": 0.11422936919716739
+            "revenueUSD24": 0.211229306776233,
+            "profitUSD24": 0.110429306776233
         }
     },
     "4460": {
@@ -1267,26 +1267,26 @@
         "profit": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.1554129171162435,
-            "profitUSD": 0.0546129171162435
+            "revenueUSD": 0.11282516903833,
+            "profitUSD": 0.012025169038329994
         },
         "profit24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.13937088744260848,
-            "profitUSD24": 0.038570887442608476
+            "revenueUSD24": 0.1369078840216325,
+            "profitUSD24": 0.03610788402163251
         },
         "revenue": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.1554129171162435,
-            "profitUSD": 0.0546129171162435
+            "revenueUSD": 0.11282516903833,
+            "profitUSD": 0.012025169038329994
         },
         "revenue24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.13937088744260848,
-            "profitUSD24": 0.038570887442608476
+            "revenueUSD24": 0.1369078840216325,
+            "profitUSD24": 0.03610788402163251
         }
     },
     "3950x": {
@@ -1297,26 +1297,26 @@
         "profit": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 1.1456152175997378,
-            "profitUSD": 1.0196152175997377
+            "revenueUSD": 0.831682674625404,
+            "profitUSD": 0.705682674625404
         },
         "profit24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 1.0273625417197998,
-            "profitUSD24": 0.9013625417197998
+            "revenueUSD24": 1.009206687930891,
+            "profitUSD24": 0.883206687930891
         },
         "revenue": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 1.1456152175997378,
-            "profitUSD": 1.0196152175997377
+            "revenueUSD": 0.831682674625404,
+            "profitUSD": 0.705682674625404
         },
         "revenue24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 1.0273625417197998,
-            "profitUSD24": 0.9013625417197998
+            "revenueUSD24": 1.009206687930891,
+            "profitUSD24": 0.883206687930891
         }
     },
     "3900x": {
@@ -1327,26 +1327,26 @@
         "profit": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 1.1189730032369531,
-            "profitUSD": 0.9869730032369531
+            "revenueUSD": 0.812341217075976,
+            "profitUSD": 0.680341217075976
         },
         "profit24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 1.0034703895867811,
-            "profitUSD24": 0.8714703895867811
+            "revenueUSD24": 0.985736764955754,
+            "profitUSD24": 0.853736764955754
         },
         "revenue": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 1.1189730032369531,
-            "profitUSD": 0.9869730032369531
+            "revenueUSD": 0.812341217075976,
+            "profitUSD": 0.680341217075976
         },
         "revenue24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 1.0034703895867811,
-            "profitUSD24": 0.8714703895867811
+            "revenueUSD24": 0.985736764955754,
+            "profitUSD24": 0.853736764955754
         }
     },
     "3770": {
@@ -1357,26 +1357,26 @@
         "profit": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.20692119821762706,
-            "profitUSD": 0.11452119821762705
+            "revenueUSD": 0.1502186536338908,
+            "profitUSD": 0.0578186536338908
         },
         "profit24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.18556238156644445,
-            "profitUSD24": 0.09316238156644444
+            "revenueUSD24": 0.1822830684402307,
+            "profitUSD24": 0.0898830684402307
         },
         "revenue": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.20692119821762706,
-            "profitUSD": 0.11452119821762705
+            "revenueUSD": 0.1502186536338908,
+            "profitUSD": 0.0578186536338908
         },
         "revenue24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.18556238156644445,
-            "profitUSD24": 0.09316238156644444
+            "revenueUSD24": 0.1822830684402307,
+            "profitUSD24": 0.0898830684402307
         }
     },
     "3700x": {
@@ -1387,26 +1387,26 @@
         "profit": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.8703123358509636,
-            "profitUSD": 0.7923123358509636
+            "revenueUSD": 0.631820946614648,
+            "profitUSD": 0.553820946614648
         },
         "profit24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.7804769696786076,
-            "profitUSD24": 0.7024769696786075
+            "revenueUSD24": 0.766684150521142,
+            "profitUSD24": 0.6886841505211421
         },
         "revenue": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.8703123358509636,
-            "profitUSD": 0.7923123358509636
+            "revenueUSD": 0.631820946614648,
+            "profitUSD": 0.553820946614648
         },
         "revenue24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.7804769696786076,
-            "profitUSD24": 0.7024769696786075
+            "revenueUSD24": 0.766684150521142,
+            "profitUSD24": 0.6886841505211421
         }
     },
     "3600x": {
@@ -1417,26 +1417,26 @@
         "profit": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.7193397877951843,
-            "profitUSD": 0.6053397877951843
+            "revenueUSD": 0.522219353834556,
+            "profitUSD": 0.408219353834556
         },
         "profit24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.6450881075915021,
-            "profitUSD24": 0.5310881075915022
+            "revenueUSD24": 0.633687920328699,
+            "profitUSD24": 0.519687920328699
         },
         "revenue": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.7193397877951843,
-            "profitUSD": 0.6053397877951843
+            "revenueUSD": 0.522219353834556,
+            "profitUSD": 0.408219353834556
         },
         "revenue24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.6450881075915021,
-            "profitUSD24": 0.5310881075915022
+            "revenueUSD24": 0.633687920328699,
+            "profitUSD24": 0.519687920328699
         }
     },
     "3600": {
@@ -1447,26 +1447,26 @@
         "profit": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.710459049674256,
-            "profitUSD": 0.6324590496742559
+            "revenueUSD": 0.51577220131808,
+            "profitUSD": 0.43777220131808
         },
         "profit24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.637124056880496,
-            "profitUSD24": 0.559124056880496
+            "revenueUSD24": 0.62586461267032,
+            "profitUSD24": 0.5478646126703199
         },
         "revenue": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.710459049674256,
-            "profitUSD": 0.6324590496742559
+            "revenueUSD": 0.51577220131808,
+            "profitUSD": 0.43777220131808
         },
         "revenue24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.637124056880496,
-            "profitUSD24": 0.559124056880496
+            "revenueUSD24": 0.62586461267032,
+            "profitUSD24": 0.5478646126703199
         }
     },
     "3450": {
@@ -1477,26 +1477,26 @@
         "profit": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.13587529325020145,
-            "profitUSD": 0.04347529325020144
+            "revenueUSD": 0.0986414335020828,
+            "profitUSD": 0.006241433502082797
         },
         "profit24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.12184997587839486,
-            "profitUSD24": 0.029449975878394846
+            "revenueUSD24": 0.1196966071731987,
+            "profitUSD24": 0.027296607173198692
         },
         "revenue": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.13587529325020145,
-            "profitUSD": 0.04347529325020144
+            "revenueUSD": 0.0986414335020828,
+            "profitUSD": 0.006241433502082797
         },
         "revenue24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.12184997587839486,
-            "profitUSD24": 0.029449975878394846
+            "revenueUSD24": 0.1196966071731987,
+            "profitUSD24": 0.027296607173198692
         }
     },
     "3240": {
@@ -1507,26 +1507,26 @@
         "profit": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.0488440596651051,
-            "profitUSD": -0.017155940334894905
+            "revenueUSD": 0.035459338840618,
+            "profitUSD": -0.030540661159382004
         },
         "profit24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.0438022789105341,
-            "profitUSD24": -0.022197721089465904
+            "revenueUSD24": 0.0430281921210845,
+            "profitUSD24": -0.0229718078789155
         },
         "revenue": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.0488440596651051,
-            "profitUSD": -0.017155940334894905
+            "revenueUSD": 0.035459338840618,
+            "profitUSD": -0.030540661159382004
         },
         "revenue24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.0438022789105341,
-            "profitUSD24": -0.022197721089465904
+            "revenueUSD24": 0.0430281921210845,
+            "profitUSD24": -0.0229718078789155
         }
     },
     "2600s": {
@@ -1537,26 +1537,26 @@
         "profit": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.15763310164647557,
-            "profitUSD": 0.07963310164647555
+            "revenueUSD": 0.114436957167449,
+            "profitUSD": 0.03643695716744899
         },
         "profit24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.14136190012036004,
-            "profitUSD24": 0.06336190012036003
+            "revenueUSD24": 0.13886371093622726,
+            "profitUSD24": 0.06086371093622725
         },
         "revenue": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.15763310164647557,
-            "profitUSD": 0.07963310164647555
+            "revenueUSD": 0.114436957167449,
+            "profitUSD": 0.03643695716744899
         },
         "revenue24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.14136190012036004,
-            "profitUSD24": 0.06336190012036003
+            "revenueUSD24": 0.13886371093622726,
+            "profitUSD24": 0.06086371093622725
         }
     },
     "2400": {
@@ -1567,26 +1567,26 @@
         "profit": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.13054685037764455,
-            "profitUSD": 0.016546850377644556
+            "revenueUSD": 0.0947731419921972,
+            "profitUSD": -0.019226858007802786
         },
         "profit24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.11707154545179113,
-            "profitUSD24": 0.003071545451791141
+            "revenueUSD24": 0.1150026225781713,
+            "profitUSD24": 0.001002622578171311
         },
         "revenue": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.13054685037764455,
-            "profitUSD": 0.016546850377644556
+            "revenueUSD": 0.0947731419921972,
+            "profitUSD": -0.019226858007802786
         },
         "revenue24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.11707154545179113,
-            "profitUSD24": 0.003071545451791141
+            "revenueUSD24": 0.1150026225781713,
+            "profitUSD24": 0.001002622578171311
         }
     },
     "1600": {
@@ -1597,26 +1597,26 @@
         "profit": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.47067912040919463,
-            "profitUSD": 0.3926791204091946
+            "revenueUSD": 0.341699083373228,
+            "profitUSD": 0.263699083373228
         },
         "profit24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.4220946876833286,
-            "profitUSD24": 0.34409468768332857
+            "revenueUSD24": 0.41463530589408704,
+            "profitUSD24": 0.336635305894087
         },
         "revenue": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.47067912040919463,
-            "profitUSD": 0.3926791204091946
+            "revenueUSD": 0.341699083373228,
+            "profitUSD": 0.263699083373228
         },
         "revenue24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.4220946876833286,
-            "profitUSD24": 0.34409468768332857
+            "revenueUSD24": 0.41463530589408704,
+            "profitUSD24": 0.336635305894087
         }
     },
     "13900k": {
@@ -1627,26 +1627,26 @@
         "profit": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 1.1971234987011214,
-            "profitUSD": 1.0471234987011213
+            "revenueUSD": 0.8690761592209648,
+            "profitUSD": 0.7190761592209648
         },
         "profit24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 1.0735540358436357,
-            "profitUSD24": 0.9235540358436357
+            "revenueUSD24": 1.0545818723494893,
+            "profitUSD24": 0.9045818723494893
         },
         "revenue": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 1.1971234987011214,
-            "profitUSD": 1.0471234987011213
+            "revenueUSD": 0.8690761592209648,
+            "profitUSD": 0.7190761592209648
         },
         "revenue24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 1.0735540358436357,
-            "profitUSD24": 0.9235540358436357
+            "revenueUSD24": 1.0545818723494893,
+            "profitUSD24": 0.9045818723494893
         }
     },
     "12900k": {
@@ -1657,26 +1657,26 @@
         "profit": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 1.0301656220276711,
-            "profitUSD": 0.8801656220276711
+            "revenueUSD": 0.747869691911216,
+            "profitUSD": 0.597869691911216
         },
         "profit24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.9238298824767192,
-            "profitUSD24": 0.7738298824767191
+            "revenueUSD24": 0.907503688371964,
+            "profitUSD24": 0.757503688371964
         },
         "revenue": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 1.0301656220276711,
-            "profitUSD": 0.8801656220276711
+            "revenueUSD": 0.747869691911216,
+            "profitUSD": 0.597869691911216
         },
         "revenue24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.9238298824767192,
-            "profitUSD24": 0.7738298824767191
+            "revenueUSD24": 0.907503688371964,
+            "profitUSD24": 0.757503688371964
         }
     },
     "12700": {
@@ -1687,26 +1687,26 @@
         "profit": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.4671268251608233,
-            "profitUSD": 0.3891268251608233
+            "revenueUSD": 0.3391202223666376,
+            "profitUSD": 0.26112022236663757
         },
         "profit24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.4189090673989261,
-            "profitUSD24": 0.34090906739892607
+            "revenueUSD24": 0.4115059828307354,
+            "profitUSD24": 0.3335059828307354
         },
         "revenue": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.4671268251608233,
-            "profitUSD": 0.3891268251608233
+            "revenueUSD": 0.3391202223666376,
+            "profitUSD": 0.26112022236663757
         },
         "revenue24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.4189090673989261,
-            "profitUSD24": 0.34090906739892607
+            "revenueUSD24": 0.4115059828307354,
+            "profitUSD24": 0.3335059828307354
         }
     },
     "11400": {
@@ -1717,26 +1717,26 @@
         "profit": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.42893965124083205,
-            "profitUSD": 0.35093965124083204
+            "revenueUSD": 0.3113974665457908,
+            "profitUSD": 0.2333974665457908
         },
         "profit24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.3846636493415994,
-            "profitUSD24": 0.3066636493415994
+            "revenueUSD24": 0.3778657598997057,
+            "profitUSD24": 0.2998657598997057
         },
         "revenue": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.42893965124083205,
-            "profitUSD": 0.35093965124083204
+            "revenueUSD": 0.3113974665457908,
+            "profitUSD": 0.2333974665457908
         },
         "revenue24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.3846636493415994,
-            "profitUSD24": 0.3066636493415994
+            "revenueUSD24": 0.3778657598997057,
+            "profitUSD24": 0.2998657598997057
         }
     },
     "10900k": {
@@ -1747,26 +1747,26 @@
         "profit": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.88807381209282,
-            "profitUSD": 0.73807381209282
+            "revenueUSD": 0.6447152516476,
+            "profitUSD": 0.4947152516476
         },
         "profit24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.79640507110062,
-            "profitUSD24": 0.64640507110062
+            "revenueUSD24": 0.7823307658379001,
+            "profitUSD24": 0.6323307658379
         },
         "revenue": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.88807381209282,
-            "profitUSD": 0.73807381209282
+            "revenueUSD": 0.6447152516476,
+            "profitUSD": 0.4947152516476
         },
         "revenue24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.79640507110062,
-            "profitUSD24": 0.64640507110062
+            "revenueUSD24": 0.7823307658379001,
+            "profitUSD24": 0.6323307658379
         }
     },
     "10870h": {
@@ -1777,26 +1777,26 @@
         "profit": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.46535067753663767,
-            "profitUSD": 0.4113506775366377
+            "revenueUSD": 0.3378307918633424,
+            "profitUSD": 0.2838307918633424
         },
         "profit24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.41731625725672483,
-            "profitUSD24": 0.36331625725672484
+            "revenueUSD24": 0.40994132129905964,
+            "profitUSD24": 0.35594132129905964
         },
         "revenue": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.46535067753663767,
-            "profitUSD": 0.4113506775366377
+            "revenueUSD": 0.3378307918633424,
+            "profitUSD": 0.2838307918633424
         },
         "revenue24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.41731625725672483,
-            "profitUSD24": 0.36331625725672484
+            "revenueUSD24": 0.40994132129905964,
+            "profitUSD24": 0.35594132129905964
         }
     },
     "10700k": {
@@ -1807,26 +1807,26 @@
         "profit": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.4973213347719792,
-            "profitUSD": 0.3473213347719792
+            "revenueUSD": 0.361040540922656,
+            "profitUSD": 0.21104054092265595
         },
         "profit24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.4459868398163472,
-            "profitUSD24": 0.29598683981634716
+            "revenueUSD24": 0.43810522886922404,
+            "profitUSD24": 0.288105228869224
         },
         "revenue": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.4973213347719792,
-            "profitUSD": 0.3473213347719792
+            "revenueUSD": 0.361040540922656,
+            "profitUSD": 0.21104054092265595
         },
         "revenue24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.4459868398163472,
-            "profitUSD24": 0.29598683981634716
+            "revenueUSD24": 0.43810522886922404,
+            "profitUSD24": 0.288105228869224
         }
     },
     "10700": {
@@ -1837,26 +1837,26 @@
         "profit": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.5470534682491771,
-            "profitUSD": 0.4690534682491771
+            "revenueUSD": 0.3971445950149216,
+            "profitUSD": 0.3191445950149216
         },
         "profit24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.49058552379798187,
-            "profitUSD24": 0.41258552379798186
+            "revenueUSD24": 0.4819157517561464,
+            "profitUSD24": 0.4039157517561464
         },
         "revenue": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.5470534682491771,
-            "profitUSD": 0.4690534682491771
+            "revenueUSD": 0.3971445950149216,
+            "profitUSD": 0.3191445950149216
         },
         "revenue24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.49058552379798187,
-            "profitUSD24": 0.41258552379798186
+            "revenueUSD24": 0.4819157517561464,
+            "profitUSD24": 0.4039157517561464
         }
     },
     "10600k": {
@@ -1867,26 +1867,26 @@
         "profit": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.5008736300203505,
-            "profitUSD": 0.35087363002035044
+            "revenueUSD": 0.3636194019292464,
+            "profitUSD": 0.2136194019292464
         },
         "profit24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.4491724601007496,
-            "profitUSD24": 0.2991724601007496
+            "revenueUSD24": 0.4412345519325756,
+            "profitUSD24": 0.2912345519325756
         },
         "revenue": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.5008736300203505,
-            "profitUSD": 0.35087363002035044
+            "revenueUSD": 0.3636194019292464,
+            "profitUSD": 0.2136194019292464
         },
         "revenue24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.4491724601007496,
-            "profitUSD24": 0.2991724601007496
+            "revenueUSD24": 0.4412345519325756,
+            "profitUSD24": 0.2912345519325756
         }
     },
     "10310u": {
@@ -1897,26 +1897,26 @@
         "profit": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.16340558142507888,
-            "profitUSD": 0.13340558142507888
+            "revenueUSD": 0.1186276063031584,
+            "profitUSD": 0.0886276063031584
         },
         "profit24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.14653853308251408,
-            "profitUSD24": 0.11653853308251408
+            "revenueUSD24": 0.1439488609141736,
+            "profitUSD24": 0.11394886091417361
         },
         "revenue": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.16340558142507888,
-            "profitUSD": 0.13340558142507888
+            "revenueUSD": 0.1186276063031584,
+            "profitUSD": 0.0886276063031584
         },
         "revenue24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.14653853308251408,
-            "profitUSD24": 0.11653853308251408
+            "revenueUSD24": 0.1439488609141736,
+            "profitUSD24": 0.11394886091417361
         }
     },
     "10100": {
@@ -1927,26 +1927,26 @@
         "profit": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.12255418606880916,
-            "profitUSD": 0.04455418606880915
+            "revenueUSD": 0.0889707047273688,
+            "profitUSD": 0.010970704727368788
         },
         "profit24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.10990389981188556,
-            "profitUSD24": 0.031903899811885544
+            "revenueUSD24": 0.1079616456856302,
+            "profitUSD24": 0.029961645685630187
         },
         "revenue": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD": 0.12255418606880916,
-            "profitUSD": 0.04455418606880915
+            "revenueUSD": 0.0889707047273688,
+            "profitUSD": 0.010970704727368788
         },
         "revenue24": {
             "coin": "ZEPH",
             "logo": "428",
-            "revenueUSD24": 0.10990389981188556,
-            "profitUSD24": 0.031903899811885544
+            "revenueUSD24": 0.1079616456856302,
+            "profitUSD24": 0.029961645685630187
         }
     }
 }
